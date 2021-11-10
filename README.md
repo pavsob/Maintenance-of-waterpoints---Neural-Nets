@@ -6,3 +6,5 @@ Access to safe water is one of the most critical necessities and a very basic hu
 This project investigates building a neural network that detects the water pumps that need to be repaired.
 
 It was separated into four tasks. The first starts with a very simple setting where we only consider numeric input features and with balanced data (Task 1). In Task 2, all provided input features were considered (but still with balanced data). Task 3 and Task 4 investigated and solved issues with imbalanced data.
+
+You can read more in the report.
