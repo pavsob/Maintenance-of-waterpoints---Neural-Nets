@@ -1,0 +1,12 @@
+,amount_tsh,funder,gps_height,installer,longitude,latitude,basin,subvillage,region,region_code,district_code,lga,ward,population,public_meeting,scheme_management,permit,construction_year,extraction_type,extraction_type_group,extraction_type_class,management,management_group,payment,payment_type,water_quality,quality_group,quantity,quantity_group,source,source_type,source_class,waterpoint_type,waterpoint_type_group,status_group
+count,6907.0,6340,6907.0,6337,6907.0,6907.0,6907,6880,6907,6907.0,6907.0,6907,6907,6907.0,6600,6503,6502,6907.0,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907,6907
+unique,,618,,648,,,9,4460,21,,,124,1584,,2,11,2,54.0,17,13,7,12,5,7,7,7,6,5,5,10,7,3,7,6,2
+top,,Government Of Tanzania,,DWE,,,Lake Victoria,Shuleni,Shinyanga,,,Bariadi,Mahembe,,True,VWC,True,0.0,gravity,gravity,gravity,vwc,user-group,never pay,never pay,soft,good,enough,enough,spring,spring,groundwater,communal standpipe,communal standpipe,others
+freq,,1094,,2252,,,1349,84,732,,,353,50,,5965,4092,4443,2607.0,3680,3680,3680,4700,6210,3076,3076,6076,6076,3844,3844,2065,2065,4917,3464,4313,3466
+mean,326.29303605038365,,649.1269726364558,,32.88793449109602,-5.4669010327523075,,,,15.584334732879688,5.420153467496743,,,178.67656001158244,,,,,,,,,,,,,,,,,,,,,
+std,3831.6817418189194,,673.3721409469374,,8.362591058174534,3.012454230381671,,,,17.510534767205083,9.293838242851633,,,433.05323948656394,,,,,,,,,,,,,,,,,,,,,
+min,0.0,,-54.0,,0.0,-11.64944018,,,,1.0,0.0,,,0.0,,,,,,,,,,,,,,,,,,,,,
+25%,0.0,,0.0,,32.15475223,-8.33581288,,,,5.0,2.0,,,0.0,,,,,,,,,,,,,,,,,,,,,
+50%,0.0,,378.0,,34.5930165,-4.75444144,,,,13.0,3.0,,,30.0,,,,,,,,,,,,,,,,,,,,,
+75%,25.0,,1286.0,,36.955190735,-3.272597625,,,,17.0,5.0,,,238.0,,,,,,,,,,,,,,,,,,,,,
+max,250000.0,,2585.0,,40.32280453,-2e-08,,,,99.0,80.0,,,15300.0,,,,,,,,,,,,,,,,,,,,,

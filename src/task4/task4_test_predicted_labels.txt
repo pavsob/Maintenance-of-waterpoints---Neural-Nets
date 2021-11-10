@@ -1,0 +1,11881 @@
+	Status_group
+0	others
+1	others
+2	others
+3	others
+4	others
+5	functional needs repair
+6	others
+7	others
+8	others
+9	functional needs repair
+10	others
+11	others
+12	others
+13	others
+14	others
+15	others
+16	others
+17	others
+18	others
+19	others
+20	others
+21	others
+22	others
+23	others
+24	others
+25	others
+26	others
+27	others
+28	others
+29	others
+30	others
+31	others
+32	others
+33	others
+34	others
+35	others
+36	functional needs repair
+37	others
+38	others
+39	others
+40	others
+41	others
+42	others
+43	others
+44	others
+45	others
+46	others
+47	others
+48	others
+49	others
+50	others
+51	functional needs repair
+52	others
+53	functional needs repair
+54	others
+55	others
+56	functional needs repair
+57	others
+58	others
+59	others
+60	others
+61	others
+62	others
+63	others
+64	others
+65	others
+66	others
+67	functional needs repair
+68	functional needs repair
+69	others
+70	others
+71	others
+72	others
+73	others
+74	others
+75	functional needs repair
+76	others
+77	others
+78	functional needs repair
+79	others
+80	others
+81	others
+82	others
+83	others
+84	others
+85	others
+86	others
+87	others
+88	others
+89	functional needs repair
+90	others
+91	others
+92	others
+93	others
+94	others
+95	others
+96	functional needs repair
+97	others
+98	others
+99	functional needs repair
+100	others
+101	others
+102	others
+103	functional needs repair
+104	others
+105	others
+106	others
+107	others
+108	functional needs repair
+109	others
+110	functional needs repair
+111	others
+112	others
+113	others
+114	functional needs repair
+115	others
+116	others
+117	others
+118	others
+119	functional needs repair
+120	others
+121	others
+122	others
+123	functional needs repair
+124	others
+125	others
+126	others
+127	others
+128	others
+129	functional needs repair
+130	functional needs repair
+131	others
+132	others
+133	others
+134	functional needs repair
+135	others
+136	others
+137	others
+138	others
+139	others
+140	others
+141	others
+142	others
+143	others
+144	others
+145	others
+146	functional needs repair
+147	others
+148	functional needs repair
+149	others
+150	others
+151	others
+152	others
+153	others
+154	others
+155	others
+156	functional needs repair
+157	others
+158	others
+159	others
+160	others
+161	others
+162	others
+163	others
+164	others
+165	others
+166	others
+167	others
+168	others
+169	others
+170	others
+171	others
+172	others
+173	others
+174	others
+175	others
+176	others
+177	others
+178	others
+179	others
+180	others
+181	others
+182	others
+183	functional needs repair
+184	others
+185	others
+186	others
+187	others
+188	functional needs repair
+189	others
+190	others
+191	functional needs repair
+192	others
+193	others
+194	others
+195	others
+196	others
+197	others
+198	functional needs repair
+199	others
+200	others
+201	others
+202	others
+203	others
+204	others
+205	others
+206	others
+207	others
+208	others
+209	functional needs repair
+210	functional needs repair
+211	functional needs repair
+212	others
+213	others
+214	others
+215	others
+216	others
+217	others
+218	others
+219	functional needs repair
+220	others
+221	others
+222	others
+223	others
+224	others
+225	others
+226	others
+227	others
+228	others
+229	others
+230	functional needs repair
+231	others
+232	others
+233	functional needs repair
+234	others
+235	others
+236	others
+237	others
+238	others
+239	others
+240	others
+241	others
+242	others
+243	others
+244	others
+245	others
+246	others
+247	others
+248	others
+249	others
+250	functional needs repair
+251	others
+252	others
+253	others
+254	others
+255	others
+256	others
+257	others
+258	others
+259	others
+260	others
+261	others
+262	others
+263	others
+264	others
+265	others
+266	others
+267	others
+268	others
+269	others
+270	others
+271	others
+272	others
+273	others
+274	others
+275	functional needs repair
+276	others
+277	others
+278	others
+279	others
+280	others
+281	others
+282	others
+283	others
+284	others
+285	others
+286	others
+287	others
+288	functional needs repair
+289	functional needs repair
+290	others
+291	others
+292	functional needs repair
+293	others
+294	others
+295	others
+296	others
+297	others
+298	others
+299	others
+300	others
+301	others
+302	others
+303	others
+304	others
+305	others
+306	others
+307	others
+308	others
+309	functional needs repair
+310	functional needs repair
+311	functional needs repair
+312	others
+313	others
+314	others
+315	others
+316	others
+317	others
+318	functional needs repair
+319	functional needs repair
+320	functional needs repair
+321	others
+322	others
+323	others
+324	others
+325	others
+326	others
+327	others
+328	others
+329	functional needs repair
+330	others
+331	others
+332	others
+333	others
+334	others
+335	functional needs repair
+336	others
+337	others
+338	others
+339	others
+340	others
+341	functional needs repair
+342	others
+343	others
+344	functional needs repair
+345	others
+346	others
+347	others
+348	others
+349	functional needs repair
+350	others
+351	others
+352	others
+353	functional needs repair
+354	others
+355	functional needs repair
+356	others
+357	others
+358	others
+359	functional needs repair
+360	others
+361	others
+362	others
+363	others
+364	others
+365	others
+366	others
+367	others
+368	others
+369	others
+370	others
+371	others
+372	others
+373	others
+374	others
+375	others
+376	others
+377	others
+378	functional needs repair
+379	others
+380	others
+381	others
+382	others
+383	functional needs repair
+384	others
+385	others
+386	functional needs repair
+387	others
+388	others
+389	others
+390	others
+391	others
+392	others
+393	functional needs repair
+394	others
+395	others
+396	others
+397	others
+398	others
+399	functional needs repair
+400	others
+401	others
+402	others
+403	others
+404	others
+405	others
+406	others
+407	others
+408	functional needs repair
+409	others
+410	others
+411	others
+412	others
+413	others
+414	functional needs repair
+415	functional needs repair
+416	others
+417	functional needs repair
+418	others
+419	others
+420	others
+421	others
+422	others
+423	others
+424	others
+425	others
+426	others
+427	others
+428	functional needs repair
+429	others
+430	others
+431	others
+432	others
+433	others
+434	others
+435	others
+436	others
+437	others
+438	others
+439	others
+440	others
+441	others
+442	others
+443	others
+444	functional needs repair
+445	others
+446	functional needs repair
+447	others
+448	others
+449	others
+450	others
+451	others
+452	others
+453	others
+454	others
+455	others
+456	others
+457	others
+458	functional needs repair
+459	others
+460	others
+461	others
+462	others
+463	functional needs repair
+464	others
+465	others
+466	others
+467	functional needs repair
+468	others
+469	others
+470	others
+471	others
+472	functional needs repair
+473	others
+474	others
+475	others
+476	others
+477	others
+478	others
+479	others
+480	others
+481	others
+482	functional needs repair
+483	others
+484	others
+485	others
+486	others
+487	others
+488	others
+489	functional needs repair
+490	functional needs repair
+491	others
+492	others
+493	functional needs repair
+494	others
+495	others
+496	functional needs repair
+497	functional needs repair
+498	others
+499	functional needs repair
+500	others
+501	others
+502	others
+503	functional needs repair
+504	others
+505	others
+506	others
+507	others
+508	others
+509	functional needs repair
+510	others
+511	others
+512	others
+513	others
+514	functional needs repair
+515	others
+516	others
+517	others
+518	others
+519	others
+520	others
+521	others
+522	others
+523	others
+524	functional needs repair
+525	others
+526	others
+527	others
+528	others
+529	others
+530	others
+531	others
+532	others
+533	functional needs repair
+534	others
+535	functional needs repair
+536	others
+537	functional needs repair
+538	others
+539	others
+540	others
+541	others
+542	others
+543	others
+544	others
+545	others
+546	others
+547	functional needs repair
+548	others
+549	others
+550	others
+551	functional needs repair
+552	functional needs repair
+553	others
+554	others
+555	others
+556	functional needs repair
+557	others
+558	functional needs repair
+559	others
+560	functional needs repair
+561	others
+562	functional needs repair
+563	others
+564	others
+565	functional needs repair
+566	others
+567	others
+568	others
+569	others
+570	others
+571	functional needs repair
+572	others
+573	others
+574	others
+575	others
+576	functional needs repair
+577	functional needs repair
+578	others
+579	others
+580	others
+581	others
+582	others
+583	others
+584	others
+585	functional needs repair
+586	others
+587	others
+588	functional needs repair
+589	others
+590	others
+591	others
+592	others
+593	others
+594	functional needs repair
+595	others
+596	functional needs repair
+597	functional needs repair
+598	others
+599	others
+600	others
+601	others
+602	others
+603	others
+604	others
+605	others
+606	others
+607	others
+608	functional needs repair
+609	others
+610	others
+611	others
+612	others
+613	functional needs repair
+614	others
+615	functional needs repair
+616	others
+617	functional needs repair
+618	others
+619	others
+620	functional needs repair
+621	others
+622	others
+623	others
+624	others
+625	others
+626	others
+627	others
+628	functional needs repair
+629	others
+630	others
+631	others
+632	others
+633	others
+634	others
+635	others
+636	others
+637	others
+638	others
+639	others
+640	others
+641	others
+642	others
+643	others
+644	others
+645	others
+646	others
+647	others
+648	others
+649	others
+650	others
+651	others
+652	others
+653	others
+654	others
+655	others
+656	functional needs repair
+657	others
+658	others
+659	others
+660	functional needs repair
+661	others
+662	others
+663	others
+664	others
+665	others
+666	others
+667	others
+668	others
+669	others
+670	functional needs repair
+671	functional needs repair
+672	others
+673	others
+674	others
+675	others
+676	others
+677	others
+678	others
+679	others
+680	functional needs repair
+681	others
+682	functional needs repair
+683	others
+684	others
+685	others
+686	others
+687	others
+688	others
+689	others
+690	others
+691	others
+692	functional needs repair
+693	functional needs repair
+694	others
+695	others
+696	others
+697	others
+698	others
+699	functional needs repair
+700	functional needs repair
+701	others
+702	others
+703	others
+704	others
+705	others
+706	others
+707	others
+708	others
+709	others
+710	others
+711	others
+712	others
+713	others
+714	others
+715	others
+716	others
+717	functional needs repair
+718	others
+719	others
+720	functional needs repair
+721	others
+722	others
+723	others
+724	others
+725	others
+726	others
+727	others
+728	others
+729	others
+730	others
+731	functional needs repair
+732	others
+733	others
+734	others
+735	others
+736	functional needs repair
+737	others
+738	functional needs repair
+739	others
+740	functional needs repair
+741	others
+742	others
+743	others
+744	others
+745	others
+746	others
+747	others
+748	others
+749	others
+750	others
+751	others
+752	others
+753	others
+754	functional needs repair
+755	others
+756	functional needs repair
+757	others
+758	functional needs repair
+759	others
+760	others
+761	functional needs repair
+762	others
+763	others
+764	functional needs repair
+765	others
+766	others
+767	others
+768	functional needs repair
+769	others
+770	others
+771	functional needs repair
+772	others
+773	functional needs repair
+774	others
+775	others
+776	others
+777	others
+778	others
+779	others
+780	others
+781	others
+782	others
+783	others
+784	others
+785	others
+786	others
+787	others
+788	functional needs repair
+789	others
+790	functional needs repair
+791	others
+792	others
+793	others
+794	others
+795	others
+796	functional needs repair
+797	others
+798	others
+799	others
+800	others
+801	others
+802	others
+803	others
+804	others
+805	others
+806	others
+807	others
+808	others
+809	others
+810	others
+811	others
+812	others
+813	others
+814	others
+815	others
+816	others
+817	others
+818	others
+819	others
+820	others
+821	others
+822	functional needs repair
+823	others
+824	others
+825	others
+826	others
+827	others
+828	others
+829	others
+830	others
+831	others
+832	functional needs repair
+833	functional needs repair
+834	others
+835	others
+836	others
+837	others
+838	others
+839	others
+840	others
+841	functional needs repair
+842	others
+843	functional needs repair
+844	others
+845	others
+846	others
+847	functional needs repair
+848	others
+849	others
+850	functional needs repair
+851	others
+852	others
+853	others
+854	others
+855	functional needs repair
+856	others
+857	functional needs repair
+858	functional needs repair
+859	others
+860	others
+861	others
+862	others
+863	others
+864	others
+865	others
+866	others
+867	others
+868	others
+869	others
+870	others
+871	others
+872	others
+873	others
+874	functional needs repair
+875	others
+876	others
+877	others
+878	others
+879	others
+880	others
+881	others
+882	others
+883	others
+884	others
+885	others
+886	others
+887	others
+888	others
+889	others
+890	functional needs repair
+891	functional needs repair
+892	others
+893	others
+894	functional needs repair
+895	functional needs repair
+896	others
+897	others
+898	others
+899	others
+900	functional needs repair
+901	others
+902	others
+903	others
+904	others
+905	others
+906	others
+907	others
+908	others
+909	others
+910	others
+911	others
+912	others
+913	functional needs repair
+914	others
+915	others
+916	others
+917	others
+918	others
+919	others
+920	others
+921	others
+922	others
+923	others
+924	others
+925	others
+926	others
+927	others
+928	others
+929	others
+930	others
+931	others
+932	others
+933	functional needs repair
+934	functional needs repair
+935	functional needs repair
+936	others
+937	others
+938	others
+939	others
+940	others
+941	others
+942	others
+943	others
+944	functional needs repair
+945	others
+946	others
+947	others
+948	others
+949	others
+950	others
+951	functional needs repair
+952	others
+953	others
+954	functional needs repair
+955	functional needs repair
+956	others
+957	others
+958	others
+959	others
+960	others
+961	functional needs repair
+962	others
+963	others
+964	others
+965	others
+966	others
+967	others
+968	others
+969	others
+970	others
+971	others
+972	others
+973	others
+974	others
+975	others
+976	others
+977	others
+978	others
+979	others
+980	others
+981	others
+982	others
+983	functional needs repair
+984	functional needs repair
+985	functional needs repair
+986	others
+987	others
+988	others
+989	others
+990	others
+991	others
+992	others
+993	others
+994	others
+995	others
+996	functional needs repair
+997	others
+998	others
+999	others
+1000	others
+1001	others
+1002	others
+1003	functional needs repair
+1004	others
+1005	functional needs repair
+1006	others
+1007	others
+1008	others
+1009	others
+1010	others
+1011	others
+1012	others
+1013	others
+1014	others
+1015	functional needs repair
+1016	others
+1017	others
+1018	others
+1019	others
+1020	others
+1021	others
+1022	functional needs repair
+1023	others
+1024	others
+1025	functional needs repair
+1026	others
+1027	others
+1028	others
+1029	others
+1030	others
+1031	functional needs repair
+1032	others
+1033	others
+1034	others
+1035	others
+1036	others
+1037	functional needs repair
+1038	others
+1039	others
+1040	others
+1041	others
+1042	functional needs repair
+1043	others
+1044	others
+1045	others
+1046	others
+1047	others
+1048	functional needs repair
+1049	functional needs repair
+1050	others
+1051	others
+1052	others
+1053	others
+1054	others
+1055	others
+1056	functional needs repair
+1057	others
+1058	others
+1059	others
+1060	others
+1061	others
+1062	others
+1063	others
+1064	others
+1065	others
+1066	others
+1067	others
+1068	others
+1069	others
+1070	others
+1071	others
+1072	others
+1073	others
+1074	functional needs repair
+1075	others
+1076	others
+1077	others
+1078	others
+1079	others
+1080	others
+1081	others
+1082	others
+1083	others
+1084	others
+1085	others
+1086	functional needs repair
+1087	others
+1088	others
+1089	functional needs repair
+1090	others
+1091	others
+1092	others
+1093	others
+1094	functional needs repair
+1095	functional needs repair
+1096	others
+1097	others
+1098	others
+1099	others
+1100	others
+1101	others
+1102	others
+1103	others
+1104	others
+1105	others
+1106	others
+1107	others
+1108	others
+1109	functional needs repair
+1110	others
+1111	others
+1112	others
+1113	others
+1114	others
+1115	others
+1116	others
+1117	others
+1118	others
+1119	others
+1120	others
+1121	others
+1122	others
+1123	others
+1124	others
+1125	others
+1126	functional needs repair
+1127	others
+1128	others
+1129	others
+1130	others
+1131	others
+1132	others
+1133	others
+1134	others
+1135	others
+1136	others
+1137	others
+1138	functional needs repair
+1139	others
+1140	others
+1141	others
+1142	others
+1143	others
+1144	others
+1145	others
+1146	others
+1147	others
+1148	others
+1149	others
+1150	others
+1151	others
+1152	others
+1153	others
+1154	others
+1155	others
+1156	others
+1157	others
+1158	others
+1159	others
+1160	others
+1161	others
+1162	others
+1163	others
+1164	others
+1165	functional needs repair
+1166	functional needs repair
+1167	others
+1168	functional needs repair
+1169	functional needs repair
+1170	others
+1171	others
+1172	others
+1173	others
+1174	others
+1175	others
+1176	others
+1177	others
+1178	others
+1179	others
+1180	functional needs repair
+1181	others
+1182	others
+1183	functional needs repair
+1184	others
+1185	others
+1186	others
+1187	others
+1188	functional needs repair
+1189	others
+1190	others
+1191	functional needs repair
+1192	functional needs repair
+1193	others
+1194	others
+1195	functional needs repair
+1196	others
+1197	others
+1198	others
+1199	others
+1200	others
+1201	others
+1202	others
+1203	others
+1204	others
+1205	others
+1206	others
+1207	others
+1208	others
+1209	others
+1210	others
+1211	others
+1212	others
+1213	others
+1214	others
+1215	functional needs repair
+1216	others
+1217	functional needs repair
+1218	others
+1219	others
+1220	others
+1221	functional needs repair
+1222	others
+1223	others
+1224	others
+1225	others
+1226	others
+1227	others
+1228	functional needs repair
+1229	functional needs repair
+1230	functional needs repair
+1231	others
+1232	others
+1233	others
+1234	functional needs repair
+1235	others
+1236	functional needs repair
+1237	others
+1238	others
+1239	functional needs repair
+1240	others
+1241	functional needs repair
+1242	others
+1243	others
+1244	others
+1245	others
+1246	others
+1247	others
+1248	others
+1249	others
+1250	others
+1251	others
+1252	others
+1253	others
+1254	others
+1255	others
+1256	others
+1257	functional needs repair
+1258	others
+1259	others
+1260	others
+1261	others
+1262	others
+1263	others
+1264	others
+1265	others
+1266	others
+1267	others
+1268	others
+1269	others
+1270	others
+1271	others
+1272	others
+1273	others
+1274	others
+1275	others
+1276	others
+1277	others
+1278	functional needs repair
+1279	others
+1280	others
+1281	others
+1282	others
+1283	others
+1284	others
+1285	functional needs repair
+1286	others
+1287	others
+1288	others
+1289	others
+1290	others
+1291	functional needs repair
+1292	others
+1293	others
+1294	others
+1295	others
+1296	others
+1297	others
+1298	others
+1299	others
+1300	functional needs repair
+1301	functional needs repair
+1302	others
+1303	others
+1304	others
+1305	others
+1306	others
+1307	others
+1308	functional needs repair
+1309	others
+1310	others
+1311	others
+1312	others
+1313	functional needs repair
+1314	functional needs repair
+1315	others
+1316	others
+1317	others
+1318	others
+1319	others
+1320	others
+1321	others
+1322	functional needs repair
+1323	others
+1324	others
+1325	others
+1326	others
+1327	others
+1328	others
+1329	others
+1330	others
+1331	others
+1332	others
+1333	others
+1334	others
+1335	others
+1336	others
+1337	others
+1338	others
+1339	others
+1340	others
+1341	others
+1342	others
+1343	others
+1344	others
+1345	others
+1346	others
+1347	others
+1348	others
+1349	others
+1350	others
+1351	others
+1352	others
+1353	functional needs repair
+1354	others
+1355	functional needs repair
+1356	functional needs repair
+1357	functional needs repair
+1358	others
+1359	others
+1360	others
+1361	others
+1362	others
+1363	others
+1364	others
+1365	others
+1366	others
+1367	others
+1368	others
+1369	others
+1370	functional needs repair
+1371	others
+1372	others
+1373	others
+1374	others
+1375	others
+1376	others
+1377	others
+1378	others
+1379	functional needs repair
+1380	others
+1381	functional needs repair
+1382	others
+1383	others
+1384	others
+1385	functional needs repair
+1386	functional needs repair
+1387	others
+1388	others
+1389	functional needs repair
+1390	others
+1391	others
+1392	functional needs repair
+1393	others
+1394	others
+1395	others
+1396	others
+1397	others
+1398	others
+1399	others
+1400	others
+1401	functional needs repair
+1402	others
+1403	others
+1404	others
+1405	others
+1406	others
+1407	others
+1408	others
+1409	others
+1410	others
+1411	others
+1412	others
+1413	others
+1414	others
+1415	others
+1416	others
+1417	others
+1418	functional needs repair
+1419	others
+1420	others
+1421	others
+1422	others
+1423	others
+1424	others
+1425	others
+1426	others
+1427	others
+1428	others
+1429	others
+1430	others
+1431	others
+1432	functional needs repair
+1433	functional needs repair
+1434	functional needs repair
+1435	others
+1436	others
+1437	others
+1438	others
+1439	others
+1440	others
+1441	others
+1442	others
+1443	functional needs repair
+1444	others
+1445	others
+1446	others
+1447	others
+1448	others
+1449	others
+1450	others
+1451	others
+1452	others
+1453	others
+1454	others
+1455	others
+1456	others
+1457	others
+1458	others
+1459	others
+1460	functional needs repair
+1461	others
+1462	others
+1463	others
+1464	others
+1465	functional needs repair
+1466	functional needs repair
+1467	others
+1468	functional needs repair
+1469	others
+1470	functional needs repair
+1471	others
+1472	others
+1473	others
+1474	others
+1475	others
+1476	others
+1477	others
+1478	others
+1479	others
+1480	others
+1481	others
+1482	others
+1483	others
+1484	others
+1485	others
+1486	functional needs repair
+1487	functional needs repair
+1488	functional needs repair
+1489	others
+1490	functional needs repair
+1491	others
+1492	others
+1493	others
+1494	others
+1495	functional needs repair
+1496	others
+1497	others
+1498	others
+1499	others
+1500	others
+1501	others
+1502	others
+1503	others
+1504	others
+1505	others
+1506	others
+1507	functional needs repair
+1508	functional needs repair
+1509	others
+1510	others
+1511	others
+1512	others
+1513	others
+1514	functional needs repair
+1515	functional needs repair
+1516	functional needs repair
+1517	functional needs repair
+1518	others
+1519	others
+1520	others
+1521	others
+1522	others
+1523	others
+1524	others
+1525	others
+1526	others
+1527	others
+1528	others
+1529	others
+1530	others
+1531	others
+1532	functional needs repair
+1533	others
+1534	others
+1535	others
+1536	others
+1537	others
+1538	functional needs repair
+1539	others
+1540	others
+1541	functional needs repair
+1542	others
+1543	others
+1544	others
+1545	functional needs repair
+1546	functional needs repair
+1547	others
+1548	others
+1549	others
+1550	others
+1551	others
+1552	others
+1553	others
+1554	others
+1555	others
+1556	others
+1557	others
+1558	others
+1559	functional needs repair
+1560	others
+1561	others
+1562	others
+1563	others
+1564	others
+1565	others
+1566	others
+1567	others
+1568	others
+1569	others
+1570	others
+1571	others
+1572	others
+1573	functional needs repair
+1574	others
+1575	functional needs repair
+1576	functional needs repair
+1577	others
+1578	others
+1579	functional needs repair
+1580	others
+1581	functional needs repair
+1582	others
+1583	others
+1584	others
+1585	others
+1586	others
+1587	functional needs repair
+1588	others
+1589	others
+1590	others
+1591	others
+1592	others
+1593	others
+1594	others
+1595	others
+1596	functional needs repair
+1597	others
+1598	others
+1599	others
+1600	others
+1601	others
+1602	others
+1603	others
+1604	others
+1605	functional needs repair
+1606	functional needs repair
+1607	others
+1608	others
+1609	functional needs repair
+1610	others
+1611	others
+1612	others
+1613	others
+1614	others
+1615	others
+1616	others
+1617	others
+1618	others
+1619	others
+1620	others
+1621	others
+1622	others
+1623	functional needs repair
+1624	others
+1625	others
+1626	others
+1627	others
+1628	others
+1629	others
+1630	others
+1631	others
+1632	functional needs repair
+1633	others
+1634	others
+1635	others
+1636	others
+1637	others
+1638	others
+1639	others
+1640	functional needs repair
+1641	others
+1642	functional needs repair
+1643	others
+1644	others
+1645	others
+1646	functional needs repair
+1647	others
+1648	others
+1649	others
+1650	others
+1651	others
+1652	others
+1653	others
+1654	others
+1655	others
+1656	others
+1657	functional needs repair
+1658	others
+1659	others
+1660	functional needs repair
+1661	others
+1662	others
+1663	others
+1664	functional needs repair
+1665	others
+1666	others
+1667	others
+1668	others
+1669	others
+1670	others
+1671	others
+1672	functional needs repair
+1673	others
+1674	functional needs repair
+1675	others
+1676	others
+1677	others
+1678	others
+1679	functional needs repair
+1680	functional needs repair
+1681	others
+1682	others
+1683	functional needs repair
+1684	functional needs repair
+1685	others
+1686	others
+1687	others
+1688	others
+1689	others
+1690	others
+1691	others
+1692	others
+1693	others
+1694	others
+1695	others
+1696	others
+1697	others
+1698	others
+1699	others
+1700	others
+1701	others
+1702	others
+1703	others
+1704	others
+1705	others
+1706	functional needs repair
+1707	functional needs repair
+1708	others
+1709	others
+1710	others
+1711	others
+1712	others
+1713	others
+1714	others
+1715	others
+1716	others
+1717	functional needs repair
+1718	others
+1719	others
+1720	others
+1721	others
+1722	functional needs repair
+1723	functional needs repair
+1724	others
+1725	others
+1726	others
+1727	others
+1728	others
+1729	others
+1730	others
+1731	others
+1732	functional needs repair
+1733	functional needs repair
+1734	others
+1735	others
+1736	others
+1737	functional needs repair
+1738	others
+1739	others
+1740	others
+1741	others
+1742	others
+1743	functional needs repair
+1744	others
+1745	functional needs repair
+1746	others
+1747	others
+1748	others
+1749	functional needs repair
+1750	others
+1751	others
+1752	others
+1753	others
+1754	others
+1755	others
+1756	functional needs repair
+1757	functional needs repair
+1758	functional needs repair
+1759	others
+1760	others
+1761	others
+1762	others
+1763	others
+1764	others
+1765	others
+1766	functional needs repair
+1767	others
+1768	others
+1769	others
+1770	others
+1771	others
+1772	functional needs repair
+1773	others
+1774	others
+1775	others
+1776	others
+1777	others
+1778	others
+1779	others
+1780	others
+1781	others
+1782	others
+1783	others
+1784	others
+1785	others
+1786	others
+1787	functional needs repair
+1788	others
+1789	others
+1790	others
+1791	functional needs repair
+1792	others
+1793	others
+1794	functional needs repair
+1795	others
+1796	others
+1797	others
+1798	others
+1799	others
+1800	others
+1801	others
+1802	others
+1803	others
+1804	others
+1805	others
+1806	others
+1807	functional needs repair
+1808	others
+1809	others
+1810	others
+1811	others
+1812	others
+1813	others
+1814	others
+1815	others
+1816	others
+1817	others
+1818	others
+1819	others
+1820	functional needs repair
+1821	others
+1822	others
+1823	others
+1824	others
+1825	others
+1826	others
+1827	functional needs repair
+1828	others
+1829	others
+1830	others
+1831	others
+1832	others
+1833	others
+1834	others
+1835	others
+1836	others
+1837	functional needs repair
+1838	others
+1839	functional needs repair
+1840	others
+1841	others
+1842	functional needs repair
+1843	functional needs repair
+1844	functional needs repair
+1845	functional needs repair
+1846	others
+1847	others
+1848	others
+1849	others
+1850	others
+1851	others
+1852	others
+1853	others
+1854	others
+1855	others
+1856	others
+1857	others
+1858	others
+1859	others
+1860	functional needs repair
+1861	others
+1862	others
+1863	others
+1864	others
+1865	others
+1866	functional needs repair
+1867	others
+1868	others
+1869	others
+1870	others
+1871	others
+1872	others
+1873	others
+1874	others
+1875	others
+1876	others
+1877	others
+1878	others
+1879	others
+1880	others
+1881	others
+1882	others
+1883	others
+1884	others
+1885	others
+1886	others
+1887	others
+1888	others
+1889	others
+1890	functional needs repair
+1891	others
+1892	others
+1893	others
+1894	others
+1895	others
+1896	others
+1897	others
+1898	others
+1899	functional needs repair
+1900	others
+1901	others
+1902	others
+1903	others
+1904	functional needs repair
+1905	functional needs repair
+1906	others
+1907	others
+1908	others
+1909	functional needs repair
+1910	others
+1911	others
+1912	others
+1913	others
+1914	functional needs repair
+1915	others
+1916	others
+1917	others
+1918	functional needs repair
+1919	others
+1920	others
+1921	others
+1922	functional needs repair
+1923	others
+1924	functional needs repair
+1925	others
+1926	others
+1927	others
+1928	others
+1929	others
+1930	others
+1931	others
+1932	others
+1933	others
+1934	others
+1935	others
+1936	others
+1937	others
+1938	others
+1939	others
+1940	others
+1941	functional needs repair
+1942	others
+1943	others
+1944	others
+1945	others
+1946	others
+1947	functional needs repair
+1948	others
+1949	others
+1950	others
+1951	others
+1952	others
+1953	others
+1954	others
+1955	functional needs repair
+1956	others
+1957	functional needs repair
+1958	others
+1959	others
+1960	others
+1961	others
+1962	others
+1963	others
+1964	others
+1965	others
+1966	others
+1967	others
+1968	others
+1969	functional needs repair
+1970	functional needs repair
+1971	others
+1972	others
+1973	functional needs repair
+1974	functional needs repair
+1975	others
+1976	others
+1977	others
+1978	others
+1979	others
+1980	others
+1981	others
+1982	others
+1983	others
+1984	others
+1985	others
+1986	others
+1987	others
+1988	functional needs repair
+1989	others
+1990	functional needs repair
+1991	others
+1992	others
+1993	functional needs repair
+1994	others
+1995	others
+1996	others
+1997	others
+1998	others
+1999	functional needs repair
+2000	functional needs repair
+2001	others
+2002	functional needs repair
+2003	others
+2004	others
+2005	others
+2006	others
+2007	others
+2008	others
+2009	others
+2010	others
+2011	others
+2012	others
+2013	others
+2014	others
+2015	others
+2016	others
+2017	others
+2018	others
+2019	others
+2020	others
+2021	others
+2022	others
+2023	functional needs repair
+2024	others
+2025	others
+2026	others
+2027	others
+2028	others
+2029	others
+2030	others
+2031	functional needs repair
+2032	others
+2033	others
+2034	others
+2035	others
+2036	others
+2037	others
+2038	others
+2039	others
+2040	functional needs repair
+2041	others
+2042	others
+2043	others
+2044	others
+2045	others
+2046	others
+2047	others
+2048	others
+2049	others
+2050	functional needs repair
+2051	others
+2052	others
+2053	functional needs repair
+2054	others
+2055	others
+2056	others
+2057	others
+2058	others
+2059	others
+2060	functional needs repair
+2061	others
+2062	others
+2063	others
+2064	others
+2065	others
+2066	others
+2067	others
+2068	others
+2069	others
+2070	others
+2071	others
+2072	others
+2073	others
+2074	others
+2075	others
+2076	others
+2077	others
+2078	others
+2079	others
+2080	others
+2081	others
+2082	functional needs repair
+2083	others
+2084	others
+2085	others
+2086	others
+2087	others
+2088	others
+2089	others
+2090	others
+2091	others
+2092	functional needs repair
+2093	others
+2094	functional needs repair
+2095	others
+2096	others
+2097	others
+2098	others
+2099	others
+2100	functional needs repair
+2101	functional needs repair
+2102	others
+2103	others
+2104	others
+2105	others
+2106	others
+2107	others
+2108	others
+2109	others
+2110	others
+2111	others
+2112	others
+2113	functional needs repair
+2114	others
+2115	others
+2116	functional needs repair
+2117	others
+2118	others
+2119	others
+2120	others
+2121	others
+2122	others
+2123	others
+2124	others
+2125	others
+2126	others
+2127	functional needs repair
+2128	others
+2129	others
+2130	others
+2131	others
+2132	others
+2133	others
+2134	others
+2135	others
+2136	others
+2137	functional needs repair
+2138	others
+2139	others
+2140	functional needs repair
+2141	others
+2142	functional needs repair
+2143	others
+2144	others
+2145	others
+2146	others
+2147	others
+2148	functional needs repair
+2149	others
+2150	others
+2151	others
+2152	others
+2153	others
+2154	others
+2155	functional needs repair
+2156	others
+2157	others
+2158	others
+2159	others
+2160	others
+2161	others
+2162	others
+2163	others
+2164	others
+2165	others
+2166	others
+2167	others
+2168	others
+2169	others
+2170	others
+2171	others
+2172	others
+2173	functional needs repair
+2174	others
+2175	others
+2176	functional needs repair
+2177	functional needs repair
+2178	functional needs repair
+2179	others
+2180	others
+2181	others
+2182	others
+2183	others
+2184	others
+2185	functional needs repair
+2186	others
+2187	others
+2188	functional needs repair
+2189	others
+2190	others
+2191	others
+2192	others
+2193	others
+2194	others
+2195	functional needs repair
+2196	others
+2197	others
+2198	others
+2199	others
+2200	functional needs repair
+2201	others
+2202	others
+2203	functional needs repair
+2204	others
+2205	others
+2206	others
+2207	others
+2208	others
+2209	others
+2210	others
+2211	others
+2212	others
+2213	functional needs repair
+2214	others
+2215	functional needs repair
+2216	others
+2217	others
+2218	others
+2219	functional needs repair
+2220	others
+2221	others
+2222	functional needs repair
+2223	others
+2224	others
+2225	functional needs repair
+2226	others
+2227	others
+2228	others
+2229	others
+2230	others
+2231	others
+2232	others
+2233	others
+2234	others
+2235	others
+2236	others
+2237	others
+2238	others
+2239	others
+2240	others
+2241	others
+2242	others
+2243	others
+2244	others
+2245	others
+2246	others
+2247	others
+2248	others
+2249	others
+2250	functional needs repair
+2251	others
+2252	others
+2253	others
+2254	others
+2255	others
+2256	others
+2257	others
+2258	others
+2259	others
+2260	others
+2261	functional needs repair
+2262	others
+2263	others
+2264	others
+2265	others
+2266	others
+2267	others
+2268	others
+2269	others
+2270	others
+2271	others
+2272	others
+2273	others
+2274	functional needs repair
+2275	others
+2276	others
+2277	functional needs repair
+2278	others
+2279	others
+2280	others
+2281	others
+2282	others
+2283	others
+2284	others
+2285	others
+2286	others
+2287	others
+2288	others
+2289	others
+2290	others
+2291	others
+2292	functional needs repair
+2293	others
+2294	others
+2295	others
+2296	others
+2297	functional needs repair
+2298	others
+2299	others
+2300	others
+2301	others
+2302	functional needs repair
+2303	others
+2304	others
+2305	others
+2306	functional needs repair
+2307	others
+2308	others
+2309	others
+2310	others
+2311	others
+2312	others
+2313	others
+2314	others
+2315	others
+2316	functional needs repair
+2317	functional needs repair
+2318	others
+2319	others
+2320	others
+2321	others
+2322	others
+2323	others
+2324	others
+2325	others
+2326	others
+2327	others
+2328	others
+2329	functional needs repair
+2330	others
+2331	functional needs repair
+2332	functional needs repair
+2333	functional needs repair
+2334	others
+2335	others
+2336	functional needs repair
+2337	others
+2338	others
+2339	others
+2340	others
+2341	others
+2342	functional needs repair
+2343	others
+2344	others
+2345	others
+2346	others
+2347	others
+2348	others
+2349	others
+2350	others
+2351	others
+2352	others
+2353	functional needs repair
+2354	others
+2355	others
+2356	functional needs repair
+2357	others
+2358	others
+2359	others
+2360	others
+2361	others
+2362	others
+2363	others
+2364	others
+2365	functional needs repair
+2366	others
+2367	others
+2368	others
+2369	functional needs repair
+2370	others
+2371	others
+2372	functional needs repair
+2373	others
+2374	others
+2375	others
+2376	others
+2377	functional needs repair
+2378	others
+2379	others
+2380	others
+2381	others
+2382	others
+2383	functional needs repair
+2384	others
+2385	functional needs repair
+2386	others
+2387	others
+2388	others
+2389	others
+2390	others
+2391	others
+2392	others
+2393	others
+2394	others
+2395	others
+2396	others
+2397	others
+2398	others
+2399	others
+2400	others
+2401	others
+2402	others
+2403	others
+2404	others
+2405	functional needs repair
+2406	others
+2407	others
+2408	others
+2409	others
+2410	functional needs repair
+2411	others
+2412	others
+2413	others
+2414	others
+2415	others
+2416	others
+2417	others
+2418	others
+2419	others
+2420	others
+2421	others
+2422	others
+2423	others
+2424	others
+2425	others
+2426	others
+2427	others
+2428	others
+2429	others
+2430	others
+2431	others
+2432	others
+2433	others
+2434	others
+2435	others
+2436	others
+2437	others
+2438	others
+2439	others
+2440	others
+2441	others
+2442	functional needs repair
+2443	others
+2444	others
+2445	functional needs repair
+2446	functional needs repair
+2447	others
+2448	others
+2449	others
+2450	others
+2451	others
+2452	others
+2453	others
+2454	others
+2455	others
+2456	others
+2457	others
+2458	others
+2459	others
+2460	others
+2461	others
+2462	others
+2463	functional needs repair
+2464	others
+2465	others
+2466	others
+2467	others
+2468	others
+2469	others
+2470	others
+2471	others
+2472	others
+2473	others
+2474	functional needs repair
+2475	others
+2476	others
+2477	others
+2478	others
+2479	others
+2480	others
+2481	others
+2482	functional needs repair
+2483	others
+2484	others
+2485	functional needs repair
+2486	others
+2487	others
+2488	others
+2489	others
+2490	others
+2491	others
+2492	others
+2493	others
+2494	others
+2495	others
+2496	others
+2497	functional needs repair
+2498	others
+2499	others
+2500	others
+2501	others
+2502	others
+2503	functional needs repair
+2504	functional needs repair
+2505	others
+2506	others
+2507	others
+2508	others
+2509	functional needs repair
+2510	others
+2511	functional needs repair
+2512	functional needs repair
+2513	others
+2514	others
+2515	others
+2516	others
+2517	others
+2518	others
+2519	others
+2520	others
+2521	others
+2522	others
+2523	others
+2524	others
+2525	functional needs repair
+2526	others
+2527	others
+2528	others
+2529	functional needs repair
+2530	others
+2531	others
+2532	others
+2533	functional needs repair
+2534	others
+2535	others
+2536	functional needs repair
+2537	others
+2538	functional needs repair
+2539	others
+2540	others
+2541	others
+2542	others
+2543	others
+2544	others
+2545	others
+2546	others
+2547	functional needs repair
+2548	others
+2549	others
+2550	others
+2551	others
+2552	others
+2553	others
+2554	others
+2555	others
+2556	others
+2557	others
+2558	others
+2559	others
+2560	functional needs repair
+2561	others
+2562	others
+2563	functional needs repair
+2564	others
+2565	others
+2566	others
+2567	others
+2568	others
+2569	others
+2570	others
+2571	functional needs repair
+2572	others
+2573	others
+2574	others
+2575	functional needs repair
+2576	others
+2577	others
+2578	others
+2579	functional needs repair
+2580	others
+2581	others
+2582	others
+2583	others
+2584	others
+2585	others
+2586	others
+2587	others
+2588	functional needs repair
+2589	others
+2590	others
+2591	others
+2592	others
+2593	others
+2594	others
+2595	others
+2596	others
+2597	others
+2598	others
+2599	others
+2600	others
+2601	others
+2602	others
+2603	functional needs repair
+2604	others
+2605	functional needs repair
+2606	others
+2607	others
+2608	others
+2609	others
+2610	others
+2611	others
+2612	others
+2613	others
+2614	others
+2615	functional needs repair
+2616	functional needs repair
+2617	others
+2618	others
+2619	others
+2620	others
+2621	others
+2622	others
+2623	others
+2624	others
+2625	others
+2626	functional needs repair
+2627	others
+2628	others
+2629	functional needs repair
+2630	others
+2631	others
+2632	others
+2633	others
+2634	others
+2635	others
+2636	others
+2637	others
+2638	functional needs repair
+2639	others
+2640	others
+2641	others
+2642	others
+2643	others
+2644	functional needs repair
+2645	others
+2646	others
+2647	others
+2648	others
+2649	others
+2650	others
+2651	others
+2652	others
+2653	others
+2654	functional needs repair
+2655	functional needs repair
+2656	functional needs repair
+2657	others
+2658	others
+2659	others
+2660	others
+2661	functional needs repair
+2662	others
+2663	others
+2664	others
+2665	others
+2666	others
+2667	others
+2668	others
+2669	others
+2670	others
+2671	others
+2672	others
+2673	others
+2674	others
+2675	others
+2676	others
+2677	others
+2678	others
+2679	functional needs repair
+2680	others
+2681	functional needs repair
+2682	others
+2683	functional needs repair
+2684	others
+2685	others
+2686	others
+2687	others
+2688	others
+2689	others
+2690	functional needs repair
+2691	functional needs repair
+2692	others
+2693	others
+2694	others
+2695	others
+2696	others
+2697	others
+2698	others
+2699	functional needs repair
+2700	others
+2701	functional needs repair
+2702	others
+2703	functional needs repair
+2704	others
+2705	others
+2706	others
+2707	others
+2708	others
+2709	others
+2710	others
+2711	others
+2712	others
+2713	others
+2714	others
+2715	functional needs repair
+2716	others
+2717	others
+2718	others
+2719	others
+2720	others
+2721	others
+2722	others
+2723	others
+2724	functional needs repair
+2725	functional needs repair
+2726	others
+2727	others
+2728	others
+2729	others
+2730	others
+2731	others
+2732	others
+2733	others
+2734	others
+2735	functional needs repair
+2736	others
+2737	others
+2738	others
+2739	others
+2740	others
+2741	functional needs repair
+2742	others
+2743	functional needs repair
+2744	functional needs repair
+2745	others
+2746	functional needs repair
+2747	functional needs repair
+2748	others
+2749	others
+2750	others
+2751	others
+2752	others
+2753	others
+2754	others
+2755	others
+2756	others
+2757	others
+2758	functional needs repair
+2759	functional needs repair
+2760	functional needs repair
+2761	functional needs repair
+2762	functional needs repair
+2763	others
+2764	others
+2765	others
+2766	others
+2767	others
+2768	others
+2769	others
+2770	others
+2771	others
+2772	others
+2773	others
+2774	others
+2775	others
+2776	others
+2777	others
+2778	others
+2779	others
+2780	others
+2781	others
+2782	others
+2783	others
+2784	others
+2785	functional needs repair
+2786	functional needs repair
+2787	others
+2788	others
+2789	others
+2790	others
+2791	others
+2792	others
+2793	functional needs repair
+2794	others
+2795	functional needs repair
+2796	others
+2797	others
+2798	others
+2799	others
+2800	others
+2801	others
+2802	others
+2803	others
+2804	others
+2805	others
+2806	others
+2807	others
+2808	others
+2809	functional needs repair
+2810	others
+2811	functional needs repair
+2812	others
+2813	others
+2814	functional needs repair
+2815	functional needs repair
+2816	others
+2817	others
+2818	others
+2819	others
+2820	others
+2821	others
+2822	others
+2823	functional needs repair
+2824	others
+2825	others
+2826	functional needs repair
+2827	others
+2828	others
+2829	others
+2830	others
+2831	functional needs repair
+2832	functional needs repair
+2833	others
+2834	others
+2835	others
+2836	others
+2837	others
+2838	others
+2839	others
+2840	others
+2841	others
+2842	others
+2843	others
+2844	functional needs repair
+2845	others
+2846	others
+2847	others
+2848	functional needs repair
+2849	others
+2850	others
+2851	others
+2852	others
+2853	others
+2854	others
+2855	others
+2856	others
+2857	others
+2858	functional needs repair
+2859	others
+2860	others
+2861	others
+2862	others
+2863	others
+2864	functional needs repair
+2865	others
+2866	functional needs repair
+2867	others
+2868	others
+2869	others
+2870	others
+2871	others
+2872	others
+2873	functional needs repair
+2874	others
+2875	functional needs repair
+2876	functional needs repair
+2877	others
+2878	others
+2879	others
+2880	others
+2881	others
+2882	others
+2883	others
+2884	others
+2885	others
+2886	others
+2887	others
+2888	others
+2889	others
+2890	others
+2891	others
+2892	functional needs repair
+2893	others
+2894	others
+2895	others
+2896	functional needs repair
+2897	others
+2898	others
+2899	functional needs repair
+2900	others
+2901	others
+2902	others
+2903	others
+2904	others
+2905	others
+2906	others
+2907	others
+2908	others
+2909	others
+2910	others
+2911	others
+2912	functional needs repair
+2913	functional needs repair
+2914	others
+2915	functional needs repair
+2916	others
+2917	others
+2918	others
+2919	others
+2920	others
+2921	functional needs repair
+2922	others
+2923	others
+2924	others
+2925	others
+2926	others
+2927	others
+2928	functional needs repair
+2929	others
+2930	others
+2931	others
+2932	functional needs repair
+2933	others
+2934	others
+2935	others
+2936	others
+2937	others
+2938	functional needs repair
+2939	others
+2940	others
+2941	others
+2942	others
+2943	others
+2944	others
+2945	others
+2946	others
+2947	others
+2948	others
+2949	others
+2950	others
+2951	others
+2952	others
+2953	others
+2954	others
+2955	others
+2956	others
+2957	others
+2958	functional needs repair
+2959	others
+2960	others
+2961	functional needs repair
+2962	others
+2963	others
+2964	others
+2965	others
+2966	others
+2967	others
+2968	others
+2969	others
+2970	others
+2971	others
+2972	others
+2973	others
+2974	others
+2975	others
+2976	others
+2977	functional needs repair
+2978	others
+2979	others
+2980	functional needs repair
+2981	others
+2982	functional needs repair
+2983	others
+2984	others
+2985	others
+2986	others
+2987	functional needs repair
+2988	others
+2989	others
+2990	functional needs repair
+2991	functional needs repair
+2992	others
+2993	others
+2994	others
+2995	others
+2996	others
+2997	others
+2998	others
+2999	others
+3000	functional needs repair
+3001	others
+3002	others
+3003	others
+3004	others
+3005	others
+3006	others
+3007	others
+3008	others
+3009	others
+3010	others
+3011	others
+3012	others
+3013	others
+3014	others
+3015	others
+3016	functional needs repair
+3017	others
+3018	others
+3019	others
+3020	others
+3021	functional needs repair
+3022	others
+3023	functional needs repair
+3024	others
+3025	others
+3026	functional needs repair
+3027	others
+3028	others
+3029	others
+3030	others
+3031	others
+3032	others
+3033	others
+3034	functional needs repair
+3035	others
+3036	functional needs repair
+3037	others
+3038	others
+3039	functional needs repair
+3040	others
+3041	others
+3042	functional needs repair
+3043	others
+3044	others
+3045	others
+3046	functional needs repair
+3047	others
+3048	others
+3049	others
+3050	others
+3051	others
+3052	functional needs repair
+3053	others
+3054	others
+3055	others
+3056	functional needs repair
+3057	others
+3058	others
+3059	functional needs repair
+3060	others
+3061	others
+3062	others
+3063	functional needs repair
+3064	functional needs repair
+3065	others
+3066	others
+3067	others
+3068	others
+3069	others
+3070	others
+3071	others
+3072	others
+3073	others
+3074	others
+3075	others
+3076	others
+3077	others
+3078	others
+3079	others
+3080	others
+3081	others
+3082	others
+3083	others
+3084	others
+3085	others
+3086	others
+3087	others
+3088	functional needs repair
+3089	others
+3090	others
+3091	others
+3092	others
+3093	others
+3094	others
+3095	others
+3096	others
+3097	others
+3098	others
+3099	others
+3100	others
+3101	others
+3102	others
+3103	others
+3104	others
+3105	others
+3106	functional needs repair
+3107	others
+3108	others
+3109	others
+3110	others
+3111	others
+3112	others
+3113	others
+3114	functional needs repair
+3115	others
+3116	others
+3117	others
+3118	others
+3119	others
+3120	others
+3121	others
+3122	others
+3123	functional needs repair
+3124	others
+3125	others
+3126	others
+3127	others
+3128	others
+3129	others
+3130	others
+3131	others
+3132	others
+3133	others
+3134	others
+3135	others
+3136	others
+3137	others
+3138	others
+3139	others
+3140	others
+3141	others
+3142	others
+3143	others
+3144	others
+3145	others
+3146	others
+3147	others
+3148	functional needs repair
+3149	others
+3150	others
+3151	others
+3152	others
+3153	others
+3154	functional needs repair
+3155	others
+3156	others
+3157	functional needs repair
+3158	functional needs repair
+3159	functional needs repair
+3160	others
+3161	others
+3162	others
+3163	others
+3164	others
+3165	functional needs repair
+3166	others
+3167	others
+3168	others
+3169	functional needs repair
+3170	functional needs repair
+3171	others
+3172	functional needs repair
+3173	others
+3174	others
+3175	others
+3176	others
+3177	others
+3178	others
+3179	others
+3180	functional needs repair
+3181	functional needs repair
+3182	others
+3183	others
+3184	others
+3185	others
+3186	others
+3187	others
+3188	others
+3189	functional needs repair
+3190	others
+3191	others
+3192	others
+3193	others
+3194	others
+3195	others
+3196	others
+3197	others
+3198	others
+3199	others
+3200	others
+3201	others
+3202	others
+3203	others
+3204	functional needs repair
+3205	others
+3206	others
+3207	others
+3208	others
+3209	others
+3210	others
+3211	others
+3212	functional needs repair
+3213	others
+3214	others
+3215	others
+3216	others
+3217	functional needs repair
+3218	others
+3219	others
+3220	others
+3221	others
+3222	others
+3223	functional needs repair
+3224	others
+3225	others
+3226	others
+3227	others
+3228	others
+3229	others
+3230	functional needs repair
+3231	others
+3232	others
+3233	others
+3234	others
+3235	functional needs repair
+3236	functional needs repair
+3237	others
+3238	others
+3239	others
+3240	others
+3241	others
+3242	functional needs repair
+3243	others
+3244	functional needs repair
+3245	others
+3246	others
+3247	others
+3248	others
+3249	others
+3250	others
+3251	others
+3252	others
+3253	others
+3254	others
+3255	others
+3256	others
+3257	others
+3258	others
+3259	others
+3260	others
+3261	functional needs repair
+3262	others
+3263	others
+3264	others
+3265	others
+3266	others
+3267	others
+3268	others
+3269	others
+3270	others
+3271	others
+3272	others
+3273	others
+3274	functional needs repair
+3275	others
+3276	others
+3277	others
+3278	functional needs repair
+3279	others
+3280	others
+3281	others
+3282	others
+3283	others
+3284	others
+3285	others
+3286	others
+3287	functional needs repair
+3288	others
+3289	functional needs repair
+3290	functional needs repair
+3291	others
+3292	others
+3293	others
+3294	functional needs repair
+3295	others
+3296	others
+3297	others
+3298	others
+3299	functional needs repair
+3300	others
+3301	functional needs repair
+3302	functional needs repair
+3303	others
+3304	others
+3305	others
+3306	others
+3307	others
+3308	others
+3309	others
+3310	others
+3311	others
+3312	others
+3313	others
+3314	functional needs repair
+3315	others
+3316	others
+3317	others
+3318	others
+3319	others
+3320	others
+3321	others
+3322	others
+3323	functional needs repair
+3324	others
+3325	others
+3326	others
+3327	others
+3328	others
+3329	others
+3330	others
+3331	others
+3332	others
+3333	others
+3334	others
+3335	others
+3336	others
+3337	others
+3338	others
+3339	functional needs repair
+3340	others
+3341	functional needs repair
+3342	others
+3343	others
+3344	others
+3345	others
+3346	others
+3347	others
+3348	others
+3349	others
+3350	functional needs repair
+3351	others
+3352	others
+3353	others
+3354	others
+3355	others
+3356	others
+3357	functional needs repair
+3358	others
+3359	others
+3360	functional needs repair
+3361	functional needs repair
+3362	functional needs repair
+3363	others
+3364	functional needs repair
+3365	others
+3366	others
+3367	others
+3368	functional needs repair
+3369	others
+3370	others
+3371	others
+3372	functional needs repair
+3373	others
+3374	others
+3375	others
+3376	functional needs repair
+3377	others
+3378	others
+3379	others
+3380	functional needs repair
+3381	others
+3382	others
+3383	others
+3384	others
+3385	others
+3386	others
+3387	others
+3388	functional needs repair
+3389	others
+3390	others
+3391	others
+3392	functional needs repair
+3393	others
+3394	functional needs repair
+3395	others
+3396	others
+3397	functional needs repair
+3398	others
+3399	others
+3400	others
+3401	others
+3402	others
+3403	functional needs repair
+3404	others
+3405	others
+3406	others
+3407	others
+3408	others
+3409	others
+3410	others
+3411	others
+3412	others
+3413	others
+3414	others
+3415	functional needs repair
+3416	others
+3417	others
+3418	others
+3419	others
+3420	others
+3421	others
+3422	others
+3423	others
+3424	others
+3425	others
+3426	others
+3427	others
+3428	others
+3429	others
+3430	others
+3431	others
+3432	others
+3433	others
+3434	others
+3435	others
+3436	others
+3437	others
+3438	functional needs repair
+3439	functional needs repair
+3440	functional needs repair
+3441	others
+3442	others
+3443	others
+3444	others
+3445	others
+3446	others
+3447	others
+3448	others
+3449	others
+3450	others
+3451	others
+3452	others
+3453	others
+3454	others
+3455	others
+3456	others
+3457	functional needs repair
+3458	functional needs repair
+3459	others
+3460	others
+3461	functional needs repair
+3462	others
+3463	functional needs repair
+3464	others
+3465	functional needs repair
+3466	functional needs repair
+3467	others
+3468	functional needs repair
+3469	others
+3470	others
+3471	others
+3472	others
+3473	others
+3474	others
+3475	functional needs repair
+3476	others
+3477	others
+3478	others
+3479	others
+3480	others
+3481	others
+3482	others
+3483	others
+3484	others
+3485	functional needs repair
+3486	others
+3487	others
+3488	functional needs repair
+3489	others
+3490	others
+3491	others
+3492	functional needs repair
+3493	others
+3494	functional needs repair
+3495	others
+3496	others
+3497	others
+3498	others
+3499	others
+3500	others
+3501	others
+3502	others
+3503	others
+3504	functional needs repair
+3505	functional needs repair
+3506	others
+3507	others
+3508	functional needs repair
+3509	others
+3510	others
+3511	others
+3512	functional needs repair
+3513	others
+3514	others
+3515	functional needs repair
+3516	others
+3517	others
+3518	others
+3519	others
+3520	others
+3521	others
+3522	others
+3523	others
+3524	others
+3525	others
+3526	others
+3527	functional needs repair
+3528	others
+3529	others
+3530	others
+3531	others
+3532	others
+3533	others
+3534	others
+3535	others
+3536	others
+3537	others
+3538	others
+3539	others
+3540	others
+3541	others
+3542	others
+3543	others
+3544	functional needs repair
+3545	others
+3546	others
+3547	others
+3548	others
+3549	others
+3550	functional needs repair
+3551	others
+3552	others
+3553	others
+3554	others
+3555	others
+3556	others
+3557	others
+3558	others
+3559	others
+3560	others
+3561	others
+3562	others
+3563	functional needs repair
+3564	others
+3565	others
+3566	others
+3567	functional needs repair
+3568	others
+3569	others
+3570	functional needs repair
+3571	others
+3572	others
+3573	others
+3574	others
+3575	others
+3576	others
+3577	others
+3578	others
+3579	others
+3580	others
+3581	others
+3582	functional needs repair
+3583	others
+3584	others
+3585	others
+3586	others
+3587	others
+3588	functional needs repair
+3589	others
+3590	others
+3591	others
+3592	others
+3593	others
+3594	others
+3595	functional needs repair
+3596	others
+3597	others
+3598	others
+3599	others
+3600	others
+3601	others
+3602	others
+3603	others
+3604	functional needs repair
+3605	others
+3606	others
+3607	others
+3608	others
+3609	others
+3610	others
+3611	functional needs repair
+3612	others
+3613	others
+3614	others
+3615	others
+3616	others
+3617	functional needs repair
+3618	others
+3619	others
+3620	others
+3621	others
+3622	functional needs repair
+3623	others
+3624	others
+3625	functional needs repair
+3626	others
+3627	functional needs repair
+3628	others
+3629	others
+3630	others
+3631	others
+3632	others
+3633	others
+3634	others
+3635	functional needs repair
+3636	others
+3637	others
+3638	others
+3639	others
+3640	others
+3641	others
+3642	others
+3643	others
+3644	others
+3645	others
+3646	others
+3647	functional needs repair
+3648	others
+3649	others
+3650	others
+3651	functional needs repair
+3652	others
+3653	functional needs repair
+3654	others
+3655	others
+3656	functional needs repair
+3657	others
+3658	others
+3659	functional needs repair
+3660	others
+3661	others
+3662	others
+3663	others
+3664	functional needs repair
+3665	others
+3666	others
+3667	others
+3668	others
+3669	others
+3670	others
+3671	others
+3672	others
+3673	others
+3674	others
+3675	others
+3676	others
+3677	functional needs repair
+3678	others
+3679	others
+3680	others
+3681	others
+3682	others
+3683	functional needs repair
+3684	others
+3685	others
+3686	functional needs repair
+3687	others
+3688	others
+3689	others
+3690	others
+3691	others
+3692	others
+3693	others
+3694	functional needs repair
+3695	others
+3696	others
+3697	others
+3698	others
+3699	others
+3700	others
+3701	others
+3702	functional needs repair
+3703	others
+3704	others
+3705	others
+3706	others
+3707	others
+3708	others
+3709	others
+3710	functional needs repair
+3711	functional needs repair
+3712	others
+3713	others
+3714	others
+3715	others
+3716	others
+3717	others
+3718	others
+3719	others
+3720	functional needs repair
+3721	others
+3722	others
+3723	others
+3724	functional needs repair
+3725	functional needs repair
+3726	others
+3727	functional needs repair
+3728	others
+3729	others
+3730	others
+3731	others
+3732	others
+3733	others
+3734	others
+3735	others
+3736	others
+3737	others
+3738	others
+3739	others
+3740	others
+3741	functional needs repair
+3742	others
+3743	others
+3744	others
+3745	others
+3746	others
+3747	functional needs repair
+3748	functional needs repair
+3749	others
+3750	others
+3751	others
+3752	functional needs repair
+3753	others
+3754	others
+3755	others
+3756	others
+3757	others
+3758	others
+3759	others
+3760	others
+3761	others
+3762	others
+3763	others
+3764	functional needs repair
+3765	functional needs repair
+3766	others
+3767	functional needs repair
+3768	others
+3769	others
+3770	others
+3771	others
+3772	others
+3773	others
+3774	others
+3775	others
+3776	others
+3777	others
+3778	others
+3779	others
+3780	others
+3781	others
+3782	others
+3783	others
+3784	functional needs repair
+3785	others
+3786	others
+3787	others
+3788	others
+3789	others
+3790	functional needs repair
+3791	others
+3792	others
+3793	others
+3794	others
+3795	others
+3796	others
+3797	functional needs repair
+3798	functional needs repair
+3799	functional needs repair
+3800	functional needs repair
+3801	others
+3802	others
+3803	others
+3804	others
+3805	others
+3806	others
+3807	others
+3808	others
+3809	others
+3810	others
+3811	functional needs repair
+3812	others
+3813	functional needs repair
+3814	others
+3815	others
+3816	functional needs repair
+3817	others
+3818	others
+3819	others
+3820	others
+3821	others
+3822	others
+3823	functional needs repair
+3824	others
+3825	functional needs repair
+3826	functional needs repair
+3827	others
+3828	others
+3829	others
+3830	others
+3831	others
+3832	others
+3833	others
+3834	others
+3835	others
+3836	others
+3837	others
+3838	others
+3839	others
+3840	functional needs repair
+3841	others
+3842	others
+3843	others
+3844	others
+3845	others
+3846	others
+3847	others
+3848	others
+3849	others
+3850	others
+3851	functional needs repair
+3852	others
+3853	others
+3854	others
+3855	others
+3856	others
+3857	functional needs repair
+3858	others
+3859	others
+3860	others
+3861	functional needs repair
+3862	functional needs repair
+3863	others
+3864	functional needs repair
+3865	functional needs repair
+3866	functional needs repair
+3867	others
+3868	others
+3869	others
+3870	functional needs repair
+3871	others
+3872	others
+3873	others
+3874	others
+3875	others
+3876	others
+3877	others
+3878	others
+3879	others
+3880	others
+3881	others
+3882	others
+3883	others
+3884	others
+3885	others
+3886	others
+3887	others
+3888	others
+3889	others
+3890	others
+3891	others
+3892	functional needs repair
+3893	others
+3894	others
+3895	others
+3896	others
+3897	others
+3898	others
+3899	others
+3900	functional needs repair
+3901	others
+3902	others
+3903	others
+3904	functional needs repair
+3905	others
+3906	others
+3907	functional needs repair
+3908	others
+3909	others
+3910	functional needs repair
+3911	others
+3912	others
+3913	others
+3914	others
+3915	functional needs repair
+3916	functional needs repair
+3917	others
+3918	others
+3919	others
+3920	functional needs repair
+3921	others
+3922	others
+3923	others
+3924	others
+3925	others
+3926	others
+3927	functional needs repair
+3928	others
+3929	others
+3930	functional needs repair
+3931	others
+3932	others
+3933	others
+3934	functional needs repair
+3935	others
+3936	others
+3937	others
+3938	others
+3939	others
+3940	others
+3941	functional needs repair
+3942	others
+3943	others
+3944	others
+3945	others
+3946	others
+3947	functional needs repair
+3948	others
+3949	others
+3950	others
+3951	others
+3952	others
+3953	others
+3954	others
+3955	others
+3956	others
+3957	others
+3958	others
+3959	others
+3960	others
+3961	others
+3962	others
+3963	others
+3964	others
+3965	others
+3966	functional needs repair
+3967	others
+3968	others
+3969	others
+3970	functional needs repair
+3971	others
+3972	others
+3973	others
+3974	functional needs repair
+3975	functional needs repair
+3976	others
+3977	functional needs repair
+3978	others
+3979	others
+3980	functional needs repair
+3981	others
+3982	others
+3983	others
+3984	others
+3985	others
+3986	others
+3987	others
+3988	functional needs repair
+3989	others
+3990	others
+3991	others
+3992	others
+3993	others
+3994	others
+3995	others
+3996	others
+3997	others
+3998	others
+3999	others
+4000	others
+4001	others
+4002	others
+4003	others
+4004	others
+4005	others
+4006	functional needs repair
+4007	others
+4008	others
+4009	others
+4010	others
+4011	others
+4012	others
+4013	others
+4014	others
+4015	functional needs repair
+4016	others
+4017	others
+4018	others
+4019	others
+4020	others
+4021	others
+4022	others
+4023	others
+4024	others
+4025	others
+4026	others
+4027	others
+4028	functional needs repair
+4029	others
+4030	functional needs repair
+4031	functional needs repair
+4032	others
+4033	others
+4034	others
+4035	others
+4036	others
+4037	others
+4038	functional needs repair
+4039	others
+4040	others
+4041	others
+4042	others
+4043	others
+4044	others
+4045	others
+4046	functional needs repair
+4047	others
+4048	others
+4049	others
+4050	functional needs repair
+4051	others
+4052	others
+4053	others
+4054	others
+4055	others
+4056	others
+4057	others
+4058	others
+4059	others
+4060	others
+4061	others
+4062	others
+4063	others
+4064	others
+4065	others
+4066	others
+4067	others
+4068	functional needs repair
+4069	others
+4070	functional needs repair
+4071	others
+4072	others
+4073	others
+4074	functional needs repair
+4075	others
+4076	functional needs repair
+4077	others
+4078	others
+4079	others
+4080	others
+4081	others
+4082	others
+4083	others
+4084	others
+4085	functional needs repair
+4086	others
+4087	others
+4088	others
+4089	others
+4090	others
+4091	others
+4092	functional needs repair
+4093	functional needs repair
+4094	others
+4095	others
+4096	others
+4097	others
+4098	others
+4099	others
+4100	others
+4101	others
+4102	others
+4103	others
+4104	others
+4105	others
+4106	others
+4107	others
+4108	functional needs repair
+4109	others
+4110	others
+4111	others
+4112	others
+4113	functional needs repair
+4114	others
+4115	others
+4116	others
+4117	others
+4118	others
+4119	others
+4120	others
+4121	others
+4122	others
+4123	others
+4124	functional needs repair
+4125	others
+4126	others
+4127	others
+4128	others
+4129	others
+4130	others
+4131	others
+4132	others
+4133	others
+4134	others
+4135	others
+4136	functional needs repair
+4137	others
+4138	others
+4139	others
+4140	functional needs repair
+4141	others
+4142	others
+4143	others
+4144	others
+4145	others
+4146	others
+4147	others
+4148	others
+4149	others
+4150	functional needs repair
+4151	functional needs repair
+4152	others
+4153	others
+4154	functional needs repair
+4155	others
+4156	others
+4157	others
+4158	others
+4159	others
+4160	others
+4161	functional needs repair
+4162	functional needs repair
+4163	others
+4164	others
+4165	others
+4166	others
+4167	others
+4168	others
+4169	others
+4170	others
+4171	others
+4172	others
+4173	others
+4174	others
+4175	others
+4176	others
+4177	others
+4178	functional needs repair
+4179	others
+4180	others
+4181	others
+4182	others
+4183	functional needs repair
+4184	others
+4185	others
+4186	others
+4187	others
+4188	others
+4189	others
+4190	others
+4191	functional needs repair
+4192	functional needs repair
+4193	others
+4194	others
+4195	others
+4196	others
+4197	others
+4198	others
+4199	others
+4200	others
+4201	others
+4202	others
+4203	others
+4204	others
+4205	others
+4206	others
+4207	others
+4208	functional needs repair
+4209	others
+4210	functional needs repair
+4211	others
+4212	others
+4213	others
+4214	others
+4215	others
+4216	functional needs repair
+4217	others
+4218	others
+4219	functional needs repair
+4220	others
+4221	others
+4222	others
+4223	others
+4224	others
+4225	others
+4226	others
+4227	others
+4228	others
+4229	others
+4230	others
+4231	others
+4232	others
+4233	others
+4234	others
+4235	others
+4236	others
+4237	others
+4238	others
+4239	others
+4240	others
+4241	others
+4242	others
+4243	others
+4244	others
+4245	others
+4246	others
+4247	others
+4248	others
+4249	others
+4250	others
+4251	others
+4252	others
+4253	functional needs repair
+4254	others
+4255	others
+4256	functional needs repair
+4257	others
+4258	functional needs repair
+4259	others
+4260	functional needs repair
+4261	others
+4262	others
+4263	others
+4264	others
+4265	others
+4266	functional needs repair
+4267	others
+4268	others
+4269	others
+4270	others
+4271	others
+4272	others
+4273	others
+4274	others
+4275	others
+4276	others
+4277	others
+4278	functional needs repair
+4279	others
+4280	others
+4281	others
+4282	others
+4283	others
+4284	others
+4285	others
+4286	functional needs repair
+4287	functional needs repair
+4288	functional needs repair
+4289	others
+4290	others
+4291	others
+4292	others
+4293	functional needs repair
+4294	others
+4295	others
+4296	others
+4297	others
+4298	others
+4299	others
+4300	others
+4301	others
+4302	others
+4303	others
+4304	functional needs repair
+4305	others
+4306	others
+4307	others
+4308	others
+4309	functional needs repair
+4310	others
+4311	functional needs repair
+4312	others
+4313	others
+4314	others
+4315	others
+4316	others
+4317	others
+4318	others
+4319	others
+4320	functional needs repair
+4321	others
+4322	others
+4323	others
+4324	functional needs repair
+4325	others
+4326	others
+4327	functional needs repair
+4328	others
+4329	others
+4330	others
+4331	functional needs repair
+4332	functional needs repair
+4333	others
+4334	others
+4335	others
+4336	others
+4337	others
+4338	functional needs repair
+4339	others
+4340	others
+4341	functional needs repair
+4342	others
+4343	others
+4344	others
+4345	functional needs repair
+4346	functional needs repair
+4347	others
+4348	others
+4349	others
+4350	others
+4351	others
+4352	others
+4353	others
+4354	others
+4355	others
+4356	others
+4357	others
+4358	others
+4359	others
+4360	others
+4361	others
+4362	others
+4363	others
+4364	others
+4365	others
+4366	others
+4367	others
+4368	others
+4369	others
+4370	others
+4371	others
+4372	others
+4373	functional needs repair
+4374	others
+4375	others
+4376	others
+4377	others
+4378	others
+4379	others
+4380	others
+4381	others
+4382	others
+4383	others
+4384	others
+4385	others
+4386	others
+4387	others
+4388	functional needs repair
+4389	functional needs repair
+4390	others
+4391	others
+4392	others
+4393	others
+4394	others
+4395	others
+4396	others
+4397	others
+4398	others
+4399	others
+4400	others
+4401	others
+4402	others
+4403	others
+4404	others
+4405	others
+4406	others
+4407	others
+4408	others
+4409	others
+4410	others
+4411	others
+4412	functional needs repair
+4413	functional needs repair
+4414	functional needs repair
+4415	others
+4416	others
+4417	others
+4418	others
+4419	others
+4420	others
+4421	functional needs repair
+4422	others
+4423	functional needs repair
+4424	others
+4425	others
+4426	others
+4427	others
+4428	others
+4429	others
+4430	others
+4431	others
+4432	others
+4433	others
+4434	others
+4435	functional needs repair
+4436	others
+4437	others
+4438	functional needs repair
+4439	others
+4440	functional needs repair
+4441	others
+4442	functional needs repair
+4443	others
+4444	others
+4445	others
+4446	others
+4447	others
+4448	others
+4449	others
+4450	others
+4451	others
+4452	others
+4453	others
+4454	functional needs repair
+4455	others
+4456	others
+4457	others
+4458	others
+4459	others
+4460	others
+4461	others
+4462	functional needs repair
+4463	others
+4464	others
+4465	others
+4466	others
+4467	others
+4468	functional needs repair
+4469	others
+4470	others
+4471	others
+4472	others
+4473	functional needs repair
+4474	others
+4475	others
+4476	others
+4477	functional needs repair
+4478	others
+4479	others
+4480	others
+4481	others
+4482	others
+4483	others
+4484	others
+4485	others
+4486	others
+4487	others
+4488	others
+4489	others
+4490	others
+4491	others
+4492	others
+4493	functional needs repair
+4494	others
+4495	functional needs repair
+4496	others
+4497	functional needs repair
+4498	functional needs repair
+4499	others
+4500	others
+4501	others
+4502	others
+4503	others
+4504	others
+4505	others
+4506	others
+4507	others
+4508	others
+4509	others
+4510	others
+4511	others
+4512	others
+4513	others
+4514	functional needs repair
+4515	others
+4516	functional needs repair
+4517	others
+4518	others
+4519	others
+4520	others
+4521	others
+4522	others
+4523	others
+4524	functional needs repair
+4525	others
+4526	others
+4527	others
+4528	others
+4529	others
+4530	others
+4531	others
+4532	others
+4533	others
+4534	others
+4535	others
+4536	functional needs repair
+4537	functional needs repair
+4538	others
+4539	others
+4540	others
+4541	others
+4542	others
+4543	functional needs repair
+4544	others
+4545	others
+4546	others
+4547	others
+4548	others
+4549	others
+4550	functional needs repair
+4551	others
+4552	others
+4553	others
+4554	others
+4555	others
+4556	others
+4557	others
+4558	functional needs repair
+4559	others
+4560	others
+4561	others
+4562	others
+4563	others
+4564	functional needs repair
+4565	functional needs repair
+4566	others
+4567	others
+4568	others
+4569	others
+4570	functional needs repair
+4571	others
+4572	others
+4573	others
+4574	others
+4575	others
+4576	others
+4577	functional needs repair
+4578	others
+4579	others
+4580	others
+4581	others
+4582	others
+4583	others
+4584	others
+4585	others
+4586	others
+4587	others
+4588	functional needs repair
+4589	others
+4590	others
+4591	others
+4592	others
+4593	others
+4594	functional needs repair
+4595	others
+4596	others
+4597	others
+4598	others
+4599	functional needs repair
+4600	others
+4601	functional needs repair
+4602	functional needs repair
+4603	functional needs repair
+4604	functional needs repair
+4605	others
+4606	others
+4607	others
+4608	others
+4609	others
+4610	others
+4611	functional needs repair
+4612	others
+4613	others
+4614	functional needs repair
+4615	functional needs repair
+4616	others
+4617	others
+4618	functional needs repair
+4619	functional needs repair
+4620	others
+4621	others
+4622	others
+4623	others
+4624	others
+4625	others
+4626	others
+4627	others
+4628	others
+4629	others
+4630	others
+4631	others
+4632	functional needs repair
+4633	others
+4634	others
+4635	functional needs repair
+4636	others
+4637	others
+4638	others
+4639	functional needs repair
+4640	others
+4641	others
+4642	others
+4643	functional needs repair
+4644	others
+4645	others
+4646	others
+4647	others
+4648	others
+4649	others
+4650	functional needs repair
+4651	others
+4652	others
+4653	functional needs repair
+4654	others
+4655	others
+4656	others
+4657	others
+4658	others
+4659	others
+4660	others
+4661	others
+4662	functional needs repair
+4663	others
+4664	others
+4665	others
+4666	others
+4667	others
+4668	others
+4669	others
+4670	others
+4671	functional needs repair
+4672	others
+4673	functional needs repair
+4674	others
+4675	others
+4676	others
+4677	others
+4678	others
+4679	others
+4680	others
+4681	others
+4682	others
+4683	others
+4684	others
+4685	others
+4686	others
+4687	others
+4688	others
+4689	others
+4690	others
+4691	others
+4692	others
+4693	others
+4694	others
+4695	others
+4696	others
+4697	others
+4698	others
+4699	others
+4700	others
+4701	functional needs repair
+4702	others
+4703	others
+4704	others
+4705	others
+4706	others
+4707	others
+4708	others
+4709	functional needs repair
+4710	others
+4711	others
+4712	others
+4713	others
+4714	others
+4715	others
+4716	others
+4717	others
+4718	others
+4719	functional needs repair
+4720	others
+4721	others
+4722	functional needs repair
+4723	others
+4724	others
+4725	others
+4726	others
+4727	others
+4728	others
+4729	others
+4730	functional needs repair
+4731	others
+4732	others
+4733	others
+4734	functional needs repair
+4735	functional needs repair
+4736	others
+4737	others
+4738	others
+4739	others
+4740	others
+4741	others
+4742	functional needs repair
+4743	others
+4744	others
+4745	functional needs repair
+4746	others
+4747	functional needs repair
+4748	others
+4749	others
+4750	others
+4751	functional needs repair
+4752	others
+4753	others
+4754	others
+4755	others
+4756	others
+4757	others
+4758	others
+4759	others
+4760	others
+4761	others
+4762	others
+4763	functional needs repair
+4764	others
+4765	others
+4766	others
+4767	others
+4768	functional needs repair
+4769	others
+4770	others
+4771	others
+4772	others
+4773	others
+4774	others
+4775	others
+4776	functional needs repair
+4777	others
+4778	functional needs repair
+4779	others
+4780	others
+4781	others
+4782	others
+4783	others
+4784	functional needs repair
+4785	others
+4786	others
+4787	others
+4788	others
+4789	others
+4790	others
+4791	others
+4792	others
+4793	others
+4794	others
+4795	others
+4796	others
+4797	others
+4798	others
+4799	functional needs repair
+4800	others
+4801	others
+4802	others
+4803	others
+4804	others
+4805	functional needs repair
+4806	others
+4807	others
+4808	others
+4809	functional needs repair
+4810	others
+4811	others
+4812	others
+4813	others
+4814	others
+4815	others
+4816	others
+4817	others
+4818	others
+4819	others
+4820	functional needs repair
+4821	others
+4822	functional needs repair
+4823	others
+4824	others
+4825	others
+4826	others
+4827	others
+4828	others
+4829	others
+4830	others
+4831	others
+4832	others
+4833	others
+4834	others
+4835	others
+4836	functional needs repair
+4837	others
+4838	others
+4839	others
+4840	others
+4841	functional needs repair
+4842	functional needs repair
+4843	others
+4844	others
+4845	others
+4846	others
+4847	others
+4848	others
+4849	others
+4850	others
+4851	others
+4852	others
+4853	others
+4854	others
+4855	others
+4856	others
+4857	others
+4858	others
+4859	functional needs repair
+4860	others
+4861	others
+4862	functional needs repair
+4863	others
+4864	others
+4865	others
+4866	others
+4867	others
+4868	others
+4869	others
+4870	functional needs repair
+4871	others
+4872	functional needs repair
+4873	others
+4874	others
+4875	others
+4876	others
+4877	others
+4878	others
+4879	others
+4880	others
+4881	others
+4882	functional needs repair
+4883	others
+4884	others
+4885	others
+4886	others
+4887	others
+4888	functional needs repair
+4889	others
+4890	functional needs repair
+4891	others
+4892	others
+4893	others
+4894	others
+4895	others
+4896	others
+4897	others
+4898	others
+4899	others
+4900	others
+4901	others
+4902	functional needs repair
+4903	others
+4904	others
+4905	others
+4906	others
+4907	others
+4908	functional needs repair
+4909	others
+4910	others
+4911	functional needs repair
+4912	others
+4913	others
+4914	others
+4915	others
+4916	functional needs repair
+4917	others
+4918	functional needs repair
+4919	others
+4920	others
+4921	functional needs repair
+4922	functional needs repair
+4923	others
+4924	others
+4925	others
+4926	functional needs repair
+4927	others
+4928	others
+4929	others
+4930	others
+4931	others
+4932	others
+4933	others
+4934	others
+4935	functional needs repair
+4936	functional needs repair
+4937	others
+4938	functional needs repair
+4939	others
+4940	others
+4941	others
+4942	others
+4943	others
+4944	others
+4945	others
+4946	functional needs repair
+4947	functional needs repair
+4948	others
+4949	others
+4950	functional needs repair
+4951	others
+4952	others
+4953	functional needs repair
+4954	others
+4955	others
+4956	functional needs repair
+4957	others
+4958	others
+4959	others
+4960	others
+4961	others
+4962	others
+4963	functional needs repair
+4964	functional needs repair
+4965	others
+4966	others
+4967	others
+4968	functional needs repair
+4969	others
+4970	others
+4971	others
+4972	others
+4973	functional needs repair
+4974	others
+4975	others
+4976	others
+4977	others
+4978	functional needs repair
+4979	others
+4980	others
+4981	others
+4982	others
+4983	others
+4984	others
+4985	others
+4986	others
+4987	others
+4988	others
+4989	others
+4990	others
+4991	functional needs repair
+4992	others
+4993	others
+4994	others
+4995	others
+4996	functional needs repair
+4997	others
+4998	others
+4999	others
+5000	others
+5001	others
+5002	others
+5003	others
+5004	others
+5005	functional needs repair
+5006	functional needs repair
+5007	others
+5008	others
+5009	others
+5010	others
+5011	functional needs repair
+5012	others
+5013	others
+5014	others
+5015	others
+5016	others
+5017	others
+5018	others
+5019	functional needs repair
+5020	others
+5021	others
+5022	others
+5023	others
+5024	others
+5025	others
+5026	others
+5027	others
+5028	others
+5029	others
+5030	others
+5031	others
+5032	others
+5033	others
+5034	others
+5035	others
+5036	others
+5037	others
+5038	others
+5039	others
+5040	others
+5041	others
+5042	others
+5043	others
+5044	others
+5045	others
+5046	others
+5047	functional needs repair
+5048	others
+5049	others
+5050	functional needs repair
+5051	functional needs repair
+5052	functional needs repair
+5053	functional needs repair
+5054	others
+5055	others
+5056	others
+5057	others
+5058	others
+5059	functional needs repair
+5060	others
+5061	others
+5062	functional needs repair
+5063	others
+5064	others
+5065	others
+5066	others
+5067	others
+5068	others
+5069	others
+5070	others
+5071	others
+5072	others
+5073	others
+5074	others
+5075	others
+5076	functional needs repair
+5077	others
+5078	others
+5079	functional needs repair
+5080	others
+5081	functional needs repair
+5082	functional needs repair
+5083	others
+5084	others
+5085	others
+5086	others
+5087	functional needs repair
+5088	others
+5089	others
+5090	others
+5091	functional needs repair
+5092	functional needs repair
+5093	others
+5094	others
+5095	functional needs repair
+5096	others
+5097	others
+5098	others
+5099	functional needs repair
+5100	others
+5101	others
+5102	others
+5103	others
+5104	others
+5105	functional needs repair
+5106	others
+5107	others
+5108	others
+5109	others
+5110	others
+5111	others
+5112	others
+5113	others
+5114	others
+5115	others
+5116	others
+5117	others
+5118	others
+5119	others
+5120	functional needs repair
+5121	others
+5122	others
+5123	functional needs repair
+5124	others
+5125	others
+5126	others
+5127	others
+5128	others
+5129	others
+5130	others
+5131	others
+5132	others
+5133	others
+5134	others
+5135	functional needs repair
+5136	others
+5137	others
+5138	others
+5139	others
+5140	others
+5141	others
+5142	others
+5143	functional needs repair
+5144	others
+5145	others
+5146	others
+5147	others
+5148	functional needs repair
+5149	others
+5150	others
+5151	others
+5152	others
+5153	others
+5154	functional needs repair
+5155	others
+5156	others
+5157	others
+5158	others
+5159	others
+5160	others
+5161	others
+5162	others
+5163	others
+5164	others
+5165	others
+5166	others
+5167	others
+5168	others
+5169	functional needs repair
+5170	others
+5171	others
+5172	others
+5173	others
+5174	others
+5175	others
+5176	others
+5177	others
+5178	others
+5179	others
+5180	others
+5181	others
+5182	others
+5183	others
+5184	others
+5185	others
+5186	functional needs repair
+5187	others
+5188	functional needs repair
+5189	others
+5190	others
+5191	others
+5192	others
+5193	others
+5194	others
+5195	functional needs repair
+5196	others
+5197	functional needs repair
+5198	others
+5199	others
+5200	others
+5201	others
+5202	others
+5203	functional needs repair
+5204	others
+5205	others
+5206	functional needs repair
+5207	others
+5208	others
+5209	others
+5210	functional needs repair
+5211	others
+5212	others
+5213	others
+5214	others
+5215	others
+5216	others
+5217	others
+5218	others
+5219	others
+5220	others
+5221	others
+5222	others
+5223	others
+5224	others
+5225	others
+5226	others
+5227	others
+5228	others
+5229	others
+5230	others
+5231	others
+5232	others
+5233	others
+5234	others
+5235	functional needs repair
+5236	others
+5237	others
+5238	others
+5239	others
+5240	others
+5241	functional needs repair
+5242	others
+5243	others
+5244	others
+5245	others
+5246	functional needs repair
+5247	others
+5248	others
+5249	others
+5250	others
+5251	functional needs repair
+5252	others
+5253	others
+5254	others
+5255	others
+5256	others
+5257	others
+5258	others
+5259	others
+5260	others
+5261	others
+5262	functional needs repair
+5263	others
+5264	others
+5265	others
+5266	others
+5267	others
+5268	others
+5269	functional needs repair
+5270	functional needs repair
+5271	functional needs repair
+5272	others
+5273	others
+5274	others
+5275	functional needs repair
+5276	others
+5277	others
+5278	others
+5279	others
+5280	others
+5281	others
+5282	others
+5283	functional needs repair
+5284	others
+5285	functional needs repair
+5286	others
+5287	others
+5288	others
+5289	others
+5290	others
+5291	others
+5292	others
+5293	others
+5294	others
+5295	others
+5296	functional needs repair
+5297	functional needs repair
+5298	functional needs repair
+5299	others
+5300	others
+5301	others
+5302	others
+5303	others
+5304	others
+5305	others
+5306	others
+5307	others
+5308	functional needs repair
+5309	others
+5310	others
+5311	others
+5312	others
+5313	others
+5314	functional needs repair
+5315	others
+5316	others
+5317	others
+5318	others
+5319	others
+5320	functional needs repair
+5321	others
+5322	others
+5323	others
+5324	others
+5325	others
+5326	others
+5327	others
+5328	functional needs repair
+5329	functional needs repair
+5330	others
+5331	others
+5332	others
+5333	others
+5334	others
+5335	others
+5336	others
+5337	others
+5338	others
+5339	others
+5340	others
+5341	others
+5342	others
+5343	others
+5344	others
+5345	others
+5346	others
+5347	others
+5348	others
+5349	others
+5350	others
+5351	others
+5352	others
+5353	others
+5354	others
+5355	others
+5356	functional needs repair
+5357	others
+5358	others
+5359	others
+5360	others
+5361	others
+5362	others
+5363	others
+5364	others
+5365	functional needs repair
+5366	others
+5367	others
+5368	others
+5369	others
+5370	others
+5371	others
+5372	others
+5373	functional needs repair
+5374	others
+5375	functional needs repair
+5376	others
+5377	others
+5378	functional needs repair
+5379	others
+5380	others
+5381	others
+5382	others
+5383	others
+5384	others
+5385	functional needs repair
+5386	others
+5387	others
+5388	others
+5389	others
+5390	others
+5391	others
+5392	functional needs repair
+5393	others
+5394	others
+5395	others
+5396	others
+5397	others
+5398	others
+5399	others
+5400	others
+5401	others
+5402	others
+5403	others
+5404	others
+5405	others
+5406	others
+5407	others
+5408	others
+5409	others
+5410	others
+5411	others
+5412	others
+5413	others
+5414	others
+5415	others
+5416	others
+5417	others
+5418	others
+5419	others
+5420	others
+5421	others
+5422	others
+5423	others
+5424	others
+5425	others
+5426	others
+5427	functional needs repair
+5428	others
+5429	functional needs repair
+5430	others
+5431	others
+5432	others
+5433	others
+5434	others
+5435	others
+5436	others
+5437	others
+5438	others
+5439	others
+5440	others
+5441	functional needs repair
+5442	functional needs repair
+5443	functional needs repair
+5444	others
+5445	others
+5446	others
+5447	others
+5448	others
+5449	others
+5450	others
+5451	others
+5452	others
+5453	others
+5454	others
+5455	others
+5456	functional needs repair
+5457	others
+5458	others
+5459	others
+5460	others
+5461	others
+5462	others
+5463	others
+5464	others
+5465	others
+5466	functional needs repair
+5467	others
+5468	others
+5469	others
+5470	others
+5471	others
+5472	others
+5473	others
+5474	others
+5475	others
+5476	others
+5477	others
+5478	others
+5479	others
+5480	functional needs repair
+5481	others
+5482	functional needs repair
+5483	others
+5484	others
+5485	others
+5486	others
+5487	others
+5488	others
+5489	others
+5490	others
+5491	others
+5492	others
+5493	others
+5494	others
+5495	others
+5496	functional needs repair
+5497	others
+5498	others
+5499	others
+5500	others
+5501	others
+5502	others
+5503	functional needs repair
+5504	others
+5505	others
+5506	others
+5507	others
+5508	functional needs repair
+5509	others
+5510	others
+5511	others
+5512	others
+5513	others
+5514	others
+5515	others
+5516	functional needs repair
+5517	others
+5518	others
+5519	others
+5520	others
+5521	others
+5522	others
+5523	functional needs repair
+5524	others
+5525	others
+5526	functional needs repair
+5527	others
+5528	others
+5529	others
+5530	others
+5531	others
+5532	functional needs repair
+5533	others
+5534	others
+5535	others
+5536	others
+5537	others
+5538	others
+5539	others
+5540	others
+5541	others
+5542	others
+5543	others
+5544	functional needs repair
+5545	others
+5546	others
+5547	others
+5548	others
+5549	others
+5550	others
+5551	others
+5552	functional needs repair
+5553	others
+5554	others
+5555	functional needs repair
+5556	functional needs repair
+5557	others
+5558	others
+5559	functional needs repair
+5560	others
+5561	others
+5562	others
+5563	others
+5564	others
+5565	others
+5566	others
+5567	others
+5568	others
+5569	others
+5570	others
+5571	others
+5572	others
+5573	others
+5574	others
+5575	others
+5576	others
+5577	others
+5578	others
+5579	others
+5580	others
+5581	others
+5582	others
+5583	others
+5584	others
+5585	others
+5586	others
+5587	others
+5588	others
+5589	others
+5590	functional needs repair
+5591	others
+5592	others
+5593	others
+5594	others
+5595	others
+5596	functional needs repair
+5597	others
+5598	others
+5599	others
+5600	others
+5601	others
+5602	others
+5603	others
+5604	others
+5605	others
+5606	others
+5607	others
+5608	others
+5609	others
+5610	others
+5611	others
+5612	others
+5613	others
+5614	others
+5615	others
+5616	others
+5617	functional needs repair
+5618	others
+5619	functional needs repair
+5620	functional needs repair
+5621	others
+5622	others
+5623	others
+5624	others
+5625	others
+5626	functional needs repair
+5627	others
+5628	others
+5629	functional needs repair
+5630	others
+5631	others
+5632	functional needs repair
+5633	others
+5634	functional needs repair
+5635	functional needs repair
+5636	others
+5637	functional needs repair
+5638	others
+5639	others
+5640	others
+5641	others
+5642	others
+5643	others
+5644	others
+5645	others
+5646	functional needs repair
+5647	others
+5648	others
+5649	others
+5650	others
+5651	others
+5652	others
+5653	others
+5654	others
+5655	others
+5656	others
+5657	others
+5658	others
+5659	others
+5660	others
+5661	others
+5662	functional needs repair
+5663	others
+5664	others
+5665	others
+5666	functional needs repair
+5667	others
+5668	others
+5669	others
+5670	others
+5671	others
+5672	others
+5673	others
+5674	others
+5675	functional needs repair
+5676	others
+5677	functional needs repair
+5678	functional needs repair
+5679	functional needs repair
+5680	others
+5681	functional needs repair
+5682	functional needs repair
+5683	others
+5684	others
+5685	others
+5686	others
+5687	others
+5688	others
+5689	others
+5690	others
+5691	others
+5692	others
+5693	others
+5694	others
+5695	others
+5696	others
+5697	others
+5698	others
+5699	functional needs repair
+5700	functional needs repair
+5701	others
+5702	others
+5703	others
+5704	others
+5705	others
+5706	others
+5707	others
+5708	functional needs repair
+5709	others
+5710	functional needs repair
+5711	others
+5712	others
+5713	others
+5714	functional needs repair
+5715	others
+5716	others
+5717	others
+5718	others
+5719	others
+5720	others
+5721	others
+5722	functional needs repair
+5723	others
+5724	others
+5725	others
+5726	others
+5727	others
+5728	others
+5729	others
+5730	functional needs repair
+5731	functional needs repair
+5732	others
+5733	others
+5734	functional needs repair
+5735	others
+5736	functional needs repair
+5737	others
+5738	others
+5739	others
+5740	others
+5741	functional needs repair
+5742	others
+5743	others
+5744	others
+5745	others
+5746	others
+5747	others
+5748	others
+5749	others
+5750	others
+5751	others
+5752	others
+5753	others
+5754	others
+5755	others
+5756	others
+5757	functional needs repair
+5758	others
+5759	others
+5760	others
+5761	others
+5762	others
+5763	others
+5764	others
+5765	others
+5766	others
+5767	others
+5768	functional needs repair
+5769	others
+5770	others
+5771	others
+5772	others
+5773	functional needs repair
+5774	others
+5775	others
+5776	others
+5777	others
+5778	others
+5779	others
+5780	others
+5781	others
+5782	functional needs repair
+5783	others
+5784	others
+5785	others
+5786	others
+5787	others
+5788	others
+5789	others
+5790	functional needs repair
+5791	others
+5792	others
+5793	others
+5794	others
+5795	functional needs repair
+5796	others
+5797	others
+5798	others
+5799	functional needs repair
+5800	others
+5801	others
+5802	functional needs repair
+5803	functional needs repair
+5804	others
+5805	others
+5806	others
+5807	others
+5808	others
+5809	others
+5810	functional needs repair
+5811	others
+5812	others
+5813	others
+5814	others
+5815	others
+5816	others
+5817	others
+5818	others
+5819	others
+5820	others
+5821	functional needs repair
+5822	others
+5823	others
+5824	others
+5825	others
+5826	others
+5827	others
+5828	others
+5829	others
+5830	others
+5831	functional needs repair
+5832	others
+5833	others
+5834	functional needs repair
+5835	others
+5836	others
+5837	others
+5838	others
+5839	others
+5840	others
+5841	others
+5842	others
+5843	others
+5844	others
+5845	others
+5846	others
+5847	others
+5848	others
+5849	others
+5850	others
+5851	others
+5852	others
+5853	others
+5854	others
+5855	others
+5856	functional needs repair
+5857	others
+5858	others
+5859	others
+5860	others
+5861	others
+5862	functional needs repair
+5863	functional needs repair
+5864	others
+5865	others
+5866	others
+5867	others
+5868	others
+5869	others
+5870	others
+5871	others
+5872	others
+5873	others
+5874	others
+5875	others
+5876	others
+5877	others
+5878	others
+5879	others
+5880	functional needs repair
+5881	others
+5882	others
+5883	others
+5884	others
+5885	others
+5886	others
+5887	others
+5888	others
+5889	functional needs repair
+5890	others
+5891	others
+5892	others
+5893	others
+5894	others
+5895	others
+5896	functional needs repair
+5897	functional needs repair
+5898	others
+5899	others
+5900	others
+5901	others
+5902	others
+5903	functional needs repair
+5904	others
+5905	functional needs repair
+5906	functional needs repair
+5907	others
+5908	others
+5909	others
+5910	others
+5911	others
+5912	others
+5913	others
+5914	others
+5915	others
+5916	functional needs repair
+5917	others
+5918	others
+5919	functional needs repair
+5920	others
+5921	functional needs repair
+5922	others
+5923	others
+5924	others
+5925	functional needs repair
+5926	others
+5927	others
+5928	others
+5929	others
+5930	others
+5931	others
+5932	others
+5933	others
+5934	others
+5935	functional needs repair
+5936	others
+5937	functional needs repair
+5938	others
+5939	others
+5940	others
+5941	others
+5942	others
+5943	others
+5944	others
+5945	functional needs repair
+5946	others
+5947	others
+5948	others
+5949	others
+5950	others
+5951	others
+5952	others
+5953	functional needs repair
+5954	others
+5955	others
+5956	others
+5957	others
+5958	others
+5959	others
+5960	others
+5961	others
+5962	others
+5963	functional needs repair
+5964	others
+5965	others
+5966	others
+5967	others
+5968	others
+5969	functional needs repair
+5970	others
+5971	others
+5972	functional needs repair
+5973	others
+5974	others
+5975	others
+5976	functional needs repair
+5977	others
+5978	others
+5979	functional needs repair
+5980	others
+5981	others
+5982	others
+5983	others
+5984	others
+5985	functional needs repair
+5986	others
+5987	others
+5988	others
+5989	others
+5990	others
+5991	others
+5992	others
+5993	others
+5994	others
+5995	others
+5996	others
+5997	others
+5998	others
+5999	functional needs repair
+6000	others
+6001	functional needs repair
+6002	functional needs repair
+6003	functional needs repair
+6004	others
+6005	functional needs repair
+6006	functional needs repair
+6007	others
+6008	others
+6009	others
+6010	others
+6011	others
+6012	others
+6013	functional needs repair
+6014	functional needs repair
+6015	others
+6016	functional needs repair
+6017	others
+6018	others
+6019	others
+6020	others
+6021	others
+6022	others
+6023	others
+6024	functional needs repair
+6025	others
+6026	others
+6027	others
+6028	others
+6029	others
+6030	others
+6031	others
+6032	others
+6033	functional needs repair
+6034	others
+6035	others
+6036	others
+6037	others
+6038	functional needs repair
+6039	others
+6040	functional needs repair
+6041	functional needs repair
+6042	others
+6043	others
+6044	functional needs repair
+6045	others
+6046	others
+6047	others
+6048	others
+6049	others
+6050	others
+6051	functional needs repair
+6052	others
+6053	others
+6054	others
+6055	others
+6056	others
+6057	others
+6058	functional needs repair
+6059	others
+6060	others
+6061	functional needs repair
+6062	others
+6063	others
+6064	functional needs repair
+6065	functional needs repair
+6066	others
+6067	others
+6068	others
+6069	others
+6070	others
+6071	others
+6072	others
+6073	others
+6074	others
+6075	others
+6076	others
+6077	others
+6078	others
+6079	others
+6080	functional needs repair
+6081	functional needs repair
+6082	others
+6083	others
+6084	others
+6085	functional needs repair
+6086	others
+6087	others
+6088	others
+6089	others
+6090	others
+6091	functional needs repair
+6092	others
+6093	others
+6094	others
+6095	others
+6096	others
+6097	others
+6098	others
+6099	others
+6100	others
+6101	others
+6102	others
+6103	others
+6104	others
+6105	others
+6106	functional needs repair
+6107	others
+6108	others
+6109	others
+6110	others
+6111	others
+6112	functional needs repair
+6113	others
+6114	others
+6115	others
+6116	others
+6117	others
+6118	functional needs repair
+6119	functional needs repair
+6120	others
+6121	others
+6122	others
+6123	others
+6124	others
+6125	others
+6126	others
+6127	others
+6128	others
+6129	others
+6130	others
+6131	functional needs repair
+6132	others
+6133	others
+6134	others
+6135	others
+6136	functional needs repair
+6137	others
+6138	others
+6139	others
+6140	others
+6141	functional needs repair
+6142	functional needs repair
+6143	others
+6144	others
+6145	others
+6146	others
+6147	others
+6148	others
+6149	functional needs repair
+6150	others
+6151	others
+6152	functional needs repair
+6153	others
+6154	others
+6155	others
+6156	others
+6157	others
+6158	others
+6159	others
+6160	others
+6161	others
+6162	others
+6163	others
+6164	others
+6165	others
+6166	others
+6167	others
+6168	others
+6169	others
+6170	others
+6171	others
+6172	functional needs repair
+6173	others
+6174	others
+6175	others
+6176	others
+6177	others
+6178	functional needs repair
+6179	functional needs repair
+6180	others
+6181	others
+6182	others
+6183	others
+6184	functional needs repair
+6185	others
+6186	functional needs repair
+6187	others
+6188	others
+6189	others
+6190	functional needs repair
+6191	others
+6192	others
+6193	others
+6194	others
+6195	others
+6196	others
+6197	others
+6198	others
+6199	functional needs repair
+6200	others
+6201	others
+6202	others
+6203	others
+6204	others
+6205	others
+6206	others
+6207	others
+6208	functional needs repair
+6209	others
+6210	others
+6211	others
+6212	others
+6213	others
+6214	others
+6215	others
+6216	others
+6217	functional needs repair
+6218	others
+6219	others
+6220	others
+6221	others
+6222	others
+6223	others
+6224	others
+6225	others
+6226	functional needs repair
+6227	others
+6228	others
+6229	others
+6230	others
+6231	others
+6232	functional needs repair
+6233	functional needs repair
+6234	others
+6235	others
+6236	others
+6237	others
+6238	others
+6239	others
+6240	others
+6241	others
+6242	others
+6243	others
+6244	others
+6245	functional needs repair
+6246	others
+6247	others
+6248	others
+6249	others
+6250	others
+6251	others
+6252	others
+6253	others
+6254	functional needs repair
+6255	functional needs repair
+6256	others
+6257	others
+6258	others
+6259	others
+6260	others
+6261	others
+6262	others
+6263	functional needs repair
+6264	others
+6265	functional needs repair
+6266	functional needs repair
+6267	others
+6268	others
+6269	functional needs repair
+6270	others
+6271	others
+6272	others
+6273	functional needs repair
+6274	functional needs repair
+6275	others
+6276	others
+6277	functional needs repair
+6278	others
+6279	others
+6280	others
+6281	others
+6282	others
+6283	functional needs repair
+6284	others
+6285	others
+6286	others
+6287	others
+6288	others
+6289	others
+6290	others
+6291	others
+6292	others
+6293	others
+6294	others
+6295	others
+6296	others
+6297	others
+6298	others
+6299	others
+6300	others
+6301	others
+6302	functional needs repair
+6303	others
+6304	others
+6305	others
+6306	others
+6307	others
+6308	others
+6309	others
+6310	others
+6311	others
+6312	others
+6313	others
+6314	others
+6315	others
+6316	others
+6317	others
+6318	others
+6319	others
+6320	others
+6321	others
+6322	others
+6323	others
+6324	others
+6325	functional needs repair
+6326	others
+6327	others
+6328	others
+6329	others
+6330	others
+6331	others
+6332	others
+6333	others
+6334	others
+6335	functional needs repair
+6336	others
+6337	others
+6338	others
+6339	functional needs repair
+6340	others
+6341	others
+6342	others
+6343	others
+6344	others
+6345	others
+6346	others
+6347	others
+6348	functional needs repair
+6349	others
+6350	others
+6351	others
+6352	others
+6353	functional needs repair
+6354	others
+6355	functional needs repair
+6356	others
+6357	others
+6358	others
+6359	others
+6360	others
+6361	others
+6362	others
+6363	others
+6364	others
+6365	others
+6366	others
+6367	others
+6368	others
+6369	others
+6370	others
+6371	others
+6372	others
+6373	others
+6374	others
+6375	others
+6376	others
+6377	functional needs repair
+6378	others
+6379	others
+6380	others
+6381	functional needs repair
+6382	functional needs repair
+6383	others
+6384	others
+6385	others
+6386	functional needs repair
+6387	others
+6388	others
+6389	others
+6390	functional needs repair
+6391	functional needs repair
+6392	functional needs repair
+6393	functional needs repair
+6394	others
+6395	functional needs repair
+6396	others
+6397	others
+6398	functional needs repair
+6399	others
+6400	others
+6401	others
+6402	others
+6403	others
+6404	others
+6405	others
+6406	others
+6407	others
+6408	others
+6409	others
+6410	others
+6411	others
+6412	others
+6413	others
+6414	others
+6415	functional needs repair
+6416	functional needs repair
+6417	others
+6418	others
+6419	others
+6420	others
+6421	others
+6422	others
+6423	others
+6424	others
+6425	others
+6426	others
+6427	others
+6428	others
+6429	functional needs repair
+6430	others
+6431	others
+6432	others
+6433	others
+6434	functional needs repair
+6435	functional needs repair
+6436	others
+6437	others
+6438	others
+6439	others
+6440	others
+6441	others
+6442	others
+6443	others
+6444	functional needs repair
+6445	functional needs repair
+6446	others
+6447	others
+6448	others
+6449	others
+6450	others
+6451	others
+6452	others
+6453	functional needs repair
+6454	functional needs repair
+6455	others
+6456	others
+6457	functional needs repair
+6458	others
+6459	others
+6460	others
+6461	others
+6462	others
+6463	functional needs repair
+6464	others
+6465	others
+6466	others
+6467	others
+6468	others
+6469	others
+6470	others
+6471	others
+6472	others
+6473	others
+6474	others
+6475	others
+6476	others
+6477	others
+6478	others
+6479	others
+6480	others
+6481	others
+6482	others
+6483	others
+6484	others
+6485	others
+6486	functional needs repair
+6487	others
+6488	others
+6489	others
+6490	others
+6491	others
+6492	others
+6493	others
+6494	others
+6495	others
+6496	others
+6497	others
+6498	functional needs repair
+6499	others
+6500	others
+6501	others
+6502	others
+6503	others
+6504	others
+6505	others
+6506	others
+6507	others
+6508	others
+6509	others
+6510	others
+6511	others
+6512	others
+6513	others
+6514	others
+6515	others
+6516	functional needs repair
+6517	others
+6518	others
+6519	functional needs repair
+6520	others
+6521	others
+6522	others
+6523	others
+6524	others
+6525	others
+6526	others
+6527	others
+6528	others
+6529	others
+6530	others
+6531	others
+6532	others
+6533	others
+6534	others
+6535	functional needs repair
+6536	others
+6537	others
+6538	others
+6539	others
+6540	functional needs repair
+6541	others
+6542	others
+6543	others
+6544	others
+6545	others
+6546	others
+6547	others
+6548	others
+6549	functional needs repair
+6550	others
+6551	others
+6552	others
+6553	others
+6554	functional needs repair
+6555	others
+6556	others
+6557	others
+6558	others
+6559	others
+6560	others
+6561	others
+6562	others
+6563	others
+6564	others
+6565	others
+6566	others
+6567	others
+6568	others
+6569	others
+6570	others
+6571	functional needs repair
+6572	others
+6573	others
+6574	others
+6575	others
+6576	others
+6577	others
+6578	others
+6579	others
+6580	others
+6581	others
+6582	others
+6583	others
+6584	others
+6585	functional needs repair
+6586	others
+6587	others
+6588	others
+6589	others
+6590	others
+6591	others
+6592	others
+6593	others
+6594	others
+6595	others
+6596	others
+6597	others
+6598	others
+6599	others
+6600	others
+6601	others
+6602	others
+6603	others
+6604	others
+6605	functional needs repair
+6606	others
+6607	others
+6608	others
+6609	others
+6610	others
+6611	functional needs repair
+6612	others
+6613	others
+6614	others
+6615	others
+6616	others
+6617	others
+6618	functional needs repair
+6619	others
+6620	others
+6621	others
+6622	others
+6623	others
+6624	others
+6625	others
+6626	others
+6627	others
+6628	functional needs repair
+6629	others
+6630	others
+6631	others
+6632	others
+6633	others
+6634	others
+6635	others
+6636	others
+6637	others
+6638	others
+6639	others
+6640	others
+6641	others
+6642	others
+6643	others
+6644	others
+6645	others
+6646	others
+6647	others
+6648	others
+6649	others
+6650	others
+6651	others
+6652	functional needs repair
+6653	others
+6654	others
+6655	others
+6656	functional needs repair
+6657	others
+6658	others
+6659	others
+6660	others
+6661	others
+6662	functional needs repair
+6663	others
+6664	functional needs repair
+6665	others
+6666	others
+6667	others
+6668	others
+6669	others
+6670	others
+6671	others
+6672	others
+6673	others
+6674	others
+6675	others
+6676	functional needs repair
+6677	others
+6678	others
+6679	others
+6680	others
+6681	others
+6682	others
+6683	others
+6684	others
+6685	others
+6686	others
+6687	others
+6688	others
+6689	others
+6690	others
+6691	functional needs repair
+6692	others
+6693	others
+6694	others
+6695	others
+6696	others
+6697	others
+6698	others
+6699	functional needs repair
+6700	others
+6701	others
+6702	others
+6703	others
+6704	others
+6705	others
+6706	others
+6707	others
+6708	functional needs repair
+6709	others
+6710	others
+6711	others
+6712	functional needs repair
+6713	others
+6714	others
+6715	others
+6716	others
+6717	others
+6718	others
+6719	others
+6720	others
+6721	others
+6722	others
+6723	others
+6724	others
+6725	functional needs repair
+6726	others
+6727	others
+6728	others
+6729	others
+6730	functional needs repair
+6731	others
+6732	others
+6733	others
+6734	others
+6735	functional needs repair
+6736	others
+6737	others
+6738	others
+6739	others
+6740	others
+6741	others
+6742	functional needs repair
+6743	others
+6744	others
+6745	functional needs repair
+6746	others
+6747	others
+6748	others
+6749	others
+6750	functional needs repair
+6751	others
+6752	others
+6753	others
+6754	others
+6755	functional needs repair
+6756	functional needs repair
+6757	functional needs repair
+6758	functional needs repair
+6759	functional needs repair
+6760	others
+6761	others
+6762	others
+6763	others
+6764	others
+6765	others
+6766	others
+6767	others
+6768	others
+6769	others
+6770	others
+6771	others
+6772	others
+6773	functional needs repair
+6774	others
+6775	others
+6776	others
+6777	others
+6778	others
+6779	others
+6780	others
+6781	functional needs repair
+6782	others
+6783	others
+6784	others
+6785	others
+6786	others
+6787	others
+6788	functional needs repair
+6789	others
+6790	others
+6791	others
+6792	others
+6793	others
+6794	others
+6795	others
+6796	others
+6797	others
+6798	others
+6799	others
+6800	others
+6801	others
+6802	functional needs repair
+6803	others
+6804	others
+6805	others
+6806	others
+6807	others
+6808	others
+6809	functional needs repair
+6810	others
+6811	others
+6812	others
+6813	functional needs repair
+6814	others
+6815	others
+6816	others
+6817	others
+6818	others
+6819	functional needs repair
+6820	others
+6821	others
+6822	others
+6823	others
+6824	others
+6825	others
+6826	others
+6827	others
+6828	others
+6829	others
+6830	others
+6831	functional needs repair
+6832	others
+6833	others
+6834	others
+6835	others
+6836	others
+6837	others
+6838	others
+6839	others
+6840	others
+6841	others
+6842	others
+6843	others
+6844	others
+6845	others
+6846	others
+6847	others
+6848	functional needs repair
+6849	others
+6850	others
+6851	others
+6852	functional needs repair
+6853	others
+6854	others
+6855	others
+6856	others
+6857	others
+6858	others
+6859	functional needs repair
+6860	others
+6861	others
+6862	others
+6863	functional needs repair
+6864	others
+6865	functional needs repair
+6866	others
+6867	others
+6868	others
+6869	others
+6870	others
+6871	others
+6872	others
+6873	others
+6874	others
+6875	functional needs repair
+6876	others
+6877	others
+6878	others
+6879	functional needs repair
+6880	others
+6881	others
+6882	others
+6883	others
+6884	others
+6885	functional needs repair
+6886	functional needs repair
+6887	others
+6888	others
+6889	others
+6890	others
+6891	others
+6892	others
+6893	others
+6894	others
+6895	others
+6896	others
+6897	functional needs repair
+6898	others
+6899	functional needs repair
+6900	others
+6901	others
+6902	functional needs repair
+6903	others
+6904	others
+6905	others
+6906	others
+6907	functional needs repair
+6908	others
+6909	functional needs repair
+6910	others
+6911	others
+6912	others
+6913	others
+6914	others
+6915	others
+6916	others
+6917	others
+6918	others
+6919	others
+6920	others
+6921	others
+6922	others
+6923	others
+6924	others
+6925	others
+6926	others
+6927	others
+6928	others
+6929	others
+6930	others
+6931	others
+6932	others
+6933	others
+6934	others
+6935	others
+6936	others
+6937	others
+6938	others
+6939	others
+6940	others
+6941	others
+6942	functional needs repair
+6943	others
+6944	others
+6945	others
+6946	others
+6947	functional needs repair
+6948	others
+6949	others
+6950	others
+6951	others
+6952	functional needs repair
+6953	others
+6954	functional needs repair
+6955	others
+6956	others
+6957	others
+6958	functional needs repair
+6959	others
+6960	others
+6961	functional needs repair
+6962	others
+6963	others
+6964	others
+6965	others
+6966	others
+6967	others
+6968	others
+6969	others
+6970	others
+6971	functional needs repair
+6972	others
+6973	others
+6974	others
+6975	functional needs repair
+6976	functional needs repair
+6977	functional needs repair
+6978	others
+6979	others
+6980	others
+6981	others
+6982	others
+6983	others
+6984	functional needs repair
+6985	others
+6986	others
+6987	others
+6988	others
+6989	others
+6990	others
+6991	others
+6992	others
+6993	others
+6994	others
+6995	others
+6996	others
+6997	others
+6998	functional needs repair
+6999	functional needs repair
+7000	others
+7001	others
+7002	others
+7003	others
+7004	others
+7005	others
+7006	others
+7007	others
+7008	others
+7009	functional needs repair
+7010	functional needs repair
+7011	functional needs repair
+7012	others
+7013	others
+7014	others
+7015	others
+7016	others
+7017	others
+7018	others
+7019	others
+7020	others
+7021	others
+7022	others
+7023	others
+7024	functional needs repair
+7025	others
+7026	functional needs repair
+7027	others
+7028	others
+7029	others
+7030	others
+7031	others
+7032	others
+7033	others
+7034	others
+7035	functional needs repair
+7036	others
+7037	others
+7038	others
+7039	functional needs repair
+7040	others
+7041	others
+7042	others
+7043	others
+7044	others
+7045	others
+7046	others
+7047	others
+7048	others
+7049	functional needs repair
+7050	functional needs repair
+7051	others
+7052	others
+7053	others
+7054	functional needs repair
+7055	others
+7056	others
+7057	others
+7058	others
+7059	functional needs repair
+7060	others
+7061	others
+7062	others
+7063	others
+7064	others
+7065	functional needs repair
+7066	others
+7067	others
+7068	others
+7069	others
+7070	others
+7071	others
+7072	others
+7073	others
+7074	others
+7075	others
+7076	others
+7077	others
+7078	others
+7079	others
+7080	functional needs repair
+7081	others
+7082	others
+7083	others
+7084	functional needs repair
+7085	others
+7086	others
+7087	others
+7088	others
+7089	others
+7090	others
+7091	others
+7092	others
+7093	others
+7094	others
+7095	others
+7096	functional needs repair
+7097	others
+7098	others
+7099	others
+7100	others
+7101	others
+7102	functional needs repair
+7103	others
+7104	functional needs repair
+7105	others
+7106	functional needs repair
+7107	others
+7108	others
+7109	others
+7110	others
+7111	others
+7112	others
+7113	others
+7114	functional needs repair
+7115	others
+7116	others
+7117	others
+7118	others
+7119	functional needs repair
+7120	others
+7121	others
+7122	others
+7123	others
+7124	others
+7125	others
+7126	others
+7127	others
+7128	others
+7129	others
+7130	others
+7131	others
+7132	functional needs repair
+7133	others
+7134	others
+7135	others
+7136	functional needs repair
+7137	others
+7138	functional needs repair
+7139	others
+7140	others
+7141	functional needs repair
+7142	others
+7143	others
+7144	others
+7145	others
+7146	others
+7147	others
+7148	others
+7149	others
+7150	others
+7151	functional needs repair
+7152	others
+7153	others
+7154	others
+7155	functional needs repair
+7156	others
+7157	others
+7158	others
+7159	others
+7160	others
+7161	others
+7162	others
+7163	others
+7164	functional needs repair
+7165	others
+7166	others
+7167	others
+7168	others
+7169	functional needs repair
+7170	others
+7171	others
+7172	others
+7173	others
+7174	others
+7175	functional needs repair
+7176	others
+7177	others
+7178	others
+7179	functional needs repair
+7180	others
+7181	others
+7182	others
+7183	functional needs repair
+7184	others
+7185	others
+7186	others
+7187	others
+7188	others
+7189	others
+7190	others
+7191	others
+7192	others
+7193	others
+7194	others
+7195	functional needs repair
+7196	others
+7197	others
+7198	others
+7199	others
+7200	others
+7201	others
+7202	others
+7203	others
+7204	others
+7205	others
+7206	functional needs repair
+7207	others
+7208	others
+7209	functional needs repair
+7210	functional needs repair
+7211	functional needs repair
+7212	others
+7213	others
+7214	functional needs repair
+7215	others
+7216	others
+7217	others
+7218	others
+7219	others
+7220	functional needs repair
+7221	others
+7222	others
+7223	others
+7224	others
+7225	others
+7226	functional needs repair
+7227	others
+7228	others
+7229	others
+7230	others
+7231	others
+7232	others
+7233	others
+7234	functional needs repair
+7235	functional needs repair
+7236	functional needs repair
+7237	others
+7238	others
+7239	others
+7240	others
+7241	functional needs repair
+7242	others
+7243	others
+7244	others
+7245	others
+7246	functional needs repair
+7247	others
+7248	others
+7249	others
+7250	others
+7251	functional needs repair
+7252	others
+7253	others
+7254	functional needs repair
+7255	functional needs repair
+7256	others
+7257	others
+7258	others
+7259	others
+7260	others
+7261	others
+7262	others
+7263	others
+7264	functional needs repair
+7265	others
+7266	functional needs repair
+7267	others
+7268	others
+7269	others
+7270	others
+7271	others
+7272	others
+7273	others
+7274	others
+7275	others
+7276	others
+7277	others
+7278	others
+7279	others
+7280	others
+7281	others
+7282	others
+7283	functional needs repair
+7284	others
+7285	functional needs repair
+7286	others
+7287	others
+7288	others
+7289	others
+7290	others
+7291	others
+7292	others
+7293	others
+7294	others
+7295	others
+7296	others
+7297	others
+7298	functional needs repair
+7299	others
+7300	others
+7301	others
+7302	others
+7303	others
+7304	others
+7305	others
+7306	functional needs repair
+7307	others
+7308	others
+7309	others
+7310	others
+7311	others
+7312	others
+7313	others
+7314	others
+7315	others
+7316	others
+7317	others
+7318	others
+7319	functional needs repair
+7320	functional needs repair
+7321	others
+7322	others
+7323	others
+7324	others
+7325	others
+7326	others
+7327	others
+7328	others
+7329	others
+7330	functional needs repair
+7331	others
+7332	others
+7333	others
+7334	functional needs repair
+7335	others
+7336	functional needs repair
+7337	functional needs repair
+7338	functional needs repair
+7339	others
+7340	others
+7341	others
+7342	others
+7343	others
+7344	others
+7345	functional needs repair
+7346	others
+7347	others
+7348	others
+7349	others
+7350	others
+7351	others
+7352	others
+7353	others
+7354	functional needs repair
+7355	others
+7356	others
+7357	others
+7358	others
+7359	others
+7360	others
+7361	functional needs repair
+7362	others
+7363	others
+7364	others
+7365	others
+7366	others
+7367	others
+7368	others
+7369	others
+7370	others
+7371	others
+7372	others
+7373	others
+7374	functional needs repair
+7375	others
+7376	others
+7377	others
+7378	others
+7379	functional needs repair
+7380	others
+7381	others
+7382	others
+7383	others
+7384	others
+7385	others
+7386	others
+7387	others
+7388	others
+7389	others
+7390	others
+7391	others
+7392	others
+7393	others
+7394	functional needs repair
+7395	others
+7396	others
+7397	functional needs repair
+7398	others
+7399	others
+7400	functional needs repair
+7401	others
+7402	others
+7403	others
+7404	others
+7405	others
+7406	others
+7407	others
+7408	others
+7409	others
+7410	others
+7411	others
+7412	functional needs repair
+7413	others
+7414	others
+7415	others
+7416	others
+7417	others
+7418	others
+7419	others
+7420	others
+7421	others
+7422	functional needs repair
+7423	others
+7424	functional needs repair
+7425	functional needs repair
+7426	others
+7427	others
+7428	others
+7429	others
+7430	functional needs repair
+7431	others
+7432	others
+7433	others
+7434	others
+7435	functional needs repair
+7436	others
+7437	others
+7438	others
+7439	others
+7440	others
+7441	others
+7442	others
+7443	others
+7444	others
+7445	others
+7446	others
+7447	others
+7448	functional needs repair
+7449	others
+7450	others
+7451	others
+7452	functional needs repair
+7453	others
+7454	functional needs repair
+7455	others
+7456	others
+7457	others
+7458	functional needs repair
+7459	others
+7460	others
+7461	others
+7462	others
+7463	functional needs repair
+7464	others
+7465	others
+7466	others
+7467	others
+7468	others
+7469	others
+7470	others
+7471	others
+7472	others
+7473	others
+7474	others
+7475	functional needs repair
+7476	others
+7477	others
+7478	others
+7479	functional needs repair
+7480	others
+7481	functional needs repair
+7482	functional needs repair
+7483	others
+7484	others
+7485	others
+7486	others
+7487	others
+7488	others
+7489	others
+7490	others
+7491	others
+7492	others
+7493	others
+7494	others
+7495	others
+7496	others
+7497	others
+7498	others
+7499	functional needs repair
+7500	others
+7501	others
+7502	functional needs repair
+7503	functional needs repair
+7504	others
+7505	others
+7506	others
+7507	others
+7508	others
+7509	others
+7510	others
+7511	functional needs repair
+7512	others
+7513	others
+7514	others
+7515	functional needs repair
+7516	others
+7517	others
+7518	others
+7519	others
+7520	others
+7521	others
+7522	others
+7523	others
+7524	others
+7525	others
+7526	others
+7527	others
+7528	others
+7529	others
+7530	others
+7531	others
+7532	others
+7533	functional needs repair
+7534	others
+7535	others
+7536	functional needs repair
+7537	others
+7538	others
+7539	others
+7540	others
+7541	others
+7542	others
+7543	others
+7544	others
+7545	others
+7546	functional needs repair
+7547	functional needs repair
+7548	others
+7549	others
+7550	others
+7551	others
+7552	others
+7553	others
+7554	others
+7555	others
+7556	others
+7557	others
+7558	others
+7559	others
+7560	others
+7561	functional needs repair
+7562	others
+7563	others
+7564	functional needs repair
+7565	others
+7566	others
+7567	others
+7568	others
+7569	others
+7570	others
+7571	others
+7572	others
+7573	others
+7574	others
+7575	others
+7576	others
+7577	others
+7578	others
+7579	others
+7580	others
+7581	others
+7582	others
+7583	others
+7584	others
+7585	others
+7586	others
+7587	others
+7588	others
+7589	others
+7590	others
+7591	others
+7592	others
+7593	others
+7594	others
+7595	others
+7596	others
+7597	others
+7598	others
+7599	others
+7600	others
+7601	others
+7602	others
+7603	others
+7604	others
+7605	others
+7606	others
+7607	others
+7608	others
+7609	others
+7610	others
+7611	others
+7612	functional needs repair
+7613	others
+7614	others
+7615	others
+7616	functional needs repair
+7617	others
+7618	others
+7619	others
+7620	others
+7621	others
+7622	others
+7623	others
+7624	others
+7625	others
+7626	others
+7627	others
+7628	others
+7629	others
+7630	others
+7631	others
+7632	functional needs repair
+7633	functional needs repair
+7634	others
+7635	others
+7636	others
+7637	others
+7638	others
+7639	others
+7640	others
+7641	functional needs repair
+7642	others
+7643	functional needs repair
+7644	others
+7645	others
+7646	others
+7647	others
+7648	functional needs repair
+7649	others
+7650	others
+7651	others
+7652	others
+7653	functional needs repair
+7654	others
+7655	others
+7656	others
+7657	others
+7658	others
+7659	functional needs repair
+7660	functional needs repair
+7661	others
+7662	others
+7663	others
+7664	others
+7665	others
+7666	others
+7667	others
+7668	others
+7669	others
+7670	functional needs repair
+7671	others
+7672	others
+7673	functional needs repair
+7674	others
+7675	others
+7676	others
+7677	others
+7678	others
+7679	others
+7680	others
+7681	functional needs repair
+7682	others
+7683	others
+7684	others
+7685	others
+7686	others
+7687	others
+7688	others
+7689	others
+7690	others
+7691	functional needs repair
+7692	others
+7693	functional needs repair
+7694	others
+7695	others
+7696	functional needs repair
+7697	others
+7698	others
+7699	others
+7700	others
+7701	others
+7702	others
+7703	others
+7704	others
+7705	others
+7706	others
+7707	others
+7708	others
+7709	others
+7710	others
+7711	others
+7712	others
+7713	others
+7714	others
+7715	functional needs repair
+7716	others
+7717	others
+7718	others
+7719	functional needs repair
+7720	functional needs repair
+7721	others
+7722	functional needs repair
+7723	functional needs repair
+7724	others
+7725	others
+7726	functional needs repair
+7727	functional needs repair
+7728	others
+7729	others
+7730	others
+7731	others
+7732	others
+7733	functional needs repair
+7734	others
+7735	others
+7736	functional needs repair
+7737	others
+7738	others
+7739	others
+7740	others
+7741	others
+7742	others
+7743	others
+7744	functional needs repair
+7745	others
+7746	others
+7747	others
+7748	others
+7749	others
+7750	functional needs repair
+7751	others
+7752	others
+7753	others
+7754	others
+7755	others
+7756	others
+7757	others
+7758	others
+7759	others
+7760	functional needs repair
+7761	others
+7762	others
+7763	functional needs repair
+7764	others
+7765	functional needs repair
+7766	others
+7767	others
+7768	others
+7769	others
+7770	others
+7771	others
+7772	others
+7773	others
+7774	others
+7775	others
+7776	others
+7777	others
+7778	others
+7779	others
+7780	others
+7781	functional needs repair
+7782	functional needs repair
+7783	others
+7784	others
+7785	others
+7786	others
+7787	functional needs repair
+7788	functional needs repair
+7789	others
+7790	others
+7791	others
+7792	others
+7793	others
+7794	others
+7795	others
+7796	others
+7797	others
+7798	others
+7799	others
+7800	others
+7801	others
+7802	others
+7803	others
+7804	functional needs repair
+7805	others
+7806	others
+7807	others
+7808	others
+7809	functional needs repair
+7810	functional needs repair
+7811	others
+7812	others
+7813	functional needs repair
+7814	others
+7815	others
+7816	others
+7817	functional needs repair
+7818	functional needs repair
+7819	others
+7820	others
+7821	others
+7822	functional needs repair
+7823	others
+7824	others
+7825	others
+7826	others
+7827	others
+7828	others
+7829	others
+7830	others
+7831	others
+7832	others
+7833	others
+7834	others
+7835	others
+7836	others
+7837	others
+7838	others
+7839	others
+7840	others
+7841	others
+7842	others
+7843	others
+7844	others
+7845	others
+7846	others
+7847	others
+7848	others
+7849	others
+7850	others
+7851	others
+7852	others
+7853	functional needs repair
+7854	others
+7855	others
+7856	others
+7857	others
+7858	others
+7859	others
+7860	others
+7861	functional needs repair
+7862	functional needs repair
+7863	functional needs repair
+7864	functional needs repair
+7865	others
+7866	others
+7867	others
+7868	others
+7869	others
+7870	functional needs repair
+7871	others
+7872	others
+7873	others
+7874	others
+7875	others
+7876	others
+7877	others
+7878	others
+7879	others
+7880	others
+7881	others
+7882	functional needs repair
+7883	others
+7884	others
+7885	others
+7886	functional needs repair
+7887	others
+7888	others
+7889	others
+7890	others
+7891	functional needs repair
+7892	others
+7893	others
+7894	others
+7895	others
+7896	others
+7897	others
+7898	others
+7899	others
+7900	others
+7901	others
+7902	others
+7903	others
+7904	functional needs repair
+7905	others
+7906	others
+7907	others
+7908	others
+7909	others
+7910	others
+7911	functional needs repair
+7912	others
+7913	others
+7914	others
+7915	others
+7916	others
+7917	others
+7918	functional needs repair
+7919	functional needs repair
+7920	functional needs repair
+7921	others
+7922	others
+7923	others
+7924	others
+7925	others
+7926	others
+7927	others
+7928	functional needs repair
+7929	others
+7930	others
+7931	others
+7932	others
+7933	others
+7934	functional needs repair
+7935	others
+7936	others
+7937	functional needs repair
+7938	others
+7939	others
+7940	others
+7941	others
+7942	others
+7943	functional needs repair
+7944	others
+7945	others
+7946	others
+7947	others
+7948	others
+7949	others
+7950	others
+7951	others
+7952	others
+7953	functional needs repair
+7954	functional needs repair
+7955	others
+7956	others
+7957	others
+7958	others
+7959	others
+7960	others
+7961	others
+7962	others
+7963	others
+7964	others
+7965	functional needs repair
+7966	others
+7967	others
+7968	others
+7969	others
+7970	functional needs repair
+7971	others
+7972	others
+7973	others
+7974	others
+7975	others
+7976	functional needs repair
+7977	others
+7978	functional needs repair
+7979	others
+7980	others
+7981	others
+7982	others
+7983	others
+7984	functional needs repair
+7985	others
+7986	others
+7987	others
+7988	others
+7989	others
+7990	others
+7991	others
+7992	others
+7993	others
+7994	others
+7995	functional needs repair
+7996	others
+7997	others
+7998	others
+7999	functional needs repair
+8000	functional needs repair
+8001	others
+8002	others
+8003	others
+8004	others
+8005	others
+8006	functional needs repair
+8007	functional needs repair
+8008	others
+8009	others
+8010	others
+8011	others
+8012	others
+8013	others
+8014	others
+8015	others
+8016	functional needs repair
+8017	functional needs repair
+8018	others
+8019	functional needs repair
+8020	others
+8021	others
+8022	others
+8023	others
+8024	others
+8025	others
+8026	others
+8027	others
+8028	others
+8029	functional needs repair
+8030	functional needs repair
+8031	functional needs repair
+8032	others
+8033	functional needs repair
+8034	others
+8035	others
+8036	others
+8037	others
+8038	others
+8039	others
+8040	others
+8041	others
+8042	functional needs repair
+8043	others
+8044	others
+8045	others
+8046	functional needs repair
+8047	functional needs repair
+8048	functional needs repair
+8049	others
+8050	functional needs repair
+8051	functional needs repair
+8052	others
+8053	others
+8054	others
+8055	others
+8056	others
+8057	functional needs repair
+8058	others
+8059	others
+8060	others
+8061	others
+8062	others
+8063	functional needs repair
+8064	functional needs repair
+8065	others
+8066	others
+8067	others
+8068	functional needs repair
+8069	others
+8070	others
+8071	others
+8072	others
+8073	others
+8074	others
+8075	others
+8076	others
+8077	others
+8078	functional needs repair
+8079	others
+8080	others
+8081	others
+8082	others
+8083	functional needs repair
+8084	others
+8085	functional needs repair
+8086	others
+8087	others
+8088	others
+8089	others
+8090	others
+8091	others
+8092	others
+8093	others
+8094	others
+8095	others
+8096	others
+8097	others
+8098	others
+8099	others
+8100	others
+8101	others
+8102	others
+8103	others
+8104	others
+8105	others
+8106	functional needs repair
+8107	others
+8108	functional needs repair
+8109	others
+8110	others
+8111	functional needs repair
+8112	functional needs repair
+8113	others
+8114	functional needs repair
+8115	functional needs repair
+8116	others
+8117	others
+8118	functional needs repair
+8119	functional needs repair
+8120	others
+8121	others
+8122	others
+8123	others
+8124	others
+8125	others
+8126	others
+8127	others
+8128	others
+8129	others
+8130	others
+8131	others
+8132	others
+8133	functional needs repair
+8134	others
+8135	others
+8136	others
+8137	others
+8138	others
+8139	others
+8140	others
+8141	others
+8142	others
+8143	others
+8144	others
+8145	others
+8146	others
+8147	others
+8148	others
+8149	others
+8150	others
+8151	others
+8152	others
+8153	others
+8154	others
+8155	others
+8156	others
+8157	others
+8158	others
+8159	others
+8160	others
+8161	others
+8162	others
+8163	others
+8164	others
+8165	functional needs repair
+8166	functional needs repair
+8167	others
+8168	others
+8169	others
+8170	others
+8171	others
+8172	others
+8173	others
+8174	others
+8175	others
+8176	others
+8177	others
+8178	functional needs repair
+8179	others
+8180	others
+8181	others
+8182	others
+8183	others
+8184	others
+8185	others
+8186	others
+8187	others
+8188	others
+8189	others
+8190	functional needs repair
+8191	others
+8192	others
+8193	functional needs repair
+8194	others
+8195	others
+8196	others
+8197	others
+8198	others
+8199	others
+8200	functional needs repair
+8201	others
+8202	others
+8203	others
+8204	others
+8205	others
+8206	others
+8207	functional needs repair
+8208	others
+8209	others
+8210	functional needs repair
+8211	others
+8212	others
+8213	others
+8214	others
+8215	others
+8216	others
+8217	functional needs repair
+8218	others
+8219	others
+8220	others
+8221	others
+8222	others
+8223	others
+8224	others
+8225	others
+8226	functional needs repair
+8227	others
+8228	others
+8229	others
+8230	others
+8231	others
+8232	others
+8233	others
+8234	others
+8235	functional needs repair
+8236	others
+8237	others
+8238	others
+8239	others
+8240	others
+8241	others
+8242	others
+8243	others
+8244	others
+8245	others
+8246	others
+8247	others
+8248	others
+8249	others
+8250	others
+8251	others
+8252	others
+8253	others
+8254	functional needs repair
+8255	others
+8256	others
+8257	functional needs repair
+8258	functional needs repair
+8259	others
+8260	others
+8261	functional needs repair
+8262	others
+8263	others
+8264	others
+8265	functional needs repair
+8266	functional needs repair
+8267	others
+8268	functional needs repair
+8269	others
+8270	others
+8271	others
+8272	functional needs repair
+8273	others
+8274	others
+8275	functional needs repair
+8276	others
+8277	functional needs repair
+8278	others
+8279	functional needs repair
+8280	others
+8281	others
+8282	others
+8283	others
+8284	others
+8285	others
+8286	others
+8287	functional needs repair
+8288	functional needs repair
+8289	others
+8290	functional needs repair
+8291	others
+8292	others
+8293	others
+8294	others
+8295	others
+8296	others
+8297	others
+8298	functional needs repair
+8299	others
+8300	functional needs repair
+8301	others
+8302	others
+8303	others
+8304	others
+8305	others
+8306	others
+8307	others
+8308	others
+8309	others
+8310	others
+8311	others
+8312	functional needs repair
+8313	others
+8314	others
+8315	others
+8316	others
+8317	others
+8318	others
+8319	others
+8320	others
+8321	others
+8322	others
+8323	others
+8324	others
+8325	others
+8326	functional needs repair
+8327	others
+8328	others
+8329	others
+8330	others
+8331	others
+8332	others
+8333	others
+8334	others
+8335	others
+8336	others
+8337	functional needs repair
+8338	others
+8339	others
+8340	others
+8341	functional needs repair
+8342	others
+8343	others
+8344	others
+8345	others
+8346	others
+8347	others
+8348	others
+8349	others
+8350	others
+8351	others
+8352	others
+8353	others
+8354	others
+8355	functional needs repair
+8356	others
+8357	functional needs repair
+8358	others
+8359	functional needs repair
+8360	others
+8361	functional needs repair
+8362	functional needs repair
+8363	others
+8364	functional needs repair
+8365	others
+8366	others
+8367	others
+8368	others
+8369	others
+8370	others
+8371	functional needs repair
+8372	others
+8373	others
+8374	others
+8375	others
+8376	others
+8377	others
+8378	others
+8379	functional needs repair
+8380	others
+8381	others
+8382	others
+8383	others
+8384	others
+8385	others
+8386	others
+8387	others
+8388	others
+8389	others
+8390	others
+8391	others
+8392	functional needs repair
+8393	others
+8394	others
+8395	others
+8396	others
+8397	others
+8398	others
+8399	others
+8400	others
+8401	others
+8402	others
+8403	functional needs repair
+8404	others
+8405	others
+8406	others
+8407	functional needs repair
+8408	others
+8409	others
+8410	others
+8411	others
+8412	others
+8413	others
+8414	others
+8415	others
+8416	others
+8417	others
+8418	others
+8419	others
+8420	others
+8421	others
+8422	others
+8423	functional needs repair
+8424	others
+8425	others
+8426	others
+8427	functional needs repair
+8428	others
+8429	others
+8430	others
+8431	others
+8432	functional needs repair
+8433	others
+8434	functional needs repair
+8435	others
+8436	others
+8437	others
+8438	others
+8439	others
+8440	functional needs repair
+8441	others
+8442	functional needs repair
+8443	others
+8444	functional needs repair
+8445	others
+8446	others
+8447	others
+8448	others
+8449	others
+8450	others
+8451	functional needs repair
+8452	others
+8453	others
+8454	functional needs repair
+8455	others
+8456	others
+8457	others
+8458	others
+8459	others
+8460	others
+8461	others
+8462	others
+8463	others
+8464	others
+8465	others
+8466	functional needs repair
+8467	others
+8468	others
+8469	others
+8470	others
+8471	others
+8472	others
+8473	others
+8474	functional needs repair
+8475	others
+8476	functional needs repair
+8477	others
+8478	others
+8479	others
+8480	others
+8481	others
+8482	others
+8483	others
+8484	others
+8485	others
+8486	others
+8487	functional needs repair
+8488	others
+8489	others
+8490	others
+8491	others
+8492	others
+8493	functional needs repair
+8494	others
+8495	functional needs repair
+8496	others
+8497	functional needs repair
+8498	others
+8499	others
+8500	others
+8501	others
+8502	others
+8503	others
+8504	others
+8505	others
+8506	others
+8507	others
+8508	others
+8509	others
+8510	others
+8511	others
+8512	others
+8513	others
+8514	others
+8515	others
+8516	others
+8517	others
+8518	functional needs repair
+8519	functional needs repair
+8520	functional needs repair
+8521	others
+8522	others
+8523	functional needs repair
+8524	others
+8525	others
+8526	others
+8527	others
+8528	functional needs repair
+8529	others
+8530	others
+8531	others
+8532	others
+8533	others
+8534	others
+8535	others
+8536	others
+8537	functional needs repair
+8538	others
+8539	others
+8540	others
+8541	others
+8542	others
+8543	functional needs repair
+8544	others
+8545	others
+8546	others
+8547	others
+8548	others
+8549	functional needs repair
+8550	others
+8551	others
+8552	others
+8553	functional needs repair
+8554	others
+8555	others
+8556	functional needs repair
+8557	others
+8558	others
+8559	functional needs repair
+8560	others
+8561	others
+8562	others
+8563	others
+8564	others
+8565	others
+8566	others
+8567	functional needs repair
+8568	others
+8569	others
+8570	others
+8571	others
+8572	others
+8573	functional needs repair
+8574	others
+8575	others
+8576	others
+8577	others
+8578	functional needs repair
+8579	others
+8580	others
+8581	others
+8582	others
+8583	others
+8584	functional needs repair
+8585	others
+8586	others
+8587	others
+8588	others
+8589	others
+8590	others
+8591	others
+8592	functional needs repair
+8593	functional needs repair
+8594	functional needs repair
+8595	others
+8596	others
+8597	others
+8598	others
+8599	others
+8600	others
+8601	others
+8602	others
+8603	others
+8604	others
+8605	functional needs repair
+8606	others
+8607	others
+8608	others
+8609	others
+8610	others
+8611	others
+8612	functional needs repair
+8613	others
+8614	others
+8615	others
+8616	others
+8617	functional needs repair
+8618	others
+8619	others
+8620	others
+8621	others
+8622	others
+8623	others
+8624	functional needs repair
+8625	others
+8626	others
+8627	others
+8628	others
+8629	others
+8630	others
+8631	functional needs repair
+8632	others
+8633	others
+8634	others
+8635	others
+8636	others
+8637	others
+8638	others
+8639	others
+8640	others
+8641	others
+8642	functional needs repair
+8643	others
+8644	others
+8645	functional needs repair
+8646	others
+8647	others
+8648	others
+8649	functional needs repair
+8650	others
+8651	others
+8652	others
+8653	others
+8654	functional needs repair
+8655	others
+8656	others
+8657	others
+8658	functional needs repair
+8659	others
+8660	others
+8661	others
+8662	functional needs repair
+8663	others
+8664	functional needs repair
+8665	others
+8666	functional needs repair
+8667	others
+8668	others
+8669	functional needs repair
+8670	others
+8671	others
+8672	others
+8673	functional needs repair
+8674	others
+8675	others
+8676	others
+8677	others
+8678	others
+8679	others
+8680	others
+8681	others
+8682	functional needs repair
+8683	others
+8684	functional needs repair
+8685	others
+8686	others
+8687	others
+8688	others
+8689	functional needs repair
+8690	others
+8691	functional needs repair
+8692	functional needs repair
+8693	others
+8694	others
+8695	others
+8696	functional needs repair
+8697	others
+8698	functional needs repair
+8699	functional needs repair
+8700	others
+8701	others
+8702	functional needs repair
+8703	others
+8704	others
+8705	others
+8706	others
+8707	others
+8708	others
+8709	functional needs repair
+8710	others
+8711	others
+8712	others
+8713	others
+8714	others
+8715	others
+8716	others
+8717	functional needs repair
+8718	others
+8719	others
+8720	others
+8721	others
+8722	others
+8723	functional needs repair
+8724	functional needs repair
+8725	others
+8726	others
+8727	others
+8728	others
+8729	others
+8730	others
+8731	others
+8732	functional needs repair
+8733	others
+8734	others
+8735	others
+8736	others
+8737	others
+8738	others
+8739	functional needs repair
+8740	others
+8741	others
+8742	others
+8743	functional needs repair
+8744	others
+8745	others
+8746	others
+8747	others
+8748	functional needs repair
+8749	others
+8750	others
+8751	others
+8752	others
+8753	others
+8754	others
+8755	functional needs repair
+8756	others
+8757	others
+8758	others
+8759	others
+8760	functional needs repair
+8761	others
+8762	others
+8763	others
+8764	others
+8765	others
+8766	others
+8767	others
+8768	others
+8769	others
+8770	others
+8771	functional needs repair
+8772	others
+8773	others
+8774	others
+8775	others
+8776	others
+8777	functional needs repair
+8778	others
+8779	others
+8780	others
+8781	functional needs repair
+8782	others
+8783	others
+8784	others
+8785	others
+8786	others
+8787	others
+8788	others
+8789	others
+8790	others
+8791	others
+8792	others
+8793	functional needs repair
+8794	others
+8795	others
+8796	others
+8797	others
+8798	others
+8799	others
+8800	others
+8801	functional needs repair
+8802	functional needs repair
+8803	others
+8804	others
+8805	others
+8806	others
+8807	others
+8808	others
+8809	others
+8810	functional needs repair
+8811	others
+8812	others
+8813	others
+8814	others
+8815	others
+8816	others
+8817	others
+8818	others
+8819	functional needs repair
+8820	others
+8821	others
+8822	others
+8823	functional needs repair
+8824	others
+8825	others
+8826	others
+8827	others
+8828	others
+8829	others
+8830	others
+8831	others
+8832	others
+8833	functional needs repair
+8834	others
+8835	others
+8836	others
+8837	others
+8838	others
+8839	others
+8840	others
+8841	others
+8842	others
+8843	others
+8844	others
+8845	others
+8846	others
+8847	others
+8848	others
+8849	others
+8850	others
+8851	others
+8852	others
+8853	functional needs repair
+8854	functional needs repair
+8855	functional needs repair
+8856	others
+8857	others
+8858	others
+8859	others
+8860	functional needs repair
+8861	others
+8862	others
+8863	others
+8864	functional needs repair
+8865	others
+8866	others
+8867	functional needs repair
+8868	functional needs repair
+8869	others
+8870	others
+8871	functional needs repair
+8872	functional needs repair
+8873	others
+8874	others
+8875	functional needs repair
+8876	others
+8877	functional needs repair
+8878	functional needs repair
+8879	others
+8880	others
+8881	others
+8882	others
+8883	others
+8884	others
+8885	others
+8886	others
+8887	functional needs repair
+8888	others
+8889	others
+8890	functional needs repair
+8891	functional needs repair
+8892	others
+8893	others
+8894	others
+8895	others
+8896	others
+8897	functional needs repair
+8898	others
+8899	functional needs repair
+8900	others
+8901	others
+8902	others
+8903	others
+8904	functional needs repair
+8905	others
+8906	others
+8907	others
+8908	others
+8909	others
+8910	others
+8911	others
+8912	others
+8913	others
+8914	others
+8915	others
+8916	others
+8917	others
+8918	others
+8919	others
+8920	others
+8921	others
+8922	others
+8923	others
+8924	functional needs repair
+8925	others
+8926	others
+8927	others
+8928	others
+8929	others
+8930	others
+8931	functional needs repair
+8932	others
+8933	functional needs repair
+8934	others
+8935	functional needs repair
+8936	others
+8937	others
+8938	others
+8939	functional needs repair
+8940	others
+8941	others
+8942	others
+8943	others
+8944	others
+8945	others
+8946	others
+8947	others
+8948	others
+8949	others
+8950	functional needs repair
+8951	others
+8952	others
+8953	others
+8954	others
+8955	others
+8956	others
+8957	others
+8958	others
+8959	others
+8960	functional needs repair
+8961	functional needs repair
+8962	others
+8963	others
+8964	others
+8965	functional needs repair
+8966	others
+8967	others
+8968	others
+8969	others
+8970	others
+8971	others
+8972	others
+8973	others
+8974	others
+8975	others
+8976	functional needs repair
+8977	others
+8978	others
+8979	others
+8980	others
+8981	others
+8982	others
+8983	others
+8984	functional needs repair
+8985	others
+8986	others
+8987	others
+8988	others
+8989	others
+8990	others
+8991	others
+8992	functional needs repair
+8993	others
+8994	others
+8995	others
+8996	functional needs repair
+8997	others
+8998	functional needs repair
+8999	others
+9000	others
+9001	others
+9002	others
+9003	functional needs repair
+9004	others
+9005	others
+9006	others
+9007	others
+9008	others
+9009	others
+9010	others
+9011	others
+9012	others
+9013	others
+9014	functional needs repair
+9015	others
+9016	others
+9017	others
+9018	functional needs repair
+9019	others
+9020	others
+9021	others
+9022	others
+9023	others
+9024	others
+9025	others
+9026	others
+9027	functional needs repair
+9028	others
+9029	functional needs repair
+9030	others
+9031	others
+9032	others
+9033	others
+9034	functional needs repair
+9035	others
+9036	others
+9037	others
+9038	functional needs repair
+9039	others
+9040	others
+9041	functional needs repair
+9042	others
+9043	functional needs repair
+9044	others
+9045	others
+9046	others
+9047	others
+9048	others
+9049	others
+9050	others
+9051	others
+9052	others
+9053	others
+9054	others
+9055	others
+9056	others
+9057	others
+9058	others
+9059	others
+9060	others
+9061	others
+9062	others
+9063	others
+9064	others
+9065	others
+9066	others
+9067	others
+9068	others
+9069	others
+9070	others
+9071	others
+9072	functional needs repair
+9073	others
+9074	others
+9075	others
+9076	others
+9077	others
+9078	functional needs repair
+9079	others
+9080	others
+9081	others
+9082	others
+9083	others
+9084	others
+9085	others
+9086	functional needs repair
+9087	others
+9088	others
+9089	others
+9090	others
+9091	others
+9092	others
+9093	functional needs repair
+9094	others
+9095	others
+9096	others
+9097	others
+9098	others
+9099	others
+9100	others
+9101	others
+9102	others
+9103	functional needs repair
+9104	others
+9105	others
+9106	others
+9107	others
+9108	others
+9109	others
+9110	others
+9111	others
+9112	functional needs repair
+9113	others
+9114	others
+9115	others
+9116	functional needs repair
+9117	others
+9118	others
+9119	others
+9120	functional needs repair
+9121	functional needs repair
+9122	functional needs repair
+9123	others
+9124	others
+9125	others
+9126	others
+9127	others
+9128	others
+9129	others
+9130	functional needs repair
+9131	others
+9132	others
+9133	functional needs repair
+9134	others
+9135	others
+9136	others
+9137	others
+9138	others
+9139	others
+9140	functional needs repair
+9141	others
+9142	others
+9143	others
+9144	others
+9145	others
+9146	others
+9147	others
+9148	others
+9149	others
+9150	others
+9151	functional needs repair
+9152	functional needs repair
+9153	others
+9154	others
+9155	others
+9156	others
+9157	others
+9158	others
+9159	others
+9160	functional needs repair
+9161	others
+9162	functional needs repair
+9163	others
+9164	others
+9165	functional needs repair
+9166	others
+9167	others
+9168	others
+9169	others
+9170	others
+9171	others
+9172	functional needs repair
+9173	others
+9174	functional needs repair
+9175	others
+9176	functional needs repair
+9177	others
+9178	others
+9179	others
+9180	others
+9181	others
+9182	others
+9183	others
+9184	functional needs repair
+9185	others
+9186	others
+9187	others
+9188	others
+9189	others
+9190	others
+9191	others
+9192	others
+9193	functional needs repair
+9194	others
+9195	others
+9196	others
+9197	others
+9198	others
+9199	others
+9200	others
+9201	others
+9202	others
+9203	functional needs repair
+9204	others
+9205	others
+9206	functional needs repair
+9207	others
+9208	functional needs repair
+9209	others
+9210	others
+9211	others
+9212	others
+9213	others
+9214	others
+9215	others
+9216	others
+9217	others
+9218	others
+9219	others
+9220	others
+9221	others
+9222	functional needs repair
+9223	functional needs repair
+9224	others
+9225	others
+9226	others
+9227	functional needs repair
+9228	others
+9229	others
+9230	others
+9231	functional needs repair
+9232	functional needs repair
+9233	others
+9234	others
+9235	others
+9236	others
+9237	functional needs repair
+9238	others
+9239	others
+9240	others
+9241	functional needs repair
+9242	others
+9243	others
+9244	others
+9245	others
+9246	functional needs repair
+9247	functional needs repair
+9248	functional needs repair
+9249	others
+9250	others
+9251	others
+9252	others
+9253	others
+9254	others
+9255	others
+9256	functional needs repair
+9257	others
+9258	functional needs repair
+9259	others
+9260	others
+9261	others
+9262	others
+9263	others
+9264	others
+9265	others
+9266	others
+9267	others
+9268	others
+9269	others
+9270	others
+9271	others
+9272	others
+9273	others
+9274	others
+9275	others
+9276	others
+9277	others
+9278	others
+9279	others
+9280	functional needs repair
+9281	others
+9282	others
+9283	others
+9284	others
+9285	others
+9286	others
+9287	others
+9288	others
+9289	others
+9290	functional needs repair
+9291	others
+9292	others
+9293	others
+9294	others
+9295	functional needs repair
+9296	others
+9297	others
+9298	others
+9299	others
+9300	functional needs repair
+9301	functional needs repair
+9302	others
+9303	others
+9304	others
+9305	others
+9306	others
+9307	others
+9308	others
+9309	others
+9310	others
+9311	others
+9312	others
+9313	others
+9314	others
+9315	functional needs repair
+9316	others
+9317	functional needs repair
+9318	functional needs repair
+9319	others
+9320	others
+9321	others
+9322	others
+9323	others
+9324	others
+9325	functional needs repair
+9326	others
+9327	others
+9328	others
+9329	others
+9330	others
+9331	others
+9332	functional needs repair
+9333	others
+9334	others
+9335	others
+9336	others
+9337	others
+9338	others
+9339	others
+9340	others
+9341	others
+9342	others
+9343	others
+9344	others
+9345	others
+9346	others
+9347	others
+9348	others
+9349	others
+9350	others
+9351	functional needs repair
+9352	others
+9353	functional needs repair
+9354	functional needs repair
+9355	others
+9356	functional needs repair
+9357	others
+9358	others
+9359	others
+9360	others
+9361	functional needs repair
+9362	others
+9363	others
+9364	others
+9365	others
+9366	others
+9367	others
+9368	others
+9369	others
+9370	others
+9371	functional needs repair
+9372	others
+9373	others
+9374	others
+9375	others
+9376	functional needs repair
+9377	others
+9378	others
+9379	functional needs repair
+9380	others
+9381	others
+9382	others
+9383	others
+9384	functional needs repair
+9385	others
+9386	others
+9387	others
+9388	others
+9389	functional needs repair
+9390	functional needs repair
+9391	others
+9392	others
+9393	functional needs repair
+9394	others
+9395	others
+9396	others
+9397	others
+9398	others
+9399	others
+9400	others
+9401	functional needs repair
+9402	others
+9403	others
+9404	others
+9405	others
+9406	functional needs repair
+9407	others
+9408	others
+9409	others
+9410	others
+9411	others
+9412	others
+9413	others
+9414	others
+9415	others
+9416	others
+9417	others
+9418	others
+9419	functional needs repair
+9420	others
+9421	others
+9422	others
+9423	others
+9424	others
+9425	others
+9426	others
+9427	others
+9428	others
+9429	others
+9430	others
+9431	others
+9432	others
+9433	functional needs repair
+9434	others
+9435	others
+9436	functional needs repair
+9437	functional needs repair
+9438	others
+9439	others
+9440	others
+9441	others
+9442	functional needs repair
+9443	others
+9444	others
+9445	others
+9446	others
+9447	others
+9448	others
+9449	others
+9450	others
+9451	others
+9452	others
+9453	others
+9454	functional needs repair
+9455	functional needs repair
+9456	others
+9457	others
+9458	others
+9459	functional needs repair
+9460	others
+9461	others
+9462	others
+9463	others
+9464	others
+9465	others
+9466	others
+9467	others
+9468	others
+9469	others
+9470	others
+9471	functional needs repair
+9472	others
+9473	others
+9474	functional needs repair
+9475	others
+9476	functional needs repair
+9477	others
+9478	others
+9479	others
+9480	others
+9481	others
+9482	functional needs repair
+9483	functional needs repair
+9484	others
+9485	others
+9486	others
+9487	others
+9488	others
+9489	others
+9490	others
+9491	others
+9492	others
+9493	others
+9494	others
+9495	others
+9496	functional needs repair
+9497	others
+9498	functional needs repair
+9499	others
+9500	others
+9501	others
+9502	others
+9503	functional needs repair
+9504	others
+9505	others
+9506	others
+9507	others
+9508	others
+9509	others
+9510	others
+9511	others
+9512	others
+9513	others
+9514	others
+9515	others
+9516	others
+9517	others
+9518	others
+9519	others
+9520	others
+9521	functional needs repair
+9522	others
+9523	functional needs repair
+9524	others
+9525	others
+9526	others
+9527	others
+9528	others
+9529	others
+9530	others
+9531	others
+9532	functional needs repair
+9533	functional needs repair
+9534	others
+9535	others
+9536	others
+9537	others
+9538	functional needs repair
+9539	others
+9540	others
+9541	others
+9542	others
+9543	others
+9544	others
+9545	others
+9546	others
+9547	others
+9548	others
+9549	functional needs repair
+9550	functional needs repair
+9551	others
+9552	functional needs repair
+9553	others
+9554	others
+9555	others
+9556	functional needs repair
+9557	others
+9558	functional needs repair
+9559	others
+9560	others
+9561	others
+9562	functional needs repair
+9563	others
+9564	functional needs repair
+9565	others
+9566	functional needs repair
+9567	others
+9568	others
+9569	others
+9570	others
+9571	others
+9572	others
+9573	functional needs repair
+9574	functional needs repair
+9575	functional needs repair
+9576	others
+9577	others
+9578	functional needs repair
+9579	others
+9580	others
+9581	others
+9582	others
+9583	functional needs repair
+9584	others
+9585	others
+9586	others
+9587	others
+9588	others
+9589	others
+9590	others
+9591	others
+9592	others
+9593	others
+9594	others
+9595	others
+9596	others
+9597	others
+9598	others
+9599	others
+9600	others
+9601	others
+9602	others
+9603	functional needs repair
+9604	functional needs repair
+9605	others
+9606	functional needs repair
+9607	others
+9608	others
+9609	others
+9610	functional needs repair
+9611	others
+9612	functional needs repair
+9613	functional needs repair
+9614	others
+9615	others
+9616	others
+9617	functional needs repair
+9618	others
+9619	others
+9620	others
+9621	functional needs repair
+9622	others
+9623	others
+9624	others
+9625	functional needs repair
+9626	functional needs repair
+9627	others
+9628	others
+9629	others
+9630	others
+9631	functional needs repair
+9632	others
+9633	others
+9634	others
+9635	others
+9636	others
+9637	others
+9638	functional needs repair
+9639	others
+9640	others
+9641	others
+9642	others
+9643	others
+9644	others
+9645	others
+9646	others
+9647	others
+9648	others
+9649	functional needs repair
+9650	others
+9651	others
+9652	others
+9653	others
+9654	others
+9655	others
+9656	functional needs repair
+9657	others
+9658	others
+9659	others
+9660	others
+9661	functional needs repair
+9662	others
+9663	functional needs repair
+9664	others
+9665	others
+9666	functional needs repair
+9667	others
+9668	functional needs repair
+9669	others
+9670	others
+9671	others
+9672	others
+9673	others
+9674	others
+9675	others
+9676	others
+9677	others
+9678	others
+9679	others
+9680	others
+9681	others
+9682	others
+9683	others
+9684	others
+9685	others
+9686	others
+9687	others
+9688	functional needs repair
+9689	others
+9690	others
+9691	others
+9692	functional needs repair
+9693	functional needs repair
+9694	others
+9695	functional needs repair
+9696	functional needs repair
+9697	others
+9698	others
+9699	others
+9700	others
+9701	others
+9702	others
+9703	functional needs repair
+9704	others
+9705	others
+9706	others
+9707	others
+9708	others
+9709	others
+9710	functional needs repair
+9711	others
+9712	others
+9713	others
+9714	others
+9715	functional needs repair
+9716	functional needs repair
+9717	others
+9718	others
+9719	others
+9720	others
+9721	others
+9722	others
+9723	others
+9724	others
+9725	functional needs repair
+9726	functional needs repair
+9727	others
+9728	others
+9729	others
+9730	functional needs repair
+9731	functional needs repair
+9732	others
+9733	others
+9734	others
+9735	others
+9736	others
+9737	others
+9738	functional needs repair
+9739	others
+9740	functional needs repair
+9741	functional needs repair
+9742	others
+9743	others
+9744	others
+9745	others
+9746	others
+9747	others
+9748	others
+9749	others
+9750	others
+9751	others
+9752	others
+9753	functional needs repair
+9754	others
+9755	others
+9756	others
+9757	others
+9758	others
+9759	others
+9760	functional needs repair
+9761	others
+9762	others
+9763	others
+9764	others
+9765	functional needs repair
+9766	others
+9767	others
+9768	others
+9769	others
+9770	others
+9771	others
+9772	others
+9773	others
+9774	others
+9775	functional needs repair
+9776	others
+9777	others
+9778	others
+9779	others
+9780	others
+9781	functional needs repair
+9782	others
+9783	others
+9784	others
+9785	others
+9786	others
+9787	others
+9788	others
+9789	others
+9790	others
+9791	others
+9792	functional needs repair
+9793	others
+9794	others
+9795	others
+9796	others
+9797	others
+9798	others
+9799	others
+9800	others
+9801	others
+9802	others
+9803	others
+9804	functional needs repair
+9805	others
+9806	others
+9807	others
+9808	others
+9809	others
+9810	others
+9811	others
+9812	others
+9813	others
+9814	others
+9815	others
+9816	functional needs repair
+9817	others
+9818	others
+9819	others
+9820	others
+9821	others
+9822	others
+9823	functional needs repair
+9824	others
+9825	others
+9826	functional needs repair
+9827	others
+9828	others
+9829	others
+9830	others
+9831	others
+9832	others
+9833	others
+9834	others
+9835	others
+9836	others
+9837	functional needs repair
+9838	others
+9839	others
+9840	others
+9841	functional needs repair
+9842	others
+9843	others
+9844	others
+9845	others
+9846	others
+9847	others
+9848	others
+9849	others
+9850	others
+9851	others
+9852	others
+9853	others
+9854	others
+9855	others
+9856	others
+9857	others
+9858	others
+9859	functional needs repair
+9860	others
+9861	others
+9862	others
+9863	others
+9864	others
+9865	others
+9866	functional needs repair
+9867	others
+9868	others
+9869	others
+9870	others
+9871	others
+9872	others
+9873	others
+9874	functional needs repair
+9875	others
+9876	functional needs repair
+9877	others
+9878	others
+9879	others
+9880	others
+9881	others
+9882	others
+9883	others
+9884	others
+9885	others
+9886	functional needs repair
+9887	others
+9888	others
+9889	others
+9890	others
+9891	others
+9892	others
+9893	functional needs repair
+9894	others
+9895	others
+9896	others
+9897	functional needs repair
+9898	others
+9899	functional needs repair
+9900	others
+9901	others
+9902	functional needs repair
+9903	others
+9904	others
+9905	others
+9906	others
+9907	others
+9908	others
+9909	others
+9910	others
+9911	others
+9912	others
+9913	others
+9914	others
+9915	others
+9916	others
+9917	others
+9918	others
+9919	others
+9920	others
+9921	others
+9922	others
+9923	functional needs repair
+9924	others
+9925	others
+9926	others
+9927	others
+9928	others
+9929	others
+9930	functional needs repair
+9931	others
+9932	functional needs repair
+9933	others
+9934	others
+9935	others
+9936	others
+9937	others
+9938	functional needs repair
+9939	others
+9940	others
+9941	others
+9942	functional needs repair
+9943	others
+9944	others
+9945	others
+9946	others
+9947	others
+9948	others
+9949	others
+9950	others
+9951	others
+9952	others
+9953	others
+9954	others
+9955	others
+9956	others
+9957	others
+9958	others
+9959	others
+9960	functional needs repair
+9961	functional needs repair
+9962	others
+9963	others
+9964	functional needs repair
+9965	others
+9966	others
+9967	functional needs repair
+9968	others
+9969	functional needs repair
+9970	others
+9971	others
+9972	others
+9973	functional needs repair
+9974	others
+9975	functional needs repair
+9976	others
+9977	others
+9978	others
+9979	others
+9980	others
+9981	others
+9982	functional needs repair
+9983	others
+9984	others
+9985	functional needs repair
+9986	functional needs repair
+9987	others
+9988	functional needs repair
+9989	others
+9990	others
+9991	functional needs repair
+9992	others
+9993	others
+9994	functional needs repair
+9995	others
+9996	others
+9997	others
+9998	others
+9999	others
+10000	others
+10001	others
+10002	others
+10003	others
+10004	others
+10005	others
+10006	others
+10007	functional needs repair
+10008	functional needs repair
+10009	others
+10010	others
+10011	others
+10012	others
+10013	others
+10014	others
+10015	others
+10016	others
+10017	others
+10018	others
+10019	others
+10020	others
+10021	functional needs repair
+10022	others
+10023	others
+10024	others
+10025	others
+10026	others
+10027	others
+10028	functional needs repair
+10029	others
+10030	others
+10031	others
+10032	others
+10033	others
+10034	others
+10035	others
+10036	others
+10037	others
+10038	others
+10039	others
+10040	functional needs repair
+10041	others
+10042	others
+10043	others
+10044	others
+10045	others
+10046	others
+10047	others
+10048	others
+10049	functional needs repair
+10050	functional needs repair
+10051	others
+10052	others
+10053	others
+10054	others
+10055	others
+10056	others
+10057	others
+10058	others
+10059	others
+10060	functional needs repair
+10061	others
+10062	others
+10063	others
+10064	others
+10065	others
+10066	others
+10067	functional needs repair
+10068	others
+10069	others
+10070	others
+10071	others
+10072	others
+10073	others
+10074	others
+10075	functional needs repair
+10076	others
+10077	functional needs repair
+10078	others
+10079	functional needs repair
+10080	others
+10081	others
+10082	functional needs repair
+10083	others
+10084	functional needs repair
+10085	others
+10086	others
+10087	others
+10088	others
+10089	others
+10090	others
+10091	functional needs repair
+10092	others
+10093	others
+10094	others
+10095	others
+10096	others
+10097	others
+10098	others
+10099	others
+10100	others
+10101	functional needs repair
+10102	others
+10103	others
+10104	others
+10105	others
+10106	others
+10107	others
+10108	others
+10109	others
+10110	others
+10111	others
+10112	others
+10113	others
+10114	others
+10115	others
+10116	others
+10117	others
+10118	others
+10119	others
+10120	others
+10121	functional needs repair
+10122	others
+10123	functional needs repair
+10124	functional needs repair
+10125	others
+10126	others
+10127	others
+10128	functional needs repair
+10129	others
+10130	others
+10131	others
+10132	others
+10133	others
+10134	others
+10135	others
+10136	others
+10137	functional needs repair
+10138	functional needs repair
+10139	others
+10140	others
+10141	functional needs repair
+10142	others
+10143	others
+10144	others
+10145	others
+10146	others
+10147	others
+10148	functional needs repair
+10149	others
+10150	others
+10151	others
+10152	others
+10153	others
+10154	others
+10155	others
+10156	others
+10157	others
+10158	others
+10159	others
+10160	others
+10161	others
+10162	others
+10163	functional needs repair
+10164	functional needs repair
+10165	others
+10166	others
+10167	others
+10168	others
+10169	others
+10170	others
+10171	functional needs repair
+10172	functional needs repair
+10173	functional needs repair
+10174	functional needs repair
+10175	functional needs repair
+10176	others
+10177	others
+10178	others
+10179	others
+10180	others
+10181	others
+10182	others
+10183	others
+10184	others
+10185	functional needs repair
+10186	others
+10187	functional needs repair
+10188	others
+10189	others
+10190	others
+10191	others
+10192	others
+10193	others
+10194	functional needs repair
+10195	others
+10196	others
+10197	functional needs repair
+10198	others
+10199	others
+10200	others
+10201	functional needs repair
+10202	others
+10203	others
+10204	others
+10205	others
+10206	others
+10207	others
+10208	functional needs repair
+10209	others
+10210	others
+10211	functional needs repair
+10212	others
+10213	others
+10214	others
+10215	functional needs repair
+10216	others
+10217	others
+10218	others
+10219	others
+10220	others
+10221	functional needs repair
+10222	others
+10223	others
+10224	others
+10225	others
+10226	others
+10227	others
+10228	others
+10229	others
+10230	others
+10231	others
+10232	functional needs repair
+10233	others
+10234	functional needs repair
+10235	others
+10236	others
+10237	others
+10238	others
+10239	others
+10240	others
+10241	functional needs repair
+10242	functional needs repair
+10243	others
+10244	functional needs repair
+10245	others
+10246	others
+10247	others
+10248	others
+10249	functional needs repair
+10250	functional needs repair
+10251	others
+10252	others
+10253	others
+10254	others
+10255	others
+10256	others
+10257	others
+10258	others
+10259	others
+10260	others
+10261	functional needs repair
+10262	others
+10263	others
+10264	others
+10265	others
+10266	others
+10267	others
+10268	others
+10269	others
+10270	others
+10271	others
+10272	others
+10273	others
+10274	others
+10275	others
+10276	functional needs repair
+10277	others
+10278	others
+10279	others
+10280	others
+10281	others
+10282	functional needs repair
+10283	others
+10284	functional needs repair
+10285	others
+10286	others
+10287	others
+10288	functional needs repair
+10289	others
+10290	functional needs repair
+10291	others
+10292	others
+10293	others
+10294	others
+10295	functional needs repair
+10296	others
+10297	others
+10298	others
+10299	functional needs repair
+10300	others
+10301	others
+10302	others
+10303	others
+10304	others
+10305	others
+10306	others
+10307	functional needs repair
+10308	others
+10309	others
+10310	others
+10311	others
+10312	others
+10313	others
+10314	others
+10315	others
+10316	functional needs repair
+10317	others
+10318	others
+10319	functional needs repair
+10320	others
+10321	others
+10322	others
+10323	others
+10324	others
+10325	others
+10326	others
+10327	others
+10328	others
+10329	functional needs repair
+10330	functional needs repair
+10331	others
+10332	others
+10333	others
+10334	others
+10335	others
+10336	functional needs repair
+10337	others
+10338	others
+10339	others
+10340	functional needs repair
+10341	others
+10342	others
+10343	others
+10344	others
+10345	others
+10346	others
+10347	others
+10348	others
+10349	others
+10350	others
+10351	others
+10352	others
+10353	others
+10354	others
+10355	others
+10356	others
+10357	others
+10358	others
+10359	others
+10360	others
+10361	others
+10362	others
+10363	others
+10364	functional needs repair
+10365	functional needs repair
+10366	others
+10367	others
+10368	others
+10369	others
+10370	others
+10371	others
+10372	others
+10373	others
+10374	others
+10375	others
+10376	others
+10377	others
+10378	others
+10379	others
+10380	others
+10381	others
+10382	others
+10383	others
+10384	others
+10385	others
+10386	others
+10387	others
+10388	others
+10389	functional needs repair
+10390	others
+10391	others
+10392	others
+10393	others
+10394	others
+10395	functional needs repair
+10396	others
+10397	others
+10398	others
+10399	others
+10400	functional needs repair
+10401	others
+10402	functional needs repair
+10403	others
+10404	others
+10405	others
+10406	others
+10407	others
+10408	functional needs repair
+10409	others
+10410	others
+10411	others
+10412	functional needs repair
+10413	others
+10414	others
+10415	others
+10416	others
+10417	others
+10418	others
+10419	others
+10420	others
+10421	others
+10422	others
+10423	functional needs repair
+10424	others
+10425	others
+10426	functional needs repair
+10427	others
+10428	others
+10429	others
+10430	others
+10431	functional needs repair
+10432	others
+10433	functional needs repair
+10434	functional needs repair
+10435	others
+10436	others
+10437	others
+10438	others
+10439	others
+10440	others
+10441	others
+10442	others
+10443	functional needs repair
+10444	others
+10445	others
+10446	others
+10447	functional needs repair
+10448	others
+10449	others
+10450	others
+10451	functional needs repair
+10452	others
+10453	others
+10454	others
+10455	others
+10456	others
+10457	others
+10458	others
+10459	others
+10460	others
+10461	others
+10462	functional needs repair
+10463	others
+10464	others
+10465	others
+10466	functional needs repair
+10467	functional needs repair
+10468	functional needs repair
+10469	others
+10470	others
+10471	others
+10472	others
+10473	others
+10474	others
+10475	functional needs repair
+10476	others
+10477	functional needs repair
+10478	functional needs repair
+10479	others
+10480	others
+10481	others
+10482	others
+10483	others
+10484	others
+10485	others
+10486	others
+10487	others
+10488	others
+10489	others
+10490	others
+10491	others
+10492	others
+10493	others
+10494	functional needs repair
+10495	others
+10496	others
+10497	functional needs repair
+10498	others
+10499	functional needs repair
+10500	others
+10501	others
+10502	functional needs repair
+10503	functional needs repair
+10504	others
+10505	others
+10506	others
+10507	others
+10508	others
+10509	others
+10510	others
+10511	others
+10512	others
+10513	others
+10514	others
+10515	others
+10516	others
+10517	others
+10518	others
+10519	others
+10520	others
+10521	others
+10522	others
+10523	others
+10524	functional needs repair
+10525	others
+10526	functional needs repair
+10527	others
+10528	others
+10529	functional needs repair
+10530	others
+10531	others
+10532	others
+10533	others
+10534	functional needs repair
+10535	others
+10536	others
+10537	others
+10538	others
+10539	others
+10540	others
+10541	others
+10542	others
+10543	others
+10544	others
+10545	others
+10546	functional needs repair
+10547	others
+10548	functional needs repair
+10549	functional needs repair
+10550	others
+10551	others
+10552	others
+10553	others
+10554	others
+10555	functional needs repair
+10556	others
+10557	others
+10558	functional needs repair
+10559	others
+10560	others
+10561	others
+10562	others
+10563	others
+10564	others
+10565	others
+10566	others
+10567	others
+10568	functional needs repair
+10569	others
+10570	functional needs repair
+10571	others
+10572	others
+10573	others
+10574	others
+10575	others
+10576	others
+10577	others
+10578	others
+10579	functional needs repair
+10580	others
+10581	others
+10582	functional needs repair
+10583	others
+10584	others
+10585	others
+10586	others
+10587	others
+10588	others
+10589	others
+10590	functional needs repair
+10591	others
+10592	others
+10593	others
+10594	others
+10595	others
+10596	others
+10597	others
+10598	others
+10599	others
+10600	others
+10601	others
+10602	others
+10603	functional needs repair
+10604	functional needs repair
+10605	others
+10606	others
+10607	others
+10608	others
+10609	others
+10610	functional needs repair
+10611	others
+10612	others
+10613	others
+10614	others
+10615	others
+10616	others
+10617	others
+10618	others
+10619	others
+10620	others
+10621	others
+10622	functional needs repair
+10623	others
+10624	others
+10625	others
+10626	others
+10627	others
+10628	functional needs repair
+10629	others
+10630	others
+10631	others
+10632	others
+10633	others
+10634	others
+10635	functional needs repair
+10636	others
+10637	others
+10638	others
+10639	others
+10640	others
+10641	functional needs repair
+10642	others
+10643	others
+10644	functional needs repair
+10645	others
+10646	others
+10647	functional needs repair
+10648	others
+10649	others
+10650	others
+10651	others
+10652	others
+10653	functional needs repair
+10654	others
+10655	others
+10656	others
+10657	others
+10658	functional needs repair
+10659	others
+10660	functional needs repair
+10661	functional needs repair
+10662	others
+10663	others
+10664	others
+10665	others
+10666	others
+10667	others
+10668	others
+10669	others
+10670	functional needs repair
+10671	others
+10672	others
+10673	others
+10674	others
+10675	functional needs repair
+10676	others
+10677	others
+10678	others
+10679	others
+10680	functional needs repair
+10681	functional needs repair
+10682	others
+10683	others
+10684	others
+10685	others
+10686	others
+10687	functional needs repair
+10688	others
+10689	others
+10690	others
+10691	others
+10692	others
+10693	functional needs repair
+10694	functional needs repair
+10695	others
+10696	others
+10697	functional needs repair
+10698	others
+10699	others
+10700	functional needs repair
+10701	others
+10702	others
+10703	others
+10704	functional needs repair
+10705	others
+10706	others
+10707	others
+10708	others
+10709	others
+10710	others
+10711	others
+10712	others
+10713	functional needs repair
+10714	others
+10715	others
+10716	others
+10717	others
+10718	functional needs repair
+10719	others
+10720	others
+10721	others
+10722	functional needs repair
+10723	others
+10724	functional needs repair
+10725	others
+10726	others
+10727	others
+10728	others
+10729	others
+10730	others
+10731	others
+10732	others
+10733	others
+10734	functional needs repair
+10735	others
+10736	others
+10737	functional needs repair
+10738	functional needs repair
+10739	others
+10740	others
+10741	others
+10742	others
+10743	others
+10744	others
+10745	others
+10746	functional needs repair
+10747	functional needs repair
+10748	functional needs repair
+10749	others
+10750	others
+10751	others
+10752	others
+10753	functional needs repair
+10754	others
+10755	others
+10756	functional needs repair
+10757	others
+10758	others
+10759	others
+10760	others
+10761	others
+10762	others
+10763	others
+10764	others
+10765	others
+10766	functional needs repair
+10767	others
+10768	others
+10769	others
+10770	others
+10771	others
+10772	others
+10773	others
+10774	functional needs repair
+10775	others
+10776	others
+10777	others
+10778	others
+10779	others
+10780	others
+10781	others
+10782	others
+10783	others
+10784	others
+10785	others
+10786	others
+10787	others
+10788	others
+10789	others
+10790	others
+10791	others
+10792	functional needs repair
+10793	others
+10794	others
+10795	others
+10796	others
+10797	functional needs repair
+10798	functional needs repair
+10799	functional needs repair
+10800	others
+10801	others
+10802	others
+10803	others
+10804	others
+10805	others
+10806	others
+10807	others
+10808	others
+10809	others
+10810	others
+10811	functional needs repair
+10812	others
+10813	others
+10814	functional needs repair
+10815	others
+10816	others
+10817	others
+10818	others
+10819	others
+10820	others
+10821	functional needs repair
+10822	others
+10823	others
+10824	others
+10825	others
+10826	others
+10827	others
+10828	others
+10829	others
+10830	others
+10831	others
+10832	others
+10833	others
+10834	functional needs repair
+10835	functional needs repair
+10836	others
+10837	functional needs repair
+10838	others
+10839	others
+10840	others
+10841	functional needs repair
+10842	others
+10843	others
+10844	others
+10845	others
+10846	others
+10847	others
+10848	functional needs repair
+10849	others
+10850	others
+10851	others
+10852	others
+10853	others
+10854	others
+10855	others
+10856	others
+10857	others
+10858	functional needs repair
+10859	functional needs repair
+10860	others
+10861	others
+10862	others
+10863	others
+10864	others
+10865	others
+10866	functional needs repair
+10867	others
+10868	others
+10869	functional needs repair
+10870	others
+10871	functional needs repair
+10872	others
+10873	others
+10874	others
+10875	functional needs repair
+10876	others
+10877	others
+10878	others
+10879	others
+10880	others
+10881	functional needs repair
+10882	others
+10883	others
+10884	others
+10885	others
+10886	others
+10887	others
+10888	others
+10889	others
+10890	others
+10891	others
+10892	others
+10893	others
+10894	others
+10895	others
+10896	others
+10897	others
+10898	others
+10899	functional needs repair
+10900	others
+10901	others
+10902	others
+10903	others
+10904	others
+10905	others
+10906	functional needs repair
+10907	others
+10908	others
+10909	others
+10910	others
+10911	others
+10912	others
+10913	others
+10914	others
+10915	others
+10916	others
+10917	others
+10918	others
+10919	others
+10920	others
+10921	others
+10922	functional needs repair
+10923	others
+10924	others
+10925	functional needs repair
+10926	others
+10927	others
+10928	others
+10929	others
+10930	others
+10931	others
+10932	others
+10933	others
+10934	functional needs repair
+10935	others
+10936	others
+10937	others
+10938	others
+10939	others
+10940	others
+10941	others
+10942	others
+10943	others
+10944	others
+10945	others
+10946	functional needs repair
+10947	others
+10948	others
+10949	others
+10950	others
+10951	others
+10952	functional needs repair
+10953	others
+10954	others
+10955	others
+10956	others
+10957	functional needs repair
+10958	others
+10959	others
+10960	functional needs repair
+10961	functional needs repair
+10962	others
+10963	others
+10964	others
+10965	others
+10966	others
+10967	others
+10968	others
+10969	others
+10970	others
+10971	others
+10972	others
+10973	others
+10974	others
+10975	others
+10976	others
+10977	functional needs repair
+10978	others
+10979	others
+10980	others
+10981	others
+10982	others
+10983	others
+10984	others
+10985	others
+10986	others
+10987	functional needs repair
+10988	others
+10989	others
+10990	others
+10991	others
+10992	functional needs repair
+10993	others
+10994	others
+10995	others
+10996	others
+10997	others
+10998	functional needs repair
+10999	functional needs repair
+11000	others
+11001	others
+11002	others
+11003	others
+11004	others
+11005	others
+11006	functional needs repair
+11007	others
+11008	others
+11009	others
+11010	others
+11011	functional needs repair
+11012	functional needs repair
+11013	others
+11014	functional needs repair
+11015	others
+11016	others
+11017	others
+11018	functional needs repair
+11019	others
+11020	others
+11021	others
+11022	others
+11023	others
+11024	others
+11025	others
+11026	others
+11027	others
+11028	others
+11029	functional needs repair
+11030	others
+11031	functional needs repair
+11032	others
+11033	others
+11034	others
+11035	others
+11036	others
+11037	others
+11038	others
+11039	others
+11040	functional needs repair
+11041	others
+11042	others
+11043	others
+11044	others
+11045	others
+11046	others
+11047	others
+11048	functional needs repair
+11049	others
+11050	functional needs repair
+11051	others
+11052	others
+11053	others
+11054	others
+11055	others
+11056	others
+11057	others
+11058	others
+11059	others
+11060	others
+11061	others
+11062	others
+11063	functional needs repair
+11064	others
+11065	others
+11066	others
+11067	others
+11068	others
+11069	functional needs repair
+11070	others
+11071	others
+11072	others
+11073	functional needs repair
+11074	others
+11075	others
+11076	others
+11077	others
+11078	others
+11079	functional needs repair
+11080	others
+11081	others
+11082	others
+11083	others
+11084	others
+11085	functional needs repair
+11086	others
+11087	others
+11088	others
+11089	others
+11090	others
+11091	others
+11092	others
+11093	others
+11094	functional needs repair
+11095	functional needs repair
+11096	others
+11097	others
+11098	functional needs repair
+11099	others
+11100	others
+11101	others
+11102	others
+11103	others
+11104	others
+11105	others
+11106	others
+11107	others
+11108	others
+11109	others
+11110	others
+11111	others
+11112	others
+11113	others
+11114	others
+11115	functional needs repair
+11116	others
+11117	others
+11118	others
+11119	functional needs repair
+11120	others
+11121	others
+11122	others
+11123	others
+11124	others
+11125	others
+11126	others
+11127	others
+11128	others
+11129	functional needs repair
+11130	others
+11131	others
+11132	functional needs repair
+11133	others
+11134	others
+11135	others
+11136	others
+11137	others
+11138	others
+11139	others
+11140	functional needs repair
+11141	others
+11142	others
+11143	others
+11144	others
+11145	others
+11146	others
+11147	functional needs repair
+11148	others
+11149	functional needs repair
+11150	others
+11151	others
+11152	others
+11153	others
+11154	others
+11155	others
+11156	others
+11157	others
+11158	others
+11159	others
+11160	others
+11161	functional needs repair
+11162	others
+11163	others
+11164	others
+11165	others
+11166	others
+11167	functional needs repair
+11168	others
+11169	others
+11170	others
+11171	functional needs repair
+11172	others
+11173	others
+11174	functional needs repair
+11175	others
+11176	functional needs repair
+11177	others
+11178	functional needs repair
+11179	others
+11180	others
+11181	others
+11182	others
+11183	others
+11184	others
+11185	others
+11186	others
+11187	functional needs repair
+11188	functional needs repair
+11189	others
+11190	others
+11191	others
+11192	others
+11193	others
+11194	others
+11195	others
+11196	functional needs repair
+11197	others
+11198	others
+11199	others
+11200	others
+11201	others
+11202	others
+11203	functional needs repair
+11204	others
+11205	others
+11206	others
+11207	others
+11208	functional needs repair
+11209	others
+11210	others
+11211	functional needs repair
+11212	others
+11213	others
+11214	others
+11215	others
+11216	others
+11217	others
+11218	others
+11219	others
+11220	others
+11221	others
+11222	others
+11223	others
+11224	others
+11225	others
+11226	others
+11227	others
+11228	others
+11229	others
+11230	others
+11231	others
+11232	others
+11233	others
+11234	others
+11235	others
+11236	others
+11237	others
+11238	others
+11239	others
+11240	others
+11241	others
+11242	others
+11243	others
+11244	others
+11245	others
+11246	others
+11247	others
+11248	others
+11249	others
+11250	others
+11251	others
+11252	others
+11253	others
+11254	others
+11255	others
+11256	others
+11257	others
+11258	others
+11259	others
+11260	others
+11261	others
+11262	functional needs repair
+11263	others
+11264	others
+11265	others
+11266	others
+11267	others
+11268	others
+11269	others
+11270	others
+11271	others
+11272	others
+11273	others
+11274	others
+11275	functional needs repair
+11276	others
+11277	functional needs repair
+11278	others
+11279	others
+11280	others
+11281	others
+11282	others
+11283	others
+11284	others
+11285	others
+11286	others
+11287	others
+11288	others
+11289	others
+11290	others
+11291	functional needs repair
+11292	others
+11293	others
+11294	others
+11295	others
+11296	others
+11297	others
+11298	functional needs repair
+11299	others
+11300	others
+11301	others
+11302	others
+11303	others
+11304	others
+11305	others
+11306	others
+11307	others
+11308	others
+11309	others
+11310	functional needs repair
+11311	functional needs repair
+11312	others
+11313	others
+11314	others
+11315	others
+11316	others
+11317	others
+11318	others
+11319	others
+11320	others
+11321	others
+11322	others
+11323	others
+11324	others
+11325	others
+11326	others
+11327	others
+11328	others
+11329	functional needs repair
+11330	others
+11331	others
+11332	others
+11333	others
+11334	functional needs repair
+11335	others
+11336	others
+11337	others
+11338	others
+11339	others
+11340	others
+11341	others
+11342	others
+11343	others
+11344	others
+11345	others
+11346	others
+11347	others
+11348	others
+11349	others
+11350	others
+11351	others
+11352	functional needs repair
+11353	others
+11354	others
+11355	others
+11356	others
+11357	others
+11358	others
+11359	functional needs repair
+11360	others
+11361	others
+11362	others
+11363	functional needs repair
+11364	others
+11365	others
+11366	functional needs repair
+11367	functional needs repair
+11368	functional needs repair
+11369	others
+11370	others
+11371	functional needs repair
+11372	others
+11373	others
+11374	others
+11375	others
+11376	functional needs repair
+11377	functional needs repair
+11378	others
+11379	functional needs repair
+11380	others
+11381	others
+11382	others
+11383	others
+11384	others
+11385	functional needs repair
+11386	functional needs repair
+11387	others
+11388	functional needs repair
+11389	others
+11390	others
+11391	others
+11392	others
+11393	others
+11394	others
+11395	others
+11396	others
+11397	functional needs repair
+11398	others
+11399	others
+11400	others
+11401	functional needs repair
+11402	others
+11403	others
+11404	others
+11405	others
+11406	others
+11407	others
+11408	others
+11409	others
+11410	functional needs repair
+11411	others
+11412	others
+11413	others
+11414	others
+11415	others
+11416	others
+11417	others
+11418	others
+11419	others
+11420	others
+11421	others
+11422	others
+11423	others
+11424	others
+11425	others
+11426	functional needs repair
+11427	others
+11428	others
+11429	others
+11430	others
+11431	others
+11432	others
+11433	others
+11434	others
+11435	others
+11436	others
+11437	others
+11438	functional needs repair
+11439	others
+11440	others
+11441	others
+11442	others
+11443	others
+11444	others
+11445	others
+11446	others
+11447	functional needs repair
+11448	others
+11449	others
+11450	others
+11451	others
+11452	others
+11453	others
+11454	others
+11455	functional needs repair
+11456	others
+11457	others
+11458	others
+11459	others
+11460	others
+11461	functional needs repair
+11462	others
+11463	others
+11464	others
+11465	others
+11466	functional needs repair
+11467	functional needs repair
+11468	others
+11469	others
+11470	others
+11471	functional needs repair
+11472	others
+11473	functional needs repair
+11474	functional needs repair
+11475	others
+11476	functional needs repair
+11477	functional needs repair
+11478	others
+11479	others
+11480	others
+11481	others
+11482	others
+11483	others
+11484	functional needs repair
+11485	functional needs repair
+11486	others
+11487	others
+11488	others
+11489	functional needs repair
+11490	functional needs repair
+11491	others
+11492	others
+11493	others
+11494	others
+11495	others
+11496	others
+11497	functional needs repair
+11498	others
+11499	others
+11500	others
+11501	others
+11502	others
+11503	others
+11504	others
+11505	others
+11506	others
+11507	others
+11508	others
+11509	others
+11510	others
+11511	functional needs repair
+11512	others
+11513	others
+11514	others
+11515	others
+11516	others
+11517	others
+11518	others
+11519	functional needs repair
+11520	others
+11521	others
+11522	others
+11523	others
+11524	others
+11525	others
+11526	others
+11527	others
+11528	others
+11529	functional needs repair
+11530	others
+11531	others
+11532	others
+11533	others
+11534	others
+11535	others
+11536	functional needs repair
+11537	functional needs repair
+11538	others
+11539	functional needs repair
+11540	functional needs repair
+11541	others
+11542	others
+11543	others
+11544	others
+11545	others
+11546	others
+11547	others
+11548	others
+11549	functional needs repair
+11550	others
+11551	others
+11552	others
+11553	others
+11554	others
+11555	others
+11556	others
+11557	others
+11558	functional needs repair
+11559	others
+11560	others
+11561	functional needs repair
+11562	others
+11563	functional needs repair
+11564	others
+11565	others
+11566	others
+11567	others
+11568	others
+11569	others
+11570	others
+11571	functional needs repair
+11572	functional needs repair
+11573	others
+11574	others
+11575	others
+11576	others
+11577	functional needs repair
+11578	others
+11579	others
+11580	others
+11581	functional needs repair
+11582	others
+11583	others
+11584	others
+11585	functional needs repair
+11586	others
+11587	functional needs repair
+11588	others
+11589	others
+11590	others
+11591	others
+11592	others
+11593	functional needs repair
+11594	others
+11595	others
+11596	others
+11597	others
+11598	others
+11599	others
+11600	functional needs repair
+11601	others
+11602	others
+11603	others
+11604	others
+11605	others
+11606	functional needs repair
+11607	others
+11608	others
+11609	functional needs repair
+11610	others
+11611	functional needs repair
+11612	others
+11613	others
+11614	others
+11615	functional needs repair
+11616	others
+11617	others
+11618	others
+11619	others
+11620	others
+11621	others
+11622	others
+11623	others
+11624	others
+11625	others
+11626	others
+11627	functional needs repair
+11628	others
+11629	others
+11630	others
+11631	others
+11632	others
+11633	others
+11634	others
+11635	others
+11636	others
+11637	others
+11638	others
+11639	others
+11640	others
+11641	others
+11642	functional needs repair
+11643	others
+11644	functional needs repair
+11645	others
+11646	others
+11647	others
+11648	others
+11649	others
+11650	others
+11651	others
+11652	others
+11653	others
+11654	others
+11655	others
+11656	others
+11657	others
+11658	others
+11659	others
+11660	others
+11661	others
+11662	others
+11663	others
+11664	others
+11665	functional needs repair
+11666	others
+11667	functional needs repair
+11668	others
+11669	others
+11670	others
+11671	functional needs repair
+11672	others
+11673	others
+11674	others
+11675	others
+11676	others
+11677	others
+11678	others
+11679	others
+11680	others
+11681	others
+11682	functional needs repair
+11683	others
+11684	others
+11685	others
+11686	others
+11687	others
+11688	others
+11689	others
+11690	others
+11691	others
+11692	others
+11693	others
+11694	others
+11695	others
+11696	others
+11697	others
+11698	others
+11699	others
+11700	others
+11701	others
+11702	others
+11703	functional needs repair
+11704	others
+11705	functional needs repair
+11706	others
+11707	others
+11708	others
+11709	others
+11710	others
+11711	others
+11712	others
+11713	others
+11714	others
+11715	others
+11716	others
+11717	others
+11718	functional needs repair
+11719	functional needs repair
+11720	others
+11721	functional needs repair
+11722	others
+11723	others
+11724	others
+11725	others
+11726	functional needs repair
+11727	others
+11728	others
+11729	others
+11730	others
+11731	others
+11732	others
+11733	others
+11734	others
+11735	others
+11736	functional needs repair
+11737	others
+11738	others
+11739	functional needs repair
+11740	others
+11741	others
+11742	others
+11743	others
+11744	others
+11745	others
+11746	others
+11747	others
+11748	functional needs repair
+11749	others
+11750	others
+11751	others
+11752	others
+11753	functional needs repair
+11754	others
+11755	others
+11756	others
+11757	others
+11758	others
+11759	others
+11760	others
+11761	others
+11762	others
+11763	functional needs repair
+11764	others
+11765	functional needs repair
+11766	others
+11767	others
+11768	others
+11769	functional needs repair
+11770	others
+11771	others
+11772	others
+11773	functional needs repair
+11774	functional needs repair
+11775	functional needs repair
+11776	others
+11777	others
+11778	others
+11779	others
+11780	others
+11781	others
+11782	others
+11783	others
+11784	functional needs repair
+11785	others
+11786	others
+11787	others
+11788	others
+11789	others
+11790	others
+11791	others
+11792	others
+11793	others
+11794	others
+11795	others
+11796	functional needs repair
+11797	others
+11798	others
+11799	others
+11800	others
+11801	others
+11802	functional needs repair
+11803	others
+11804	others
+11805	others
+11806	others
+11807	others
+11808	others
+11809	others
+11810	others
+11811	others
+11812	others
+11813	others
+11814	others
+11815	others
+11816	others
+11817	others
+11818	others
+11819	others
+11820	functional needs repair
+11821	others
+11822	others
+11823	functional needs repair
+11824	others
+11825	others
+11826	others
+11827	functional needs repair
+11828	others
+11829	others
+11830	others
+11831	functional needs repair
+11832	others
+11833	others
+11834	functional needs repair
+11835	functional needs repair
+11836	others
+11837	others
+11838	others
+11839	others
+11840	others
+11841	functional needs repair
+11842	others
+11843	others
+11844	others
+11845	functional needs repair
+11846	others
+11847	others
+11848	others
+11849	others
+11850	others
+11851	others
+11852	others
+11853	others
+11854	others
+11855	others
+11856	others
+11857	others
+11858	others
+11859	others
+11860	others
+11861	others
+11862	others
+11863	others
+11864	others
+11865	others
+11866	others
+11867	others
+11868	others
+11869	others
+11870	others
+11871	others
+11872	others
+11873	others
+11874	others
+11875	others
+11876	others
+11877	others
+11878	functional needs repair
+11879	others

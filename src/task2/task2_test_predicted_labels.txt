@@ -1,0 +1,1728 @@
+	Status_group
+0	others
+1	functional needs repair
+2	others
+3	others
+4	functional needs repair
+5	others
+6	others
+7	functional needs repair
+8	others
+9	others
+10	others
+11	others
+12	functional needs repair
+13	others
+14	functional needs repair
+15	others
+16	others
+17	functional needs repair
+18	others
+19	others
+20	functional needs repair
+21	functional needs repair
+22	functional needs repair
+23	functional needs repair
+24	others
+25	functional needs repair
+26	functional needs repair
+27	functional needs repair
+28	functional needs repair
+29	others
+30	others
+31	others
+32	functional needs repair
+33	others
+34	functional needs repair
+35	functional needs repair
+36	functional needs repair
+37	functional needs repair
+38	others
+39	others
+40	others
+41	functional needs repair
+42	functional needs repair
+43	others
+44	functional needs repair
+45	functional needs repair
+46	functional needs repair
+47	functional needs repair
+48	functional needs repair
+49	others
+50	functional needs repair
+51	functional needs repair
+52	functional needs repair
+53	functional needs repair
+54	others
+55	functional needs repair
+56	functional needs repair
+57	functional needs repair
+58	others
+59	functional needs repair
+60	others
+61	functional needs repair
+62	functional needs repair
+63	others
+64	functional needs repair
+65	others
+66	functional needs repair
+67	functional needs repair
+68	functional needs repair
+69	functional needs repair
+70	functional needs repair
+71	others
+72	others
+73	functional needs repair
+74	others
+75	functional needs repair
+76	functional needs repair
+77	functional needs repair
+78	functional needs repair
+79	functional needs repair
+80	others
+81	functional needs repair
+82	others
+83	functional needs repair
+84	others
+85	functional needs repair
+86	functional needs repair
+87	others
+88	others
+89	functional needs repair
+90	functional needs repair
+91	functional needs repair
+92	others
+93	others
+94	functional needs repair
+95	functional needs repair
+96	others
+97	functional needs repair
+98	others
+99	others
+100	functional needs repair
+101	others
+102	others
+103	functional needs repair
+104	others
+105	functional needs repair
+106	others
+107	functional needs repair
+108	others
+109	functional needs repair
+110	others
+111	others
+112	functional needs repair
+113	others
+114	others
+115	functional needs repair
+116	others
+117	others
+118	functional needs repair
+119	others
+120	others
+121	functional needs repair
+122	others
+123	others
+124	functional needs repair
+125	functional needs repair
+126	functional needs repair
+127	others
+128	others
+129	others
+130	functional needs repair
+131	others
+132	functional needs repair
+133	functional needs repair
+134	others
+135	functional needs repair
+136	others
+137	others
+138	functional needs repair
+139	functional needs repair
+140	others
+141	functional needs repair
+142	functional needs repair
+143	functional needs repair
+144	others
+145	others
+146	others
+147	functional needs repair
+148	others
+149	others
+150	others
+151	others
+152	others
+153	others
+154	others
+155	others
+156	functional needs repair
+157	functional needs repair
+158	others
+159	others
+160	others
+161	functional needs repair
+162	functional needs repair
+163	functional needs repair
+164	functional needs repair
+165	others
+166	functional needs repair
+167	others
+168	functional needs repair
+169	others
+170	functional needs repair
+171	functional needs repair
+172	others
+173	functional needs repair
+174	others
+175	others
+176	functional needs repair
+177	functional needs repair
+178	functional needs repair
+179	others
+180	functional needs repair
+181	functional needs repair
+182	others
+183	functional needs repair
+184	functional needs repair
+185	functional needs repair
+186	others
+187	others
+188	functional needs repair
+189	functional needs repair
+190	functional needs repair
+191	functional needs repair
+192	functional needs repair
+193	functional needs repair
+194	functional needs repair
+195	functional needs repair
+196	others
+197	functional needs repair
+198	functional needs repair
+199	others
+200	functional needs repair
+201	others
+202	others
+203	functional needs repair
+204	functional needs repair
+205	others
+206	functional needs repair
+207	others
+208	others
+209	functional needs repair
+210	others
+211	others
+212	others
+213	others
+214	functional needs repair
+215	functional needs repair
+216	functional needs repair
+217	others
+218	functional needs repair
+219	others
+220	functional needs repair
+221	functional needs repair
+222	others
+223	others
+224	functional needs repair
+225	others
+226	functional needs repair
+227	functional needs repair
+228	others
+229	others
+230	functional needs repair
+231	others
+232	functional needs repair
+233	functional needs repair
+234	functional needs repair
+235	others
+236	functional needs repair
+237	functional needs repair
+238	others
+239	functional needs repair
+240	others
+241	others
+242	others
+243	others
+244	others
+245	others
+246	functional needs repair
+247	functional needs repair
+248	others
+249	others
+250	others
+251	functional needs repair
+252	others
+253	functional needs repair
+254	functional needs repair
+255	others
+256	others
+257	others
+258	others
+259	functional needs repair
+260	others
+261	functional needs repair
+262	others
+263	others
+264	others
+265	others
+266	functional needs repair
+267	others
+268	functional needs repair
+269	functional needs repair
+270	functional needs repair
+271	others
+272	others
+273	functional needs repair
+274	others
+275	functional needs repair
+276	functional needs repair
+277	functional needs repair
+278	others
+279	others
+280	functional needs repair
+281	functional needs repair
+282	others
+283	others
+284	others
+285	functional needs repair
+286	functional needs repair
+287	functional needs repair
+288	others
+289	others
+290	others
+291	functional needs repair
+292	others
+293	others
+294	functional needs repair
+295	functional needs repair
+296	others
+297	functional needs repair
+298	others
+299	functional needs repair
+300	functional needs repair
+301	functional needs repair
+302	functional needs repair
+303	functional needs repair
+304	others
+305	functional needs repair
+306	functional needs repair
+307	functional needs repair
+308	functional needs repair
+309	functional needs repair
+310	functional needs repair
+311	functional needs repair
+312	others
+313	others
+314	others
+315	others
+316	functional needs repair
+317	functional needs repair
+318	functional needs repair
+319	functional needs repair
+320	functional needs repair
+321	others
+322	functional needs repair
+323	functional needs repair
+324	functional needs repair
+325	others
+326	others
+327	others
+328	others
+329	others
+330	others
+331	functional needs repair
+332	functional needs repair
+333	others
+334	functional needs repair
+335	functional needs repair
+336	functional needs repair
+337	others
+338	others
+339	others
+340	others
+341	functional needs repair
+342	others
+343	functional needs repair
+344	functional needs repair
+345	functional needs repair
+346	functional needs repair
+347	others
+348	others
+349	others
+350	others
+351	functional needs repair
+352	functional needs repair
+353	others
+354	functional needs repair
+355	functional needs repair
+356	others
+357	others
+358	others
+359	functional needs repair
+360	others
+361	others
+362	functional needs repair
+363	functional needs repair
+364	others
+365	functional needs repair
+366	others
+367	functional needs repair
+368	functional needs repair
+369	others
+370	others
+371	functional needs repair
+372	functional needs repair
+373	others
+374	functional needs repair
+375	others
+376	functional needs repair
+377	others
+378	functional needs repair
+379	functional needs repair
+380	others
+381	others
+382	functional needs repair
+383	functional needs repair
+384	functional needs repair
+385	functional needs repair
+386	others
+387	others
+388	others
+389	others
+390	functional needs repair
+391	others
+392	others
+393	others
+394	functional needs repair
+395	functional needs repair
+396	others
+397	functional needs repair
+398	functional needs repair
+399	functional needs repair
+400	functional needs repair
+401	functional needs repair
+402	others
+403	others
+404	others
+405	others
+406	others
+407	others
+408	functional needs repair
+409	functional needs repair
+410	functional needs repair
+411	others
+412	functional needs repair
+413	others
+414	functional needs repair
+415	others
+416	others
+417	others
+418	others
+419	functional needs repair
+420	functional needs repair
+421	others
+422	functional needs repair
+423	others
+424	functional needs repair
+425	functional needs repair
+426	others
+427	functional needs repair
+428	functional needs repair
+429	others
+430	functional needs repair
+431	functional needs repair
+432	functional needs repair
+433	others
+434	others
+435	others
+436	functional needs repair
+437	functional needs repair
+438	functional needs repair
+439	functional needs repair
+440	others
+441	functional needs repair
+442	others
+443	functional needs repair
+444	others
+445	functional needs repair
+446	functional needs repair
+447	others
+448	others
+449	functional needs repair
+450	functional needs repair
+451	others
+452	others
+453	others
+454	others
+455	functional needs repair
+456	others
+457	others
+458	functional needs repair
+459	functional needs repair
+460	others
+461	others
+462	others
+463	others
+464	others
+465	functional needs repair
+466	functional needs repair
+467	functional needs repair
+468	others
+469	functional needs repair
+470	others
+471	functional needs repair
+472	functional needs repair
+473	functional needs repair
+474	others
+475	others
+476	functional needs repair
+477	functional needs repair
+478	others
+479	functional needs repair
+480	others
+481	functional needs repair
+482	functional needs repair
+483	functional needs repair
+484	functional needs repair
+485	others
+486	others
+487	others
+488	others
+489	functional needs repair
+490	others
+491	functional needs repair
+492	functional needs repair
+493	functional needs repair
+494	functional needs repair
+495	functional needs repair
+496	others
+497	others
+498	functional needs repair
+499	functional needs repair
+500	others
+501	functional needs repair
+502	others
+503	others
+504	others
+505	others
+506	functional needs repair
+507	functional needs repair
+508	functional needs repair
+509	others
+510	others
+511	functional needs repair
+512	functional needs repair
+513	others
+514	functional needs repair
+515	others
+516	others
+517	others
+518	others
+519	others
+520	functional needs repair
+521	functional needs repair
+522	functional needs repair
+523	functional needs repair
+524	functional needs repair
+525	functional needs repair
+526	others
+527	functional needs repair
+528	functional needs repair
+529	others
+530	functional needs repair
+531	others
+532	functional needs repair
+533	others
+534	others
+535	functional needs repair
+536	functional needs repair
+537	functional needs repair
+538	functional needs repair
+539	functional needs repair
+540	functional needs repair
+541	functional needs repair
+542	functional needs repair
+543	functional needs repair
+544	functional needs repair
+545	others
+546	functional needs repair
+547	others
+548	functional needs repair
+549	others
+550	functional needs repair
+551	others
+552	others
+553	functional needs repair
+554	functional needs repair
+555	functional needs repair
+556	others
+557	others
+558	others
+559	functional needs repair
+560	functional needs repair
+561	functional needs repair
+562	others
+563	others
+564	others
+565	others
+566	others
+567	functional needs repair
+568	others
+569	functional needs repair
+570	others
+571	others
+572	others
+573	functional needs repair
+574	functional needs repair
+575	functional needs repair
+576	others
+577	others
+578	others
+579	functional needs repair
+580	others
+581	functional needs repair
+582	functional needs repair
+583	others
+584	functional needs repair
+585	others
+586	others
+587	others
+588	functional needs repair
+589	others
+590	functional needs repair
+591	functional needs repair
+592	others
+593	functional needs repair
+594	functional needs repair
+595	others
+596	others
+597	functional needs repair
+598	others
+599	others
+600	functional needs repair
+601	others
+602	others
+603	others
+604	functional needs repair
+605	functional needs repair
+606	others
+607	others
+608	functional needs repair
+609	functional needs repair
+610	others
+611	others
+612	others
+613	others
+614	others
+615	functional needs repair
+616	functional needs repair
+617	functional needs repair
+618	others
+619	others
+620	others
+621	functional needs repair
+622	others
+623	others
+624	others
+625	functional needs repair
+626	others
+627	functional needs repair
+628	functional needs repair
+629	others
+630	others
+631	others
+632	functional needs repair
+633	functional needs repair
+634	functional needs repair
+635	functional needs repair
+636	functional needs repair
+637	others
+638	functional needs repair
+639	others
+640	others
+641	functional needs repair
+642	functional needs repair
+643	functional needs repair
+644	functional needs repair
+645	others
+646	others
+647	others
+648	others
+649	others
+650	others
+651	others
+652	others
+653	functional needs repair
+654	others
+655	functional needs repair
+656	functional needs repair
+657	functional needs repair
+658	functional needs repair
+659	others
+660	functional needs repair
+661	functional needs repair
+662	functional needs repair
+663	others
+664	functional needs repair
+665	others
+666	others
+667	others
+668	functional needs repair
+669	others
+670	functional needs repair
+671	others
+672	others
+673	functional needs repair
+674	functional needs repair
+675	others
+676	others
+677	functional needs repair
+678	functional needs repair
+679	others
+680	functional needs repair
+681	others
+682	others
+683	functional needs repair
+684	functional needs repair
+685	others
+686	functional needs repair
+687	functional needs repair
+688	others
+689	others
+690	others
+691	functional needs repair
+692	functional needs repair
+693	others
+694	functional needs repair
+695	functional needs repair
+696	functional needs repair
+697	functional needs repair
+698	others
+699	functional needs repair
+700	others
+701	functional needs repair
+702	others
+703	functional needs repair
+704	functional needs repair
+705	others
+706	others
+707	functional needs repair
+708	functional needs repair
+709	functional needs repair
+710	functional needs repair
+711	others
+712	others
+713	functional needs repair
+714	others
+715	functional needs repair
+716	others
+717	functional needs repair
+718	others
+719	functional needs repair
+720	others
+721	functional needs repair
+722	others
+723	functional needs repair
+724	functional needs repair
+725	functional needs repair
+726	others
+727	others
+728	functional needs repair
+729	others
+730	functional needs repair
+731	functional needs repair
+732	others
+733	others
+734	others
+735	functional needs repair
+736	others
+737	functional needs repair
+738	functional needs repair
+739	others
+740	others
+741	others
+742	functional needs repair
+743	others
+744	functional needs repair
+745	others
+746	functional needs repair
+747	others
+748	others
+749	others
+750	others
+751	functional needs repair
+752	functional needs repair
+753	functional needs repair
+754	others
+755	others
+756	others
+757	others
+758	others
+759	functional needs repair
+760	others
+761	functional needs repair
+762	functional needs repair
+763	others
+764	others
+765	functional needs repair
+766	functional needs repair
+767	functional needs repair
+768	functional needs repair
+769	functional needs repair
+770	functional needs repair
+771	others
+772	functional needs repair
+773	functional needs repair
+774	functional needs repair
+775	others
+776	functional needs repair
+777	functional needs repair
+778	functional needs repair
+779	functional needs repair
+780	functional needs repair
+781	others
+782	others
+783	others
+784	functional needs repair
+785	others
+786	others
+787	functional needs repair
+788	functional needs repair
+789	others
+790	functional needs repair
+791	others
+792	functional needs repair
+793	functional needs repair
+794	others
+795	functional needs repair
+796	functional needs repair
+797	others
+798	functional needs repair
+799	functional needs repair
+800	others
+801	others
+802	functional needs repair
+803	others
+804	functional needs repair
+805	functional needs repair
+806	others
+807	functional needs repair
+808	functional needs repair
+809	functional needs repair
+810	functional needs repair
+811	others
+812	others
+813	others
+814	functional needs repair
+815	others
+816	others
+817	others
+818	functional needs repair
+819	functional needs repair
+820	others
+821	others
+822	others
+823	others
+824	others
+825	functional needs repair
+826	functional needs repair
+827	functional needs repair
+828	others
+829	others
+830	others
+831	functional needs repair
+832	others
+833	others
+834	others
+835	functional needs repair
+836	functional needs repair
+837	others
+838	others
+839	others
+840	functional needs repair
+841	functional needs repair
+842	functional needs repair
+843	others
+844	functional needs repair
+845	functional needs repair
+846	others
+847	functional needs repair
+848	functional needs repair
+849	functional needs repair
+850	functional needs repair
+851	others
+852	functional needs repair
+853	others
+854	others
+855	others
+856	others
+857	others
+858	functional needs repair
+859	others
+860	functional needs repair
+861	others
+862	others
+863	functional needs repair
+864	others
+865	others
+866	functional needs repair
+867	others
+868	others
+869	functional needs repair
+870	others
+871	functional needs repair
+872	functional needs repair
+873	others
+874	functional needs repair
+875	others
+876	others
+877	others
+878	others
+879	functional needs repair
+880	others
+881	functional needs repair
+882	functional needs repair
+883	others
+884	functional needs repair
+885	others
+886	functional needs repair
+887	others
+888	others
+889	functional needs repair
+890	functional needs repair
+891	others
+892	others
+893	functional needs repair
+894	others
+895	functional needs repair
+896	functional needs repair
+897	others
+898	functional needs repair
+899	functional needs repair
+900	functional needs repair
+901	others
+902	functional needs repair
+903	functional needs repair
+904	functional needs repair
+905	others
+906	functional needs repair
+907	others
+908	others
+909	others
+910	functional needs repair
+911	others
+912	functional needs repair
+913	functional needs repair
+914	others
+915	others
+916	functional needs repair
+917	others
+918	others
+919	functional needs repair
+920	functional needs repair
+921	others
+922	functional needs repair
+923	others
+924	others
+925	functional needs repair
+926	functional needs repair
+927	functional needs repair
+928	others
+929	functional needs repair
+930	others
+931	others
+932	others
+933	functional needs repair
+934	others
+935	functional needs repair
+936	functional needs repair
+937	others
+938	functional needs repair
+939	functional needs repair
+940	functional needs repair
+941	functional needs repair
+942	others
+943	others
+944	functional needs repair
+945	functional needs repair
+946	functional needs repair
+947	others
+948	others
+949	functional needs repair
+950	functional needs repair
+951	functional needs repair
+952	functional needs repair
+953	functional needs repair
+954	others
+955	others
+956	functional needs repair
+957	others
+958	functional needs repair
+959	others
+960	functional needs repair
+961	functional needs repair
+962	functional needs repair
+963	others
+964	others
+965	functional needs repair
+966	others
+967	functional needs repair
+968	functional needs repair
+969	functional needs repair
+970	others
+971	functional needs repair
+972	functional needs repair
+973	functional needs repair
+974	others
+975	others
+976	functional needs repair
+977	functional needs repair
+978	functional needs repair
+979	others
+980	functional needs repair
+981	others
+982	others
+983	others
+984	functional needs repair
+985	functional needs repair
+986	functional needs repair
+987	functional needs repair
+988	others
+989	others
+990	others
+991	functional needs repair
+992	others
+993	functional needs repair
+994	functional needs repair
+995	functional needs repair
+996	functional needs repair
+997	others
+998	functional needs repair
+999	functional needs repair
+1000	others
+1001	others
+1002	functional needs repair
+1003	functional needs repair
+1004	functional needs repair
+1005	functional needs repair
+1006	functional needs repair
+1007	functional needs repair
+1008	functional needs repair
+1009	others
+1010	others
+1011	others
+1012	others
+1013	others
+1014	functional needs repair
+1015	others
+1016	others
+1017	functional needs repair
+1018	functional needs repair
+1019	functional needs repair
+1020	functional needs repair
+1021	functional needs repair
+1022	functional needs repair
+1023	others
+1024	functional needs repair
+1025	functional needs repair
+1026	functional needs repair
+1027	others
+1028	others
+1029	others
+1030	functional needs repair
+1031	functional needs repair
+1032	functional needs repair
+1033	others
+1034	others
+1035	others
+1036	functional needs repair
+1037	functional needs repair
+1038	others
+1039	others
+1040	others
+1041	others
+1042	others
+1043	others
+1044	functional needs repair
+1045	functional needs repair
+1046	others
+1047	others
+1048	functional needs repair
+1049	functional needs repair
+1050	functional needs repair
+1051	functional needs repair
+1052	others
+1053	functional needs repair
+1054	others
+1055	others
+1056	others
+1057	functional needs repair
+1058	others
+1059	functional needs repair
+1060	functional needs repair
+1061	others
+1062	functional needs repair
+1063	others
+1064	others
+1065	others
+1066	functional needs repair
+1067	functional needs repair
+1068	functional needs repair
+1069	functional needs repair
+1070	functional needs repair
+1071	functional needs repair
+1072	functional needs repair
+1073	others
+1074	others
+1075	others
+1076	functional needs repair
+1077	functional needs repair
+1078	others
+1079	others
+1080	others
+1081	others
+1082	functional needs repair
+1083	others
+1084	functional needs repair
+1085	others
+1086	functional needs repair
+1087	others
+1088	functional needs repair
+1089	functional needs repair
+1090	functional needs repair
+1091	others
+1092	functional needs repair
+1093	others
+1094	functional needs repair
+1095	functional needs repair
+1096	others
+1097	functional needs repair
+1098	others
+1099	functional needs repair
+1100	others
+1101	others
+1102	others
+1103	functional needs repair
+1104	others
+1105	functional needs repair
+1106	functional needs repair
+1107	functional needs repair
+1108	functional needs repair
+1109	others
+1110	others
+1111	others
+1112	functional needs repair
+1113	functional needs repair
+1114	functional needs repair
+1115	others
+1116	others
+1117	others
+1118	others
+1119	functional needs repair
+1120	functional needs repair
+1121	functional needs repair
+1122	functional needs repair
+1123	others
+1124	others
+1125	functional needs repair
+1126	functional needs repair
+1127	others
+1128	functional needs repair
+1129	functional needs repair
+1130	others
+1131	functional needs repair
+1132	others
+1133	functional needs repair
+1134	functional needs repair
+1135	functional needs repair
+1136	others
+1137	others
+1138	others
+1139	others
+1140	others
+1141	functional needs repair
+1142	functional needs repair
+1143	functional needs repair
+1144	others
+1145	others
+1146	functional needs repair
+1147	others
+1148	others
+1149	functional needs repair
+1150	others
+1151	functional needs repair
+1152	others
+1153	functional needs repair
+1154	others
+1155	others
+1156	functional needs repair
+1157	others
+1158	others
+1159	functional needs repair
+1160	functional needs repair
+1161	others
+1162	others
+1163	others
+1164	functional needs repair
+1165	others
+1166	others
+1167	functional needs repair
+1168	functional needs repair
+1169	functional needs repair
+1170	others
+1171	others
+1172	others
+1173	others
+1174	others
+1175	others
+1176	others
+1177	functional needs repair
+1178	functional needs repair
+1179	functional needs repair
+1180	others
+1181	others
+1182	others
+1183	others
+1184	others
+1185	functional needs repair
+1186	others
+1187	functional needs repair
+1188	functional needs repair
+1189	functional needs repair
+1190	functional needs repair
+1191	functional needs repair
+1192	functional needs repair
+1193	others
+1194	functional needs repair
+1195	functional needs repair
+1196	others
+1197	functional needs repair
+1198	functional needs repair
+1199	others
+1200	functional needs repair
+1201	functional needs repair
+1202	others
+1203	functional needs repair
+1204	functional needs repair
+1205	functional needs repair
+1206	functional needs repair
+1207	others
+1208	functional needs repair
+1209	others
+1210	functional needs repair
+1211	functional needs repair
+1212	functional needs repair
+1213	others
+1214	functional needs repair
+1215	others
+1216	functional needs repair
+1217	others
+1218	others
+1219	functional needs repair
+1220	others
+1221	others
+1222	functional needs repair
+1223	others
+1224	others
+1225	others
+1226	others
+1227	functional needs repair
+1228	others
+1229	others
+1230	functional needs repair
+1231	others
+1232	others
+1233	others
+1234	others
+1235	others
+1236	others
+1237	others
+1238	functional needs repair
+1239	others
+1240	functional needs repair
+1241	others
+1242	others
+1243	functional needs repair
+1244	functional needs repair
+1245	others
+1246	functional needs repair
+1247	functional needs repair
+1248	others
+1249	others
+1250	functional needs repair
+1251	functional needs repair
+1252	functional needs repair
+1253	others
+1254	functional needs repair
+1255	functional needs repair
+1256	functional needs repair
+1257	functional needs repair
+1258	functional needs repair
+1259	functional needs repair
+1260	functional needs repair
+1261	functional needs repair
+1262	others
+1263	functional needs repair
+1264	functional needs repair
+1265	functional needs repair
+1266	others
+1267	functional needs repair
+1268	others
+1269	functional needs repair
+1270	others
+1271	functional needs repair
+1272	functional needs repair
+1273	functional needs repair
+1274	functional needs repair
+1275	functional needs repair
+1276	functional needs repair
+1277	functional needs repair
+1278	functional needs repair
+1279	others
+1280	functional needs repair
+1281	functional needs repair
+1282	others
+1283	others
+1284	others
+1285	functional needs repair
+1286	others
+1287	others
+1288	functional needs repair
+1289	functional needs repair
+1290	functional needs repair
+1291	functional needs repair
+1292	others
+1293	functional needs repair
+1294	functional needs repair
+1295	others
+1296	others
+1297	others
+1298	others
+1299	functional needs repair
+1300	others
+1301	functional needs repair
+1302	others
+1303	functional needs repair
+1304	functional needs repair
+1305	others
+1306	functional needs repair
+1307	functional needs repair
+1308	functional needs repair
+1309	functional needs repair
+1310	others
+1311	functional needs repair
+1312	others
+1313	others
+1314	functional needs repair
+1315	functional needs repair
+1316	others
+1317	functional needs repair
+1318	functional needs repair
+1319	functional needs repair
+1320	others
+1321	others
+1322	others
+1323	others
+1324	others
+1325	functional needs repair
+1326	functional needs repair
+1327	functional needs repair
+1328	functional needs repair
+1329	others
+1330	functional needs repair
+1331	others
+1332	others
+1333	functional needs repair
+1334	others
+1335	functional needs repair
+1336	others
+1337	others
+1338	others
+1339	others
+1340	functional needs repair
+1341	others
+1342	functional needs repair
+1343	functional needs repair
+1344	others
+1345	others
+1346	functional needs repair
+1347	others
+1348	others
+1349	others
+1350	functional needs repair
+1351	functional needs repair
+1352	functional needs repair
+1353	others
+1354	others
+1355	others
+1356	functional needs repair
+1357	functional needs repair
+1358	functional needs repair
+1359	others
+1360	others
+1361	others
+1362	functional needs repair
+1363	others
+1364	others
+1365	others
+1366	others
+1367	functional needs repair
+1368	functional needs repair
+1369	others
+1370	others
+1371	functional needs repair
+1372	others
+1373	functional needs repair
+1374	functional needs repair
+1375	functional needs repair
+1376	others
+1377	functional needs repair
+1378	others
+1379	others
+1380	others
+1381	functional needs repair
+1382	others
+1383	functional needs repair
+1384	others
+1385	others
+1386	functional needs repair
+1387	functional needs repair
+1388	functional needs repair
+1389	functional needs repair
+1390	others
+1391	functional needs repair
+1392	others
+1393	functional needs repair
+1394	functional needs repair
+1395	functional needs repair
+1396	functional needs repair
+1397	functional needs repair
+1398	others
+1399	others
+1400	functional needs repair
+1401	functional needs repair
+1402	functional needs repair
+1403	others
+1404	others
+1405	others
+1406	others
+1407	others
+1408	functional needs repair
+1409	functional needs repair
+1410	functional needs repair
+1411	functional needs repair
+1412	others
+1413	functional needs repair
+1414	others
+1415	functional needs repair
+1416	others
+1417	functional needs repair
+1418	functional needs repair
+1419	others
+1420	others
+1421	functional needs repair
+1422	functional needs repair
+1423	others
+1424	others
+1425	others
+1426	functional needs repair
+1427	others
+1428	others
+1429	functional needs repair
+1430	functional needs repair
+1431	functional needs repair
+1432	others
+1433	others
+1434	functional needs repair
+1435	functional needs repair
+1436	functional needs repair
+1437	others
+1438	others
+1439	others
+1440	others
+1441	functional needs repair
+1442	others
+1443	functional needs repair
+1444	functional needs repair
+1445	others
+1446	functional needs repair
+1447	others
+1448	others
+1449	functional needs repair
+1450	others
+1451	functional needs repair
+1452	functional needs repair
+1453	functional needs repair
+1454	others
+1455	functional needs repair
+1456	others
+1457	functional needs repair
+1458	others
+1459	others
+1460	others
+1461	functional needs repair
+1462	others
+1463	others
+1464	functional needs repair
+1465	others
+1466	functional needs repair
+1467	functional needs repair
+1468	others
+1469	functional needs repair
+1470	others
+1471	functional needs repair
+1472	functional needs repair
+1473	others
+1474	others
+1475	functional needs repair
+1476	functional needs repair
+1477	others
+1478	functional needs repair
+1479	others
+1480	others
+1481	others
+1482	functional needs repair
+1483	others
+1484	functional needs repair
+1485	functional needs repair
+1486	functional needs repair
+1487	others
+1488	functional needs repair
+1489	others
+1490	functional needs repair
+1491	others
+1492	others
+1493	others
+1494	others
+1495	functional needs repair
+1496	functional needs repair
+1497	others
+1498	others
+1499	functional needs repair
+1500	functional needs repair
+1501	others
+1502	others
+1503	others
+1504	others
+1505	others
+1506	functional needs repair
+1507	functional needs repair
+1508	others
+1509	functional needs repair
+1510	others
+1511	others
+1512	functional needs repair
+1513	functional needs repair
+1514	functional needs repair
+1515	functional needs repair
+1516	functional needs repair
+1517	functional needs repair
+1518	functional needs repair
+1519	functional needs repair
+1520	functional needs repair
+1521	functional needs repair
+1522	functional needs repair
+1523	functional needs repair
+1524	others
+1525	functional needs repair
+1526	functional needs repair
+1527	functional needs repair
+1528	others
+1529	others
+1530	others
+1531	others
+1532	functional needs repair
+1533	others
+1534	others
+1535	functional needs repair
+1536	functional needs repair
+1537	functional needs repair
+1538	others
+1539	others
+1540	others
+1541	functional needs repair
+1542	others
+1543	functional needs repair
+1544	functional needs repair
+1545	others
+1546	others
+1547	others
+1548	others
+1549	functional needs repair
+1550	functional needs repair
+1551	functional needs repair
+1552	others
+1553	others
+1554	others
+1555	functional needs repair
+1556	functional needs repair
+1557	others
+1558	others
+1559	functional needs repair
+1560	functional needs repair
+1561	others
+1562	others
+1563	functional needs repair
+1564	others
+1565	others
+1566	functional needs repair
+1567	others
+1568	functional needs repair
+1569	functional needs repair
+1570	functional needs repair
+1571	functional needs repair
+1572	others
+1573	functional needs repair
+1574	functional needs repair
+1575	others
+1576	functional needs repair
+1577	others
+1578	functional needs repair
+1579	functional needs repair
+1580	others
+1581	others
+1582	functional needs repair
+1583	others
+1584	others
+1585	functional needs repair
+1586	functional needs repair
+1587	others
+1588	others
+1589	functional needs repair
+1590	functional needs repair
+1591	others
+1592	functional needs repair
+1593	others
+1594	functional needs repair
+1595	functional needs repair
+1596	functional needs repair
+1597	others
+1598	others
+1599	functional needs repair
+1600	functional needs repair
+1601	functional needs repair
+1602	functional needs repair
+1603	functional needs repair
+1604	functional needs repair
+1605	functional needs repair
+1606	functional needs repair
+1607	others
+1608	functional needs repair
+1609	functional needs repair
+1610	others
+1611	functional needs repair
+1612	functional needs repair
+1613	functional needs repair
+1614	functional needs repair
+1615	functional needs repair
+1616	functional needs repair
+1617	others
+1618	functional needs repair
+1619	functional needs repair
+1620	others
+1621	functional needs repair
+1622	others
+1623	others
+1624	functional needs repair
+1625	functional needs repair
+1626	others
+1627	others
+1628	functional needs repair
+1629	others
+1630	functional needs repair
+1631	functional needs repair
+1632	functional needs repair
+1633	others
+1634	functional needs repair
+1635	functional needs repair
+1636	functional needs repair
+1637	others
+1638	functional needs repair
+1639	others
+1640	functional needs repair
+1641	others
+1642	others
+1643	others
+1644	functional needs repair
+1645	others
+1646	others
+1647	functional needs repair
+1648	others
+1649	functional needs repair
+1650	functional needs repair
+1651	functional needs repair
+1652	others
+1653	functional needs repair
+1654	others
+1655	functional needs repair
+1656	functional needs repair
+1657	others
+1658	functional needs repair
+1659	others
+1660	functional needs repair
+1661	functional needs repair
+1662	others
+1663	functional needs repair
+1664	functional needs repair
+1665	functional needs repair
+1666	functional needs repair
+1667	others
+1668	functional needs repair
+1669	functional needs repair
+1670	functional needs repair
+1671	others
+1672	functional needs repair
+1673	functional needs repair
+1674	others
+1675	functional needs repair
+1676	others
+1677	functional needs repair
+1678	functional needs repair
+1679	functional needs repair
+1680	functional needs repair
+1681	others
+1682	others
+1683	others
+1684	others
+1685	functional needs repair
+1686	others
+1687	functional needs repair
+1688	others
+1689	others
+1690	others
+1691	others
+1692	others
+1693	functional needs repair
+1694	functional needs repair
+1695	others
+1696	others
+1697	functional needs repair
+1698	functional needs repair
+1699	others
+1700	others
+1701	others
+1702	others
+1703	functional needs repair
+1704	functional needs repair
+1705	others
+1706	others
+1707	functional needs repair
+1708	functional needs repair
+1709	functional needs repair
+1710	functional needs repair
+1711	others
+1712	others
+1713	others
+1714	functional needs repair
+1715	others
+1716	others
+1717	others
+1718	functional needs repair
+1719	others
+1720	others
+1721	functional needs repair
+1722	functional needs repair
+1723	functional needs repair
+1724	others
+1725	others
+1726	functional needs repair
